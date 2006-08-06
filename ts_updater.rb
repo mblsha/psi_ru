@@ -51,7 +51,9 @@ end
 class TS
   attr_accessor :contexts
 
-  def initialize(root)
+  def initialize(file_name)
+    doc = REXML::Document.new(File.new(file_name))
+    root = doc.elements[1]
     @contexts = Array.new
 
     root.elements.each("context") do |context|
@@ -76,10 +78,16 @@ public
   def self.parse(args)
     options = OpenStruct.new
     options.output = ?-
+    options.patch_with = nil
     
     opts = OptionParser.new do |opts|
       opts.banner += " <ts-file>"
       
+      opts.on("-p", "--patch-with FILE",
+              "Replace as much messages as possible from FILE") do |file|
+        options.patch_with = file
+      end
+
       opts.on("-o", "--output FILE",
               "File to write the output to") do |file|
         options.output = file
@@ -113,8 +121,22 @@ public
   end
   
   def go
-    doc = REXML::Document.new(File.new(@options.files.first))
-    ts = TS.new(doc.elements[1])
+    ts = TS.new(@options.files.first)
+
+    if @options.patch_with
+      patch = TS.new(@options.patch_with)
+      patch.contexts.each do |context|
+        ts_context = ts.contexts.find { |c| c.name == context.name }
+        next if ts_context.nil?
+        
+        context.messages.each do |message|
+          ts_message = ts_context.messages.find { |c| c.source == message.source }
+          next if ts_message.nil?
+          
+          ts_message.translation = message.translation
+        end
+      end
+    end
 
     rio(@options.output) < ts.to_s
   end
