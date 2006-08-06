@@ -133,7 +133,7 @@ public
           ts_message = ts_context.messages.find { |c| c.source == message.source }
           next if ts_message.nil?
           
-          ts_message.translation = message.translation
+          ts_message.translation = message.translation if message.translation.not_nil?
         end
       end
     end
