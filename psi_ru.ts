@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>&lt;h3&gt;&lt;b&gt;%1 v%2&lt;/b&gt;&lt;/h3&gt;</source>
-        <translation>&lt;h3&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/h3&gt;</translation>
+        <translation>&lt;h3&gt;&lt;b&gt;%1 v%2&lt;/b&gt;&lt;/h3&gt;</translation>
     </message>
     <message>
         <source>About</source>
@@ -50,11 +50,11 @@
     </message>
     <message>
         <source>Widget developer, GUI design and some core things</source>
-        <translation type="obsolete">Разработчик графических элементов, пользовательского интерфейса и кое-каких внутренних деталей</translation>
+        <translation type="obsolete">Разработчик элементов интерфейса пользователя и проч.</translation>
     </message>
     <message>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>Многие иконки взяты из его темы Crystal</translation>
+        <translation>Многие иконки взяты из его темы &quot;Crystal&quot;</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -62,11 +62,11 @@
     </message>
     <message>
         <source>MacOS X Port</source>
-        <translation type="obsolete">Версия для MacOS X</translation>
+        <translation type="obsolete">Перенос программы на MacOS X</translation>
     </message>
     <message>
         <source>Miscellaneous developer</source>
-        <translation type="obsolete">Также участвовал в разработке</translation>
+        <translation type="obsolete">Программирование разных задач</translation>
     </message>
     <message>
         <source>End User Documentation</source>
@@ -74,11 +74,11 @@
     </message>
     <message>
         <source>Build setup, miscellaneous assistance</source>
-        <translation>Инсталлятор, поддержка</translation>
+        <translation>Настройка компиляции, различная помощь</translation>
     </message>
     <message>
         <source>Original Mac Port</source>
-        <translation>Первоначальная версия для MacOS</translation>
+        <translation>Оригинальный перенос программы на &quot;Маки&quot;</translation>
     </message>
     <message>
         <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
@@ -93,13 +93,32 @@
 Join the translation team today! Go to &lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; for further details!
 </source>
         <comment>This page is a special place for translators, to write some info about them. Write information about your translation team, some hints are in &lt;note&gt; tags to help you. Keep up the good work :-).</comment>
-        <translation type="unfinished">Алексей Репринцев 
-&lt;a href=&quot;mailto:sey@hotbox.ru&quot;&gt;sey@hotbox.ru&lt;/a&gt;,
-&lt;br&gt;Олег Мотиенко 
-&lt;a href=&quot;mailto:motienko@gmail.com&quot;&gt;motienko@gmail.com&lt;/a&gt;&lt;br&gt;Дополнение перевода для Psi 0.10&lt;br&gt;&lt;br&gt;
-Дмитрий Степаненко&lt;br&gt;
-&lt;a href=&quot;mailto:mpolk@kt-privat.donetsk.ua&quot;&gt;mpolk@kt-privat.donetsk.ua&lt;/a&gt;&lt;br&gt;
-Присоединяйтесь к делу перевода Psi! Детали здесь: &lt;a href=&quot;http://forum.psi-im.org/forum/3&quot;&gt;http://forum.psi-im.org/forum/3&lt;/a&gt;!</translation>
+        <translation type="unfinished">Михаил Якшин&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:greycat@altlinux.org&quot;&gt;greycat@altlinux.org&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода до версии 0.9.3 + CVS.&lt;br&gt;
+&lt;br&gt;
+
+Михаил Пищагин&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Переводчик. Дополнение перевода до версии 0.9.&lt;br&gt;
+&lt;br&gt;
+
+Алексей Нежданов&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:snake@penza-gsm.ru&quot;&gt;snake@penza-gsm.ru&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Оказал огромную помощь в исправлении ошибок в переводе, а также давал различные дополнения и советы.&lt;br&gt;
+&lt;br&gt;
+
+Валентина Ванеева (ALT Linux Team)&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода до версии 0.8.7.&lt;br&gt;
+&lt;br&gt;
+
+Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Оригинальный перевод Psi 0.8.6 и более ранних версий.&lt;br&gt;
+&lt;br&gt;
+
+Присоединяйся к команде перевода! Подробности на &lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt;!</translation>
     </message>
     <message>
         <source>&lt;h3&gt;*** Warning! ***&lt;/h3&gt;
@@ -110,15 +129,14 @@ One day it will be finished. Until then, don&apos;t count on every Jabber featur
 Note: quite a few options/features appear &quot;grayed out&quot;. They indicate planned features that are not in the program yet.
 &lt;br&gt;&lt;br&gt;
 Now that this is out of the way, enjoy Psi!</source>
-        <translation type="obsolete">&lt;h3&gt; *** Внимание! *** &lt;/h3&gt;
-Разработка данного программного продукта еще не закончена. Он выпущен, чтобы заинтересованные пользователи могли попробовать его в деле и, возможно, поучаствовать в разработке. Он не гарантирован от ошибок, хотя немалое количество людей прилагало все усилия, чтобы сделать его как можно стабильнее.
+        <translation type="obsolete">&lt;h3&gt;*** Предупреждение! ***&lt;/h3&gt;
+Эта программа ещё не дописана до конца. Она была выпущена для того, чтобы заинтересованные пользователи смогли её опробовать и, возможно, помочь в её дальнейшей разработке. Нет никакой гарантии, что эта программа не содержит ошибок, однако сейчас она производит впечатление стабильной.
 &lt;br&gt;&lt;br&gt;
-Настанет день, когда разработка Psi будет закончена. Но до тех пор не следует ожидать, что все поддерживаемые Jabber-ом возможности будут работать. Если вы хотите сделать Psi лучше, можете предложить свои услуги в нашем форуме.
+Когда-нибудь она будет дописана. Пока же не следует рассчитывать на поддержку всех функций Jabber. Если вы хотите помочь улучшить Psi, предложите свои услуги на нашем форуме или в списке рассылки.
 &lt;br&gt;&lt;br&gt;
-Примечание: кнопочки, соотоветствующие некоторым (уже немногим) возможностям выделены серым. Они индицируют возможности, запланированные на будущее, но еще не реализованные.
+Замечание: некоторые настройки и функции ещё недоступны (закрашены в серый цвет). Это означает, что они пока не реализованы, но появятся в следующих версиях.
 &lt;br&gt;&lt;br&gt;
-Ну а пока - все это в сторону, используйте Psi и получайте удовольствие!
-</translation>
+Теперь, когда вы знаете всё это, пользуйтесь Psi и наслаждайтесь!</translation>
     </message>
     <message>
         <source>psi/psi48</source>
@@ -129,25 +147,25 @@ Now that this is out of the way, enjoy Psi!</source>
 &lt;br&gt;
 Copyright (C) 2001 - 2004 by Justin Karneges&lt;br&gt;
 </source>
-        <translation type="obsolete">Мультиплатформенный Jabber-клиент для опытных пользователей&lt;br&gt;
+        <translation type="obsolete">Кросс-платформенный Jabber клиент для опытного пользователя.&lt;br&gt;
 &lt;br&gt;
 Copyright (C) 2001 - 2004 by Justin Karneges&lt;br&gt;</translation>
     </message>
     <message>
         <source>Bug Tracker Management</source>
-        <translation>Управление системой отслеживания ошибок</translation>
+        <translation>Багтрекинг</translation>
     </message>
     <message>
         <source>Patches</source>
-        <translation>Заплатки</translation>
+        <translation>Патчи</translation>
     </message>
     <message>
         <source>Founder and Original Author</source>
-        <translation>Основатель и автор первоначального варианта</translation>
+        <translation>Основатель и первый автор</translation>
     </message>
     <message>
         <source>Project Lead/Maintainer</source>
-        <translation>Руководитель проекта</translation>
+        <translation>Лидер проекта / мейнтейнер</translation>
     </message>
     <message>
         <source>Lead Developer</source>
@@ -159,22 +177,22 @@ Copyright (C) 2001 - 2004 by Justin Karneges&lt;br&gt;</translation>
     </message>
     <message>
         <source>Original End User Documentation</source>
-        <translation>Пользовательская документация</translation>
+        <translation>Документация для конечного пользователя</translation>
     </message>
     <message>
         <source>Webmaster, Marketing</source>
-        <translation>Web-мастер, маркетинг</translation>
+        <translation>Веб-мастер и маркетинг</translation>
     </message>
     <message>
         <source>Patches, current Mac OS X builds</source>
-        <translation type="obsolete">Исправления, версия для Mac OS X</translation>
+        <translation type="obsolete">Патчи, сборки для Mac OS X</translation>
     </message>
     <message>
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
 Copyright (C) 2001 - 2005 by Justin Karneges&lt;br&gt;
 </source>
-        <translation>Мультиплатформенный Jabber-клиент для опытных пользователей&lt;br&gt;
+        <translation>Кросс-платформенный Jabber клиент для опытного пользователя.&lt;br&gt;
 &lt;br&gt;
 Copyright (C) 2001 - 2005 by Justin Karneges&lt;br&gt;</translation>
     </message>
@@ -199,7 +217,7 @@ Copyright (C) 2001 - 2005 by Justin Karneges&lt;br&gt;</translation>
     <name>AccountAddDlg</name>
     <message>
         <source>Check this option if you don&apos;t yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished">Выберите этот вариант, если у вас еще нет учетной записи на Jabber-сервере, и вы хотите ее создать. Имейте в виду, что это возможно только на серверах, где разрешена анонимная регистрация.</translation>
+        <translation type="unfinished">Отметьте эту опцию, только если у вас нет учетной записи Jabber и вам её нужно получить. Имейте ввиду, что регистрация новых пользователей должна быть разрешена на сервере, иначе попытка будет неудачной.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -212,17 +230,17 @@ Copyright (C) 2001 - 2005 by Justin Karneges&lt;br&gt;</translation>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;Выберите подходящее &lt;b&gt;название&lt;/b&gt; для данной учетной записи. &lt;br&gt;
+        <translation>&lt;qt&gt;Пожалуйста, выберите удобное &lt;b&gt;имя&lt;/b&gt;, которое будет использоваться программой в дальнейшем при ссылке на эту учетную запись.
 &lt;br&gt;
-Выберите вариант &lt;b&gt;Создать новую учетную запись&lt;/b&gt;, если Вы хотите, чтобы Psi создал новую учетную запись на Jabber-сервере. Если Вы добавляете существующую учетную запись Jabber&apos;а, не отмечайте этот флажок. </translation>
+Поставьте галочку напротив &lt;b&gt;Зарегистрировать новую учетную запись&lt;/b&gt;, если Вы хотите создать новую учетную запись на сервере. Если вы добавляете уже существующую учетную запись, не ставьте ее.</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Название:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Register new account</source>
-        <translation>Создать новую учетную запись</translation>
+        <translation>Зарегистрировать новую учетную запись</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -234,11 +252,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Add Account</source>
-        <translation>Добавить новую учетную запись</translation>
+        <translation>Добавить учетную запись</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -253,23 +271,23 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Unable to remove the account, as it is currently active.</source>
-        <translation>Невозможно удалить активную учетную запись.</translation>
+        <translation>Невозможно удалить учетную запись, так как в данный момент она активна.</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation>Активная</translation>
+        <translation>Активна</translation>
     </message>
     <message>
         <source>Not active</source>
-        <translation>Неактивная</translation>
+        <translation>Не активна</translation>
     </message>
     <message>
         <source>Unable to disable the account, as it is currently active.</source>
-        <translation type="obsolete">Не могу запретить учетную запись, так как она в данный момент активна.</translation>
+        <translation type="obsolete">Невозможно отключить учетную запись, так как в данный момент она активна.</translation>
     </message>
     <message>
         <source>Unable to disable the account, as it has pending events.</source>
-        <translation type="obsolete">Не могу запретить учетную запись, так как для нее есть неотвеченные запросы.</translation>
+        <translation type="obsolete">Невозможно отключить учетную запись, так как есть непросмотренные события.</translation>
     </message>
     <message>
         <source>Disable Account</source>
@@ -278,14 +296,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>The account is currently active.
 Do you want to log out ?</source>
-        <translation type="obsolete">Учетная запись в данный момент активна. Вы желаете отключиться?</translation>
+        <translation type="obsolete">Эта учетная запись сейчас используется.
+Вы хотите отключиться?</translation>
     </message>
 </context>
 <context>
     <name>AccountManageUI</name>
     <message>
         <source>Name</source>
-        <translation>Название</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Server</source>
@@ -293,7 +312,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -313,7 +332,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Jabber Accounts</source>
-        <translation>Учетные записи</translation>
+        <translation>Учетные записи Jabber</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -325,7 +344,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation></translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -336,7 +355,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>You must specify a name for the account before you may save it.</source>
-        <translation>Вы должны ввести название учетной записи, прежде чем ее сохранять.</translation>
+        <translation>Перед тем, как сохранить информацию об учетной записи, Вам следует дать ей имя.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -344,65 +363,63 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>Ошибка SSL/TLS</translation>
+        <translation>Ошибка SSL</translation>
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation>Обычно Psi для подключения к серверу использует метод передачи пароля в виде &lt;b&gt;дайджеста&lt;/b&gt;. Пометьте этот пункт, если вы хотите использовать передачу пароля открытым текстом. Используйте этот вариант только если вы не можете подключиться к серверу обычным способом, так как передача пароля открытым текстом в принципе позволяет перехватить его.</translation>
+        <translation>Обычно Psi регистрируется в сети, используя режим аутентификации, при котором пароль не передается в открытом виде. Отметьте эту опцию, если хотите использовать базовую аутентификацию (пароль передается в открытом виде). Рекомендуется делать это только тогда, когда у вас возникают проблемы с обычной процедурой регистрации в сети, так как теоретически этот способ делает соединение уязвимым.</translation>
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation type="unfinished">Автоматически подключаться к серверу, используя данную учетную запись при старте Psi. Этот вариант удобен, если Psi автоматически запускается при подключении к Интернету.</translation>
+        <translation type="unfinished">Автоматически регистрироваться в сети при запуске, используя эту учетную запись. Полезно, если Psi запускается самостоятельно при обнаружении соединения с Интернетом.</translation>
     </message>
     <message>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
-        <translation>Автоматически восстанавливать разорванное соединение. Полезно, если ваше соединение с сервером нестабильно и часто рвется.</translation>
+        <translation>Восстанавливать соединение при его разрыве. Полезно, когда соединение нестабильно и вам часто приходится подключаться снова.</translation>
     </message>
     <message>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
-        <translation>Сохранять историю сообщений. Отключите эту возможность, если Вы хотите сэкономить место на диске или всерьез озабочены секретностью вашей переписки.</translation>
+        <translation>Хранить историю сообщений. Не отмечайте эту опцию, если хотите сохранить свободное место на жёстком диске или если хотите обеспечить наибольшую безопасность.</translation>
     </message>
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>Периодически посылать &quot;Keep-alive&quot; пакеты. Полезно, если соединение автоматически разрывается после определенного периода бездействия (например, провайдером или прокси-сервером), а Вы хотите, чтобы этого не происходило.</translation>
+        <translation>Периодически отправлять пакеты для поддержания соединения. Полезно, если ваше соединение автоматически разрывается после определенного периода бездействия (например, вашим поставщиком услуг Интернета), а вы этого не хотите.</translation>
     </message>
     <message>
         <source>Ignores all the SSL warnings, for example, about incorrect certificates.  Useful if your server doesn&apos;t use a validated SSL certificate and you are annoyed with warnings.</source>
-        <translation type="unfinished">Игнорирует предупреждения SSL/TLS, например, о некорректных сертификатах. Полезно, если Ваш сервер не имеет подписанного по всей форме сертификата, и Вам надоело смотреть на постоянные предупреждения по этому поводу.</translation>
+        <translation type="unfinished">Пропускать все предупреждения SSL, например, о недействительных сертификатах. Полезно, если ваш сервер использует сертификат, чья достоверность не проверена, а предупреждения об этом Вам надоели.</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the Jabber server.  You may use this option if your server supports it and if you have the necessary QSSL plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>Выберите эту возможность, если вы хотите использовать шифрованное соединение с Jabber-сервером. Необходимо, чтобы сервер поддерживал шифрованные соединения и был установлен необходимый модуль расширения к Psi (QSSL). Дополнительную информацию можно найти на домашней web-странице Psi.</translation>
+        <translation>Отметьте эту опцию, чтобы использовать защищенное соединение с сервером Jabber. Рекомендуется, только если ваш сервер поддерживает такой тип соединения и у вас установлен специальный модуль QSSL. Более подробная информация доступна на домашней странице Psi.</translation>
     </message>
     <message>
         <source>Check this option if you want Psi to remember your Jabber account password. Don&apos;t use this feature if you want maximum security and don&apos;t want to be compromised even if someone would break in your system and steal your configuration files.</source>
-        <translation type="obsolete">Выберите эту возможность, если вы хотите, чтобы Psi запомнил пароль вашей учетной записи. Не пользуйтесь этой возможностью, если вам нужна повышенная безопасность и вы хотите быть уверены, что ваш пароль не попадет в чужие руки, даже если ваша стсьтема будет взломана и конфигурационные файли похищены..</translation>
+        <translation type="obsolete">Отметьте эту опцию, если хотите, чтобы Jabber запомнил пароль вашей учетной записи. Не рекомендуется, если вы хотите обеспечить наибольшую безопасность и не хотите подвергаться риску, даже если кто-нибудь проникнет в вашу систему и украдет файлы настроек.</translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your Jabber host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished">Используется, если адрес сервера, к которому Вы подключаетесь не совпадает с доменной частью вашего JID. 
-
-Выберите этот вариант для ручного конфигурирования в том случае, если Jabber-сервер, на котором Вы зарегистрированы и сервер, через который Вы подключаетесь - это два разных хоста.  Эта возможность полезна, если Вы подключаетесь через локальный прокси-сервер, а зарегистрированы на другом, внешнем сервере.</translation>
+        <translation type="unfinished">Используйте эту опцию для указания имени сервера Jabber вручную, если оно отличается от имени сервера, с которым устанавливается соединение. Это полезно, если на Вашем компьютере запущено что-то вроде прокси-сервера (например, если вы подключаетесь к серверу localhost), а учетная запись зарегистрирована на внешнем сервере.</translation>
     </message>
     <message>
         <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation>У Вас может быть несколько Jabber-клиентов, одновременно подключенных к одному и тому же серверу через одну и ту же учетную запись.  Эти подключения различаются по имени „ресурса“, которое Вы можете указать в этом поле.</translation>
+        <translation>У Вас может быть несколько клиентов, подключенных к серверу Jabber и использующих одну учетную запись. Клиент идентифицируется именем &quot;ресурса&quot;, которое можно указать здесь.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; У Вас может быть несколько Jabber-клиентов, одновременно подключенных к одному и тому же серверу через одну и ту же учетную запись. В этом случае клиент с навысшим приоритетом (который  указывается в данном поле) будет принимать и обрабатывать все входящие оповещения.&lt;/p&gt;&lt;p&gt;Например, если у Вас есть постоянное подключение к Интернеу на работе, и dial-up дома, Вы можете оставить вашего Jabber-клиента постоянно включенным на работе с низким приоритетом, и в то же время использовать ту же учетную запись дома  с более высоким приоритетом, таким образом перехватывая сообщения у клиента с более низким приоритетом.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;У вас может быть несколько клиентов, подключенных к серверу Jabber и использующих одну учетную запись. Сообщения, для которых не указан &quot;ресурс-получатель&quot; будут доставляться ресурсу с наибольшим приоритетом (указываемом здесь).&lt;/p&gt;&lt;p&gt;Например, если у вас постоянное соединение с Интернетом на работе и модемное - дома, вы можете оставлять клиент Jabber на работе постоянно работающим с низким приоритетом. При этом вы сможете пользоваться той же учетной записью при работе дома с помощью клиента с более высоким приоритетом, чтобы временно перехватывать сообщения у клиента, запущенного на рабочем месте.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>SSL not supported.
 Reason:
 %1</source>
-        <translation type="obsolete">SSL не е поддржан.
+        <translation type="obsolete">SSL не поддерживается.
 Причина:
 %1</translation>
     </message>
     <message>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
-        <translation>Учетная запись в данный момент активна. Изменения вступят в силу после следующего подключения.</translation>
+        <translation>Эта учетная запись сейчас активна, поэтому некоторые изменения не вступят в силу, пока Вы не перерегистрируетесь в сети.</translation>
     </message>
     <message>
         <source>Unknown Key: %1</source>
@@ -414,11 +431,11 @@ Reason:
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Секретный ключ</translation>
+        <translation>Тайный Ключ</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Невозможно активизировать SSL/TLS. Плагин не найден.</translation>
+        <translation>Невозможно включить шифрование SSL/TLS.  Плагин не найден.</translation>
     </message>
     <message>
         <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
@@ -433,7 +450,7 @@ Reason:
     </message>
     <message>
         <source>Name:</source>
-        <translation>Название:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Account</source>
@@ -461,11 +478,11 @@ Reason:
     </message>
     <message>
         <source>Proxy</source>
-        <translation>Прокси</translation>
+        <translation>Прокси-сервер</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Детали</translation>
+        <translation>Подробности</translation>
     </message>
     <message>
         <source>Personal Information</source>
@@ -473,11 +490,11 @@ Reason:
     </message>
     <message>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Информация о Вас хранится на сервере в виде так называемой VCard (электронный аналог визитной карточки), и любой пользователь может запросить и получить с сервера эту информацию.&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Информация хранится на сервере в виде визитной карточки VCard, и каждый пользователь может посмотреть её в любой момент.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
-        <translation>&amp;Редактирование личных данных...</translation>
+        <translation>&amp;Изменить личную информацию...</translation>
     </message>
     <message>
         <source>Password</source>
@@ -485,11 +502,11 @@ Reason:
     </message>
     <message>
         <source>&lt;qt&gt;Click the button below to change your password on the server.&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Чтобы изменить ваш пароль на сервере, нажмите на кнопку внизу.&lt;/qt&gt;</translation>
+        <translation type="obsolete">&lt;qt&gt;Нажмите на кнопку ниже, чтобы сменить пароль на сервере.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Change &amp;Password...</source>
-        <translation type="obsolete">&amp;Изменить пароль...</translation>
+        <translation type="obsolete">Сменить &amp;пароль...</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -497,23 +514,23 @@ Reason:
     </message>
     <message>
         <source>Automatically connect on startup</source>
-        <translation>Автоматически подключаться при старте</translation>
+        <translation>Автоматически входить в сеть при запуске</translation>
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
-        <translation>Автоматически восстанавливать разорванное соединение</translation>
+        <translation>Автоматически восстанавливать соединение</translation>
     </message>
     <message>
         <source>Log message history</source>
-        <translation>Вести журнал сообщений</translation>
+        <translation>Вести историю сообщений</translation>
     </message>
     <message>
         <source>Send &quot;Keep-alive&quot; packets (for NAT timeouts)</source>
-        <translation>Посылать &quot;Keep-alive&quot; пакеты (для поддержания в рабочем состоянии NAT-соединений)</translation>
+        <translation>Отправлять пакеты для поддержания соединения (например, при использовании NAT)</translation>
     </message>
     <message>
         <source>Ignore SSL warnings</source>
-        <translation>Игнорировать предупреждения  SSL</translation>
+        <translation>Пропускать предупреждения SSL</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -529,7 +546,7 @@ Reason:
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation></translation>
+        <translation>OpenPGP</translation>
     </message>
     <message>
         <source>placeholder1</source>
@@ -541,15 +558,15 @@ Reason:
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Выберите &amp;ключ...</translation>
+        <translation>Выбрать &amp;ключ...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Не использовать ключ</translation>
+        <translation>Не использовать</translation>
     </message>
     <message>
         <source>Save Passphrase:</source>
-        <translation type="obsolete">Сохранить пароль:</translation>
+        <translation type="obsolete">Сохранить ключевую фразу:</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -565,15 +582,15 @@ Reason:
     </message>
     <message>
         <source>Use Plaintext Login</source>
-        <translation type="obsolete">Користи текстуално логирање</translation>
+        <translation type="obsolete">Отправлять пароль без шифрования</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation>Указать сервер/порт вручную:</translation>
+        <translation>Вручную указать сервер и порт:</translation>
     </message>
     <message>
         <source>Use SSL encryption (to server)</source>
-        <translation>Использовать шифрование SSL (для связи с сервером)</translation>
+        <translation>Использовать шифрование SSL для соединения с сервером</translation>
     </message>
     <message>
         <source>Account Properties</source>
@@ -581,15 +598,15 @@ Reason:
     </message>
     <message>
         <source>Allow Plaintext Login</source>
-        <translation>Разрешить передачу пароля открытым текстом</translation>
+        <translation>Разрешить отправлять пароль без шифрования</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation></translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>Data Transfer Proxy:</source>
-        <translation>Прокси для передачи файлов:</translation>
+        <translation>Прокси для передачи данных:</translation>
     </message>
     <message>
         <source>Example: juliet@capulet.com</source>
@@ -616,7 +633,7 @@ Reason:
     <name>AccountRegDlg</name>
     <message>
         <source>Register Account</source>
-        <translation type="obsolete">Регистрирај пристап</translation>
+        <translation type="obsolete">Регистрация учетной записи</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -624,7 +641,7 @@ Reason:
     </message>
     <message>
         <source>Are you sure you want to cancel the registration?</source>
-        <translation>Вы действительно хотите прервать регистрацию?</translation>
+        <translation>Вы уверены, что хотите прервать регистрацию?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -644,55 +661,55 @@ Reason:
     </message>
     <message>
         <source>You must fill out the fields properly before you can register.</source>
-        <translation>Вы должны правильно заполнить поля, чтобы зарегистрироваться.</translation>
+        <translation>Для регистрации необходимо правильно заполнить поля.</translation>
     </message>
     <message>
         <source>Password and confirmation do not match.  Please enter them again.</source>
-        <translation>Пароль и его подтверждение не совпадают.  Введите их повторно.</translation>
+        <translation>Введённый пароль и его копия не совпадают. Пожалуйста, введите их ещё раз.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Успех</translation>
+        <translation>Регистрация завершена</translation>
     </message>
     <message>
         <source>The account was registered successfully.</source>
-        <translation>Учетная запись успешно зарегистрирована.</translation>
+        <translation>Учетная запись была успешно зарегистрирована.</translation>
     </message>
     <message>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation>Ошибка при регистрации учетной записи.
+        <translation>При регистрации произошла ошибка.
 Причина: %1</translation>
     </message>
     <message>
         <source>SSL not supported.
 Reason:
 %1</source>
-        <translation type="obsolete">SSL не е подржан.
+        <translation type="obsolete">SSL не поддерживается.
 Причина:
 %1</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="obsolete">Игнорирај</translation>
+        <translation type="obsolete">Пропустить</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="obsolete">Исклучи се</translation>
+        <translation type="obsolete">Отсоединиться</translation>
     </message>
     <message>
         <source>There was an error communicating with the Jabber server:
 %1</source>
-        <translation type="obsolete">Имаше грешка во комуницирањето со Jabber серверот:
+        <translation type="obsolete">Во время работы с сервером Jabber произошла ошибка:
 %1</translation>
     </message>
     <message>
         <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: серверска автентикација</translation>
+        <translation type="obsolete">%1: Аутентификация Сервера</translation>
     </message>
     <message>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">Сертификатот %1 не помина на тестот за автентичност.</translation>
+        <translation type="obsolete">Сертификат %1 не прошел проверку подлинности.</translation>
     </message>
     <message>
         <source>Reason: %1</source>
@@ -700,23 +717,23 @@ Reason:
     </message>
     <message>
         <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Детали...</translation>
+        <translation type="obsolete">По&amp;дробности...</translation>
     </message>
     <message>
         <source>Co&amp;ntinue</source>
-        <translation type="obsolete">П&amp;родолжи</translation>
+        <translation type="obsolete">&amp;Продолжить</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Откажи</translation>
+        <translation type="obsolete">&amp;Отмена</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Не удается включить SSL/TLS.  Плагин не найден.</translation>
+        <translation>Невозможно включить шифрование SSL/TLS.  Плагин не найден.</translation>
     </message>
     <message>
         <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation>&lt;i&gt;Jabber ID&lt;/i&gt; должен иметь формат &lt;i&gt;user@host&lt;/i&gt;.</translation>
+        <translation>&lt;i&gt;Jabber ID&lt;/i&gt; должен быть указан в формате &lt;i&gt;user@host&lt;/i&gt;.</translation>
     </message>
 </context>
 <context>
@@ -735,7 +752,7 @@ Reason:
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation>Подтвердите пароль:</translation>
+        <translation>Подтверждение пароля:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -751,7 +768,7 @@ Reason:
     </message>
     <message>
         <source>&amp;Register</source>
-        <translation>За&amp;регистрировать</translation>
+        <translation>За&amp;регистрироваться</translation>
     </message>
     <message>
         <source>Account</source>
@@ -759,7 +776,7 @@ Reason:
     </message>
     <message>
         <source>Proxy</source>
-        <translation>Прокси</translation>
+        <translation>Прокси-сервер</translation>
     </message>
     <message>
         <source>Jabber ID:</source>
@@ -775,15 +792,15 @@ Reason:
     </message>
     <message>
         <source>Use SSL encryption (to server)</source>
-        <translation>Использовать шифрование SSL (для связи с сервером)</translation>
+        <translation>Использовать шифрование SSL для соединения с сервером</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation>Указать сервер/порт вручную:</translation>
+        <translation>Вручную указать сервер/порт:</translation>
     </message>
     <message>
         <source>Register Account</source>
-        <translation>Регистрировать учетную запись</translation>
+        <translation>Регистрация учетной записи</translation>
     </message>
     <message>
         <source>psi/register</source>
@@ -798,7 +815,7 @@ Reason:
     <name>AccountRemoveDlg</name>
     <message>
         <source>Remove Account</source>
-        <translation type="obsolete">Отстрани го пристапот</translation>
+        <translation type="obsolete">Удалить учетную запись</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -806,7 +823,7 @@ Reason:
     </message>
     <message>
         <source>Are you sure you want to cancel the unregistration?</source>
-        <translation>Вы действительно хотите прервать удаление регистрации?</translation>
+        <translation>Вы действительно хотите прервать удаление учетной записи?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -822,53 +839,53 @@ Reason:
     </message>
     <message>
         <source>Password does not match account.  Please try again.</source>
-        <translation>Пароль не соответствует учетной записи.  Попробуйте еще раз.</translation>
+        <translation>Введённый пароль не совпадает с паролем учетной записи. Попробуйте ещё раз.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
-        <translation>Вы уверены, что хотите удалить учетную запись &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation>Вы действительно хотите удалить учетную запись &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="obsolete">Игнорирај</translation>
+        <translation type="obsolete">Пропустить</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="obsolete">Исклучи се</translation>
+        <translation type="obsolete">Отсоединиться</translation>
     </message>
     <message>
         <source>There was an error communicating with the Jabber server:
 %1</source>
-        <translation type="obsolete">Имаше грешка во комуницирањето со Jabber серверот:
+        <translation type="obsolete">Во время работы с сервером Jabber произошла ошибка:
 %1</translation>
     </message>
     <message>
         <source>There was an error authenticating with the Jabber server.
 Details: %1</source>
-        <translation type="obsolete">Имаше грешка при верификацијата со Jabber серверот.
-Детали: %1</translation>
+        <translation type="obsolete">Во время работы с сервером Jabber произошла ошибка.
+Подробности: %1</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Успех</translation>
+        <translation>Удаление завершено</translation>
     </message>
     <message>
         <source>The account was unregistered successfully.</source>
-        <translation>Учетная запись успешно удалена.</translation>
+        <translation>Учетная запись была успешно удалена.</translation>
     </message>
     <message>
         <source>There was an error unregistering the account.
 Reason: %1</source>
-        <translation>Ошибка при удалении учетной записи.
+        <translation>При удалении учетной записи произошла ошибка.
 Причина: %1</translation>
     </message>
     <message>
         <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: серверска автентикација</translation>
+        <translation type="obsolete">%1: Аутентификация Сервера</translation>
     </message>
     <message>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">Сертификатот %1 не помина на тестот за автентичност.</translation>
+        <translation type="obsolete">Сертификат %1 не прошел проверку подлинности.</translation>
     </message>
     <message>
         <source>Reason: %1</source>
@@ -876,15 +893,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Детали...</translation>
+        <translation type="obsolete">По&amp;дробности...</translation>
     </message>
     <message>
         <source>Co&amp;ntinue</source>
-        <translation type="obsolete">П&amp;родолжи</translation>
+        <translation type="obsolete">&amp;Продолжить</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Откажи</translation>
+        <translation type="obsolete">&amp;Отмена</translation>
     </message>
 </context>
 <context>
@@ -895,7 +912,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove Account</source>
-        <translation>Удалить учетную запись</translation>
+        <translation>Удаление учетной записи</translation>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
@@ -903,7 +920,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>Удалить учетную запись из Psi и с сервера.</translation>
+        <translation>Удалить учетную запись с сервера.</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -930,7 +947,7 @@ Reason: %1</source>
     <name>AddUrlUI</name>
     <message>
         <source>Add URL</source>
-        <translation>Добавить URL</translation>
+        <translation>Добавление URL</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -946,30 +963,30 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Oк</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation></translation>
+        <translation>Alt+O</translation>
     </message>
 </context>
 <context>
     <name>AddUserDlg</name>
     <message>
         <source>Add User</source>
-        <translation type="obsolete">Додади корисник</translation>
+        <translation type="obsolete">Добавление пользователя</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Пусто&gt;</translation>
+        <translation>&lt;Нет&gt;</translation>
     </message>
     <message>
         <source>Add User: Error</source>
-        <translation>Добавление пользователя: Ошибка</translation>
+        <translation>Добавление пользователя: ошибка</translation>
     </message>
     <message>
         <source>Please fill in the Jabber ID of the person you wish to add.</source>
-        <translation>Введите Jabber ID пользователя, которого Вы хотите добавить.</translation>
+        <translation>Пожалуйста, укажите Jabber ID пользователя, которого вы хотите добавить.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -978,31 +995,35 @@ Reason: %1</source>
     <message>
         <source>The Jabber ID you entered is not valid!
 Make sure you enter a fully qualified Jabber ID.</source>
-        <translation>Введен несуществующий Jabber ID!
-Проверьте, правильно ли вы вводите полный Jabber ID.</translation>
+        <translation>Введённый вами Jabber ID недействителен!
+Убедитесь, что вы ввели корректный Jabber ID.</translation>
     </message>
     <message>
         <source>Add User: Success</source>
-        <translation>Добавление пользователя: Успех</translation>
+        <translation>Добавление пользователя: успешно завершено</translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
-        <translation>%1 добавлен(а) в ваш список контактов.</translation>
+        <translation>В Ваш список добавлен пользователь %1.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation type="obsolete">&lt;qt&gt;
-Имаше грешка при примањето на информацијата за пренесената ID на сервисот од &quot;%1&quot;.&lt;br&gt;Причина:%2&lt;br&gt;&lt;br&gt;Сервисот можеби не ја поддржува оваа функција. Во тој случај ќе треба рачно да ја внесеш Jabber ID за контактот кој сакаш да го додадеш.
-Примери:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberкорисник@некојсервер.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolкорисник@[Jabber ID на AIM транспорт]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID на ICQ транспорт]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID на MSN транспорт]&lt;br&gt;&lt;/qt&gt; 
-</translation>
+Во время получения информации о трансляции Service ID с &quot;%1&quot; произошла ошибка.&lt;br&gt;Причина: %2&lt;br&gt;&lt;br&gt;Возможно, данная служба не поддерживает эту функцию. В этом случае вам придется ввести Jabber ID искомого контакта вручную. Примеры:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID службы AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID службы ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID службы MSN]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation type="unfinished">&lt;qt&gt;
-При попытке получить информацию о трансляции Service ID от &quot;%1&quot; произошла ошибка.&lt;br&gt;Причина:%2&lt;br&gt;&lt;br&gt;Возможно, сервис не поддерживает эту функцию. Если это так,  вам придется вручную ввести Jabber ID контакта, который вы желаете добавить.
-Например:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID протокола AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID протокола ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID протокола MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID протокола Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+Во время получения информации о трансляции Service ID с &quot;%1&quot; произошла ошибка.&lt;br&gt;
+Причина: %2&lt;br&gt;&lt;br&gt;
+Возможно, данная служба не поддерживает эту функцию. В этом случае вам придется ввести Jabber ID искомого контакта вручную. Примеры:&lt;br&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;
+&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID службы AIM]&lt;br&gt;
+&amp;nbsp;&amp;nbsp;1234567@[Jabber ID службы ICQ]&lt;br&gt;
+&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID службы MSN]&lt;br&gt;
+&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1016,26 +1037,26 @@ There was an error getting the Service ID translation information from &quot;%1&
 &lt;br&gt;
 To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Manage Services from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
 &lt;/qt&gt;</source>
-        <translation type="obsolete">qt&gt;За да додадеш &lt;b&gt;&lt;u&gt;Jabber&lt;/u&gt;&lt;/b&gt; корисник, запиши ја неговота Jabber ID (и опционално надимак и група) и кликни на  &lt;i&gt;Додај&lt;/i&gt;.&lt;br&gt;
+        <translation type="obsolete">&lt;qt&gt;Чтобы добавить пользователя &lt;b&gt;Jabber&lt;/b&gt;, просто впишите его Jabber ID (можно также указать необязательные псевдоним и группу) и нажмите &lt;i&gt;Добавить&lt;/i&gt;.&lt;br&gt;
 &lt;br&gt;
-За да додадеш корисник на &lt;b&gt;некој друг&lt;/b&gt; сервис, прво мора да бидеш регистриран на сервисот (види &lt;i&gt;Подесување на сервисите&lt;/i&gt; од главното мени) и потоа одбери сервис од горните опции. Следи ги инструкциите од &lt;i&gt;Пренесување на ID на сервисот&lt;/i&gt; менито и кликни на &lt;i&gt;Креирај Jabber ID&lt;/i&gt; за да генерираш Jabber ID за дадениот контакт.&lt;br&gt;
+Чтобы добавить пользователя из службы, отличной от &lt;b&gt;Jabber&lt;/b&gt;, сначала убедитесь, что Вы зарегистрировались в этой службе (см. пункт главного меню &quot;Работа со службами&quot;), а затем выберите нужную службу в списке сверху. Следуйте инструкциям &lt;i&gt;Транслятора Service ID&lt;/i&gt;, затем нажмите на кнопку &lt;i&gt;Получить Jabber ID&lt;/i&gt; для создания требуемого Jabber ID в правильном виде.&lt;br&gt;
 &lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
-        <translation>Сервис:</translation>
+        <translation>Служба:</translation>
     </message>
     <message>
         <source>Jabber</source>
-        <translation></translation>
+        <translation>Jabber</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
-        <translation>Трансляция Service ID</translation>
+        <translation>Транслятор Service ID</translation>
     </message>
     <message>
         <source>No description</source>
-        <translation>Без описания</translation>
+        <translation>Нет описания</translation>
     </message>
     <message>
         <source>Get Jabber ID</source>
@@ -1047,7 +1068,7 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Nickname (optional)</source>
-        <translation>Псевдоним (опционально)</translation>
+        <translation>Ник (необязательно)</translation>
     </message>
     <message>
         <source>Jabber ID</source>
@@ -1063,7 +1084,7 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Request authorization when adding</source>
-        <translation>Автоматически запрашивать авторизацию при  добавлении</translation>
+        <translation>Запрашивать авторизацию перед добавлением</translation>
     </message>
     <message>
         <source>Close window after adding</source>
@@ -1071,21 +1092,21 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Add User</source>
-        <translation>Добавить пользователя</translation>
+        <translation>Добавление пользователя</translation>
     </message>
     <message>
         <source>&lt;qt&gt;To add a &lt;b&gt;Jabber&lt;/b&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;i&gt;Add&lt;/i&gt;.&lt;br&gt;
 &lt;br&gt;
 To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
 &lt;/qt&gt;</source>
-        <translation type="unfinished">&lt;qt&gt;Чтобы добавить пользователя &lt;b&gt;&lt;u&gt;Jabber&lt;/u&gt;&lt;/b&gt;, введите его Jabber ID (и, если хотите,  назначьте ему псевдоним и группу, в которой Вы желаете его видеть) и нажмите &lt;i&gt;Добавить&lt;/i&gt;.&lt;br&gt;
+        <translation type="unfinished">&lt;qt&gt;Чтобы добавить пользователя &lt;b&gt;Jabber&lt;/b&gt;, просто впишите его Jabber ID (можно также указать необязательные ник и группу) и нажмите &lt;i&gt;Добавить&lt;/i&gt;.&lt;br&gt;
 &lt;br&gt;
-Чтобы добавить пользователя &lt;b&gt;какого-нибудь другого&lt;/b&gt; сервиса,  требуется предварительно быть зарегистрированным на этом сервисе (см. &lt;i&gt;Обнаружение сервисов&lt;/i&gt; в главном меню) и далее выбрать сервис из списка вверху. Следуйте инструкциям &lt;i&gt;Трансляция Service ID &lt;/i&gt; и нажмите &lt;i&gt;Получить Jabber ID&lt;/i&gt; чтобы сгенерировать Jabber ID для данного контакта.&lt;br&gt;
+Чтобы добавить пользователя из службы, отличной от &lt;b&gt;Jabber&lt;/b&gt;, сначала убедитесь, что Вы зарегистрировались в этой службе (см. пункт главного меню &quot;Просмотр служб&quot;), а затем выберите нужную службу в списке сверху. Следуйте инструкциям &lt;i&gt;Транслятора Service ID&lt;/i&gt;, затем нажмите на кнопку &lt;i&gt;Получить Jabber ID&lt;/i&gt; для создания требуемого Jabber ID в правильном виде.&lt;br&gt;
 &lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -1097,14 +1118,14 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Resolve</source>
-        <translation>Получить, исходя из JID</translation>
+        <translation>Узнать</translation>
     </message>
 </context>
 <context>
     <name>AttachView</name>
     <message>
         <source>Attachments</source>
-        <translation>Приложения</translation>
+        <translation>Вложения</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1112,74 +1133,74 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Go to &amp;URL...</source>
-        <translation>Перейти к &amp;URL...</translation>
+        <translation>Открыть &amp;URL...</translation>
     </message>
     <message>
         <source>Join &amp;Groupchat...</source>
-        <translation>&amp;Подключиться к конференции...</translation>
+        <translation>Присоедениться к &amp;конференции...</translation>
     </message>
     <message>
         <source>Copy location</source>
-        <translation>Копировать адрес</translation>
+        <translation>Скопировать адрес</translation>
     </message>
 </context>
 <context>
     <name>BrowserDlg::Private</name>
     <message>
         <source>Browse</source>
-        <translation type="obsolete">Листај</translation>
+        <translation type="obsolete">Просмотреть</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
-        <translation type="obsolete">&amp;Листај</translation>
+        <translation type="obsolete">&amp;Просмотреть</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="obsolete">Освежи</translation>
+        <translation type="obsolete">Обновить</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="obsolete">Осве&amp;жи</translation>
+        <translation type="obsolete">&amp;Обновить</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="obsolete">Стоп</translation>
+        <translation type="obsolete">Остановить</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="obsolete">Сто&amp;п</translation>
+        <translation type="obsolete">&amp;Остановить</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">Регистрирај се</translation>
+        <translation type="obsolete">Зарегистрироваться</translation>
     </message>
     <message>
         <source>&amp;Register</source>
-        <translation type="obsolete">&amp;Регистрирај се</translation>
+        <translation type="obsolete">&amp;Зарегистрироваться</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="obsolete">Пребарај</translation>
+        <translation type="obsolete">Найти</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation type="obsolete">&amp;Пребарај</translation>
+        <translation type="obsolete">Най&amp;ти</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="obsolete">Приклучи се</translation>
+        <translation type="obsolete">Присоединиться</translation>
     </message>
     <message>
         <source>&amp;Join</source>
-        <translation type="obsolete">&amp;Приклучи се</translation>
+        <translation type="obsolete">П&amp;рисоединиться</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="obsolete">Информации</translation>
+        <translation type="obsolete">Информация</translation>
     </message>
     <message>
         <source>&amp;Info</source>
-        <translation type="obsolete">&amp;Информации</translation>
+        <translation type="obsolete">&amp;Информация</translation>
     </message>
     <message>
         <source>Back</source>
@@ -1191,23 +1212,23 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Forward</source>
-        <translation type="obsolete">Напред</translation>
+        <translation type="obsolete">Вперед</translation>
     </message>
     <message>
         <source>&amp;Forward</source>
-        <translation type="obsolete">Н&amp;апред</translation>
+        <translation type="obsolete">&amp;Вперед</translation>
     </message>
 </context>
 <context>
     <name>BrowserItem</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Грешка</translation>
+        <translation type="obsolete">Ошибка</translation>
     </message>
     <message>
         <source>There was an error browsing the item.
 Reason: %1</source>
-        <translation type="obsolete">Имаше грешка во прелистувањето на елементот.
+        <translation type="obsolete">Во время просмотра произошла ошибка.
 Причина: %1</translation>
     </message>
 </context>
@@ -1215,19 +1236,19 @@ Reason: %1</source>
     <name>BrowserUI</name>
     <message>
         <source>Browse Services</source>
-        <translation type="obsolete">Разгледај ги сервисите</translation>
+        <translation type="obsolete">Просмотр Служб</translation>
     </message>
     <message>
         <source>&amp;Address:</source>
-        <translation type="obsolete">&amp;Адреса:</translation>
+        <translation type="obsolete">&amp;Адрес:</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
-        <translation type="obsolete">&amp;Листај</translation>
+        <translation type="obsolete">&amp;Просмотреть</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Име</translation>
+        <translation type="obsolete">Имя</translation>
     </message>
     <message>
         <source>JID</source>
@@ -1235,7 +1256,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Auto-browse into objects</source>
-        <translation type="obsolete">Авто-разгледај во објекти</translation>
+        <translation type="obsolete">Авто-просмотр элементов</translation>
     </message>
     <message>
         <source>busywidget</source>
@@ -1243,14 +1264,14 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Затвори</translation>
+        <translation type="obsolete">&amp;Закрыть</translation>
     </message>
 </context>
 <context>
     <name>ChangePasswordDlg</name>
     <message>
         <source>Change Password</source>
-        <translation type="obsolete">Смени ја лозинката</translation>
+        <translation type="obsolete">Смена пароля</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1258,28 +1279,28 @@ Reason: %1</source>
     </message>
     <message>
         <source>You must fill out the fields properly before you can proceed.</source>
-        <translation>Вы должны правильно заполнить поля, прежде чем продолжать.</translation>
+        <translation>Перед тем, как продолжить, необходимо правильно заполнить поля.</translation>
     </message>
     <message>
         <source>You entered your old password incorrectly.  Try again.</source>
-        <translation>Старый пароль введен неверно. Попробуйте еще раз.</translation>
+        <translation>Старый пароль введен неправильно. Попробуйте ещё раз.</translation>
     </message>
     <message>
         <source>New password and confirmation do not match.  Please enter them again.</source>
-        <translation>Пароль и его подтверждение не совпадают.  Введите их повторно.</translation>
+        <translation>Новые пароль и его копия не совпадают. Пожалуйста, введите их ещё раз.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Успех</translation>
+        <translation>Успешно</translation>
     </message>
     <message>
         <source>Successfully changed password.</source>
-        <translation>Пароль успешно изменен.</translation>
+        <translation>Пароль был сменен успешно.</translation>
     </message>
     <message>
         <source>There was an error when trying to set the password.
 Reason: %1</source>
-        <translation>Ошибка при смене пароля.
+        <translation>При попытке смены пароля произошла ошибка.
 Причина: %1</translation>
     </message>
 </context>
@@ -1291,7 +1312,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Confirm new password:</source>
-        <translation>Подтвердите новый пароль:</translation>
+        <translation>Новый пароль ещё раз:</translation>
     </message>
     <message>
         <source>Current password:</source>
@@ -1311,11 +1332,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>&amp;Добавить</translation>
+        <translation>&amp;Применить</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation>Изменить пароль</translation>
+        <translation>Смена пароля</translation>
     </message>
     <message>
         <source>psi/register</source>
@@ -1326,7 +1347,7 @@ Reason: %1</source>
     <name>ChatDlg</name>
     <message>
         <source>Clear chat window</source>
-        <translation>Очистить окно чата</translation>
+        <translation>Очистить окно разговора</translation>
     </message>
     <message>
         <source>User info</source>
@@ -1334,7 +1355,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Message history</source>
-        <translation>История сообщений</translation>
+        <translation>Журнал сообщений</translation>
     </message>
     <message>
         <source>%1 is %2</source>
@@ -1347,8 +1368,8 @@ Reason: %1</source>
     <message>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
-        <translation>Только что поступило новое сообщение.
-Вы все-таки хотите закрыть окно?</translation>
+        <translation>Только что было получено новое сообщение.
+Вы всё ещё собираетесь закрыть окно?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -1373,20 +1394,20 @@ Do you still want to close the window?</source>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation>Вы уверены, что хотите очистить окно?
-(замечание: это не относится к сохраненной истории)</translation>
+        <translation>Вы уверены, что хотите очистить окно разговора?
+(Примечание: это никак не отразится на истории сообщений)</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation>%1 говорит:</translation>
+        <translation>%1 пишет:</translation>
     </message>
     <message>
         <source>-- Attached URL(s) --</source>
-        <translation>-- Прикрепленный(-е) URL(-ы) --</translation>
+        <translation>-- Вложенные URL --</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Включить/выключить шифрование</translation>
+        <translation>Вкл/Выкл шифрование</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1395,8 +1416,8 @@ Do you still want to close the window?</source>
     <message>
         <source>There was an error trying to send the message encrypted.
 Check your OpenPGP application/settings.</source>
-        <translation>Ошибка при попытке отправить зашифрованное сообщение.
-Проверьте настройки OpenPGP.</translation>
+        <translation>Во время попытки отправки зашифрованного сообщения произошла ошибка.
+Проверьте настройки вашего приложения OpenPGP.</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -1408,11 +1429,11 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Шифрование было отключено удаленным пользователем.  Вы уверены, что хотите послать сообщение без шифрования?&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Шифрование было недавно выключено удаленной стороной. Вы уверены, что хотите отправить это сообщение без шифрования?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Message length</source>
-        <translation>Размер сообщения</translation>
+        <translation>Длина сообщения</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -1424,15 +1445,15 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Chat toolbar</source>
-        <translation>Инструментальная панель чата</translation>
+        <translation>Панель инструментов разговора</translation>
     </message>
     <message>
         <source>%1 (Composing ...)</source>
-        <translation>%1 (Пишет сообщение...)</translation>
+        <translation>%1 (Набирает ...)</translation>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Переключиться между полным/компактным размером</translation>
+        <translation type="obsolete">Переключить размеры - компактный/полный</translation>
     </message>
     <message>
         <source>Toggle Compact/Full size</source>
@@ -1443,19 +1464,19 @@ Check your OpenPGP application/settings.</source>
     <name>ContactProfile</name>
     <message>
         <source>Not in list</source>
-        <translation>Нет в списке</translation>
+        <translation>Не в списке</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished">Агенты/Протоколы</translation>
+        <translation type="unfinished">Агенты/службы</translation>
     </message>
     <message>
         <source>Add/Authorize to contact list</source>
-        <translation>Добавить в список контактов / Авторизовать</translation>
+        <translation>Добавить в список контактов/авторизовать</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>&amp;Пусто</translation>
+        <translation>&amp;Нет</translation>
     </message>
     <message>
         <source>&amp;Create new...</source>
@@ -1467,7 +1488,7 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Rerequest authorization from</source>
-        <translation>Повторно запросить авторизацию</translation>
+        <translation>Запросить авторизацию ещё раз</translation>
     </message>
     <message>
         <source>Log off</source>
@@ -1475,7 +1496,7 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Check &amp;Status</source>
-        <translation type="obsolete">Проверить &amp;статус</translation>
+        <translation type="obsolete">Проверить &amp;состояние</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -1487,7 +1508,7 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>Создать новую группу</translation>
+        <translation>Создание новой группы</translation>
     </message>
     <message>
         <source>Enter the new Group name:</source>
@@ -1499,15 +1520,15 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt;  добавлен(а) в список пользователей / авторизован(а).</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; добавлен в список контактов/авторизирован.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Повторно запросить авторизацию у  &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>Запрошена повторная авторизация от &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Send message to group</source>
-        <translation>Послать сообщение группе</translation>
+        <translation>Отправить сообщение группе</translation>
     </message>
     <message>
         <source>Remove group</source>
@@ -1515,15 +1536,15 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Remove group and contacts</source>
-        <translation>Удалить группу и контакты</translation>
+        <translation>Удалить группу вместе с контактами</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Спрятать</translation>
+        <translation>Скрыть</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>Удалить группу</translation>
+        <translation>Удаление группы</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -1531,11 +1552,11 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation>&amp;Нет</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>Удалить группу и контакты</translation>
+        <translation>Удаление группы вместе с контактами</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1543,7 +1564,7 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>Вы уверены, что хотите удалить &lt;b&gt;%1&lt;/b&gt; из вашего списка контактов?</translation>
+        <translation>Вы уверены, что хотите удалить &lt;b&gt;%1&lt;/b&gt; из своего списка контактов?</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1551,23 +1572,23 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>Группа с таким названием уже существует.</translation>
+        <translation>Группа с таким именем уже существует.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Общие</translation>
+        <translation>Общее</translation>
     </message>
     <message>
         <source>Send server message</source>
-        <translation type="unfinished">Послать сообщение серверу</translation>
+        <translation type="unfinished">Отправить серверное сообщение</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="unfinished">Послать Совет Дня (Послать сообщение дня?)</translation>
+        <translation type="unfinished">Отправить сообщение дня</translation>
     </message>
     <message>
         <source>Modify Account...</source>
-        <translation type="obsolete">Промени го пристапот...</translation>
+        <translation type="obsolete">Изменить учетную запись...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
@@ -1577,17 +1598,15 @@ Check your OpenPGP application/settings.</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Все контакты из данной группы не будут больше с ней связаны.
-
-Продолжать?</translation>
+        <translation>Это приведет к тому, что все контакты этой группы потеряют связь с ней.
+Продолжить?</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>ПРЕДУПРЕЖДЕНИЕ!  Все контакты из данной группы будут удалены!
-
-Продолжать?</translation>
+        <translation>ПРЕДУПРЕЖДЕНИЕ! Будут удалены все контакты, входящие в эту группу!
+Продолжить?</translation>
     </message>
     <message>
         <source>[blank]</source>
@@ -1595,59 +1614,59 @@ Proceed?</source>
     </message>
     <message>
         <source>Send message to</source>
-        <translation>Послать сообщение</translation>
+        <translation>Отправить сообщение</translation>
     </message>
     <message>
         <source>Open chat to</source>
-        <translation>Начать чат с</translation>
+        <translation>Начать разговор с</translation>
     </message>
     <message>
         <source>Active chats</source>
-        <translation>Активные чаты</translation>
+        <translation>Активные разговоры</translation>
     </message>
     <message>
         <source>Resend authorization to</source>
-        <translation>Заново послать авторизацию</translation>
+        <translation>Отправить повторную авторизацию</translation>
     </message>
     <message>
         <source>Remove authorization from</source>
-        <translation>Отменить авторизацию</translation>
+        <translation>Аннулировать авторизацию</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Послать авторизацию &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>Авторизация &lt;b&gt;%1&lt;/b&gt; отправлена.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Вы уверены, что хотите отменить авторизацию для &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation>Вы действительно хотите отозвать авторизацию у &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>You can&apos;t set a blank name.</source>
-        <translation type="unfinished">Вы не можете посылать пустое имя.</translation>
+        <translation type="unfinished">Имя не может быть пустым.</translation>
     </message>
     <message>
         <source>You can&apos;t set a blank group name.</source>
-        <translation type="unfinished">Нужно указать название группы.</translation>
+        <translation type="unfinished">Имя группы не может быть пустым.</translation>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation>Приватные сообщения</translation>
+        <translation>Личные сообщения</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="unfinished">Присутствующие пользователи (Подключенные пользователи?)</translation>
+        <translation type="unfinished">Подключенные пользователи</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="unfinished">Изменить Совет Дня</translation>
+        <translation type="unfinished">Обновить сообщение дня</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>Удалить Совет Дня</translation>
+        <translation>Удалить сообщение дня</translation>
     </message>
     <message>
         <source>Invite to</source>
-        <translation>Пригласить </translation>
+        <translation>Пригласить в</translation>
     </message>
     <message>
         <source>Authorization</source>
@@ -1655,7 +1674,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Link Test</source>
-        <translation type="obsolete">Тестирование соединения</translation>
+        <translation type="obsolete">Тест связи</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -1663,27 +1682,27 @@ Proceed?</source>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Послать приглашение в конференцию &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>Послано приглашение в конференцию &lt;b&gt;%1&lt;/b&gt; .</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP key</source>
-        <translation>Назначить ключ Open&amp;PGP</translation>
+        <translation>Присвоить ключ Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP key</source>
-        <translation>Отозвать ключ Open&amp;PGP</translation>
+        <translation>Убрать ключ Open&amp;PGP</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="unfinished">Обнаружение &amp;сервисов</translation>
+        <translation type="unfinished">&amp;Просмотр служб</translation>
     </message>
     <message>
         <source>New &amp;blank message</source>
-        <translation>&amp;Новое пустое сообщение</translation>
+        <translation>Н&amp;овое пустое сообщение</translation>
     </message>
     <message>
         <source>&amp;Add a contact</source>
-        <translation>&amp;Добавить контакт</translation>
+        <translation>Добавить &amp;контакт</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -1691,15 +1710,15 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>&amp;Статус</translation>
+        <translation>&amp;Режим</translation>
     </message>
     <message>
         <source>A&amp;ctions</source>
-        <translation type="obsolete">&amp;Действия</translation>
+        <translation type="obsolete">Доступные &amp;действия</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>Из&amp;менить учетную запись...</translation>
+        <translation>Изменить учетную &amp;запись...</translation>
     </message>
     <message>
         <source>Send &amp;file</source>
@@ -1707,34 +1726,34 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Avatar</source>
-        <translation>&amp;Аватара</translation>
+        <translation>&amp;Аватар</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Send &amp;message</source>
-        <translation>Послать &amp;сообщение</translation>
+        <translation>&amp;Отправить сообщение</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>Пере&amp;именовать</translation>
+        <translation>П&amp;ереименовать</translation>
     </message>
     <message>
         <source>Open &amp;chat window</source>
-        <translation>Открыть окно &amp;чата</translation>
+        <translation>Открыть окно &amp;разговора</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>&amp;История</translation>
+        <translation>&amp;Журнал</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Подключиться</translation>
+        <translation>&amp;Войти в сеть</translation>
     </message>
     <message>
         <source>&amp;Receive incoming event</source>
-        <translation>При&amp;нять входящее сообщение</translation>
+        <translation>Получить входящее &amp;событие</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
@@ -1754,7 +1773,7 @@ Proceed?</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">&amp;Инфо о пользователе</translation>
+        <translation type="unfinished">&amp;Информация о пользователе</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
@@ -1762,38 +1781,38 @@ Proceed?</source>
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Выберите рисунок</translation>
+        <translation>Выберите изображение</translation>
     </message>
 </context>
 <context>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Автоматически определить протокол</translation>
+        <translation>Определять протокол автоматически</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Обнаружение сервисов</translation>
+        <translation>Обнаружение служб (Service Discovery)</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Просмотр сервисов</translation>
+        <translation>Просмотр служб (jabber:iq:browse)</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Просмотр агентов</translation>
+        <translation>Просмотр агентов (jabber:iq:agents)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Просмотр</translation>
+        <translation>Просмотреть</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
-        <translation>&amp;Просмотр</translation>
+        <translation>&amp;Просмотреть</translation>
     </message>
     <message>
         <source>Refresh Item</source>
@@ -1805,11 +1824,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Стоп</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation>Сто&amp;п</translation>
+        <translation>&amp;Остановить</translation>
     </message>
     <message>
         <source>Back</source>
@@ -1837,11 +1856,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Search</source>
-        <translation>Поиск</translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation>&amp;Поиск</translation>
+        <translation>&amp;Найти</translation>
     </message>
     <message>
         <source>Join</source>
@@ -1849,23 +1868,23 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Join</source>
-        <translation>&amp;Присоединиться</translation>
+        <translation>П&amp;рисоединиться</translation>
     </message>
     <message>
         <source>vCard</source>
-        <translation></translation>
+        <translation>Информация о пользователе</translation>
     </message>
     <message>
         <source>&amp;vCard</source>
-        <translation>&amp;vCard</translation>
+        <translation>&amp;Информация о пользователе</translation>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation>Добавить в список</translation>
+        <translation>Добавить в список контактов</translation>
     </message>
     <message>
         <source>&amp;Add to roster</source>
-        <translation>&amp;Добавить в список</translation>
+        <translation>&amp;Добавить в список контактов</translation>
     </message>
 </context>
 <context>
@@ -1877,29 +1896,29 @@ Proceed?</source>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.
 Reason: %2</source>
-        <translation>Ошибка при получении элементов &lt;b&gt;%1&lt;/b&gt;.
+        <translation>При получении элементов &lt;b&gt;%1&lt;/b&gt; возникла ошибка.
 Причина: %2</translation>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.
 Reason: %2</source>
-        <translation>Ошибка при просмотре элементов &lt;b&gt;%1&lt;/b&gt;.
+        <translation>При просмотре элементов &lt;b&gt;%1&lt;/b&gt; возникла ошибка.
 Причина: %2</translation>
     </message>
     <message>
         <source>Jabber Service</source>
-        <translation>Jabber сервис</translation>
+        <translation>Сервис Jabber</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.
 Reason: %2</source>
-        <translation>Ошибка при получении агентов для &lt;b&gt;%1&lt;/b&gt;.
+        <translation>При получении агентов &lt;b&gt;%1&lt;/b&gt; возникла ошибка.
 Причина: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.
 Reason: %2</source>
-        <translation>Ошибка при получении информации о &lt;b&gt;%1&lt;/b&gt;.
+        <translation>При получении информации об элементе &lt;b&gt;%1&lt;/b&gt; возникла ошибка.
 Причина: %2</translation>
     </message>
 </context>
@@ -1919,7 +1938,7 @@ Reason: %2</source>
     </message>
     <message>
         <source>Identities:</source>
-        <translation>Идентификационные данные:</translation>
+        <translation>Сущности:</translation>
     </message>
     <message>
         <source>Category</source>
@@ -1931,14 +1950,14 @@ Reason: %2</source>
     </message>
     <message>
         <source>Features:</source>
-        <translation>Возможности:</translation>
+        <translation>Поддерживаемые функции:</translation>
     </message>
 </context>
 <context>
     <name>DiscoUI</name>
     <message>
         <source>Service Discovery</source>
-        <translation>Обнаружение сервисов</translation>
+        <translation>Просмотр служб</translation>
     </message>
     <message>
         <source>&amp;Address:</source>
@@ -1950,7 +1969,7 @@ Reason: %2</source>
     </message>
     <message>
         <source>&amp;Browse</source>
-        <translation>&amp;Просмотр</translation>
+        <translation>&amp;Просмотреть</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1966,11 +1985,11 @@ Reason: %2</source>
     </message>
     <message>
         <source>Auto-browse into objects</source>
-        <translation>Автопросмотр объектов</translation>
+        <translation>Авто-просмотр элементов</translation>
     </message>
     <message>
         <source>Automatically get item information</source>
-        <translation>Автоматически получать информацию об объектах</translation>
+        <translation>Автоматически получать информацию об элементах</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -1981,33 +2000,33 @@ Reason: %2</source>
     <name>EDBFlatFile::File</name>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Теперь вы авторизованы.</translation>
+        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Вы авторизованы.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Ваша авторизация отменена!</translation>
+        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Ваша авторизация была отозвана!</translation>
     </message>
 </context>
 <context>
     <name>ELineEdit</name>
     <message>
         <source>Recipient Default</source>
-        <translation>В соответствии с настройками получателя</translation>
+        <translation>По умолчанию получателя</translation>
     </message>
 </context>
 <context>
     <name>EventDlg</name>
     <message>
         <source>To:</source>
-        <translation>Кому:</translation>
+        <translation>К:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Обычное</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation>Разговор</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -2015,7 +2034,7 @@ Reason: %2</source>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Далее</translation>
+        <translation>&amp;Следующее</translation>
     </message>
     <message>
         <source>&amp;Quote</source>
@@ -2023,11 +2042,11 @@ Reason: %2</source>
     </message>
     <message>
         <source>&amp;Deny</source>
-        <translation>&amp;Отказаться</translation>
+        <translation>&amp;Отклонить</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Послать</translation>
+        <translation>&amp;Отправить</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -2035,11 +2054,11 @@ Reason: %2</source>
     </message>
     <message>
         <source>Please type in a message first.</source>
-        <translation>Пожалуйста, введите сначала сообщение.</translation>
+        <translation>Пожалуйста, введите сначала текст сообщения.</translation>
     </message>
     <message>
         <source>&amp;Add/Auth</source>
-        <translation>&amp;Добавить/Авторизовать</translation>
+        <translation>&amp;Добавить/авторизировать</translation>
     </message>
     <message>
         <source>&amp;Reply</source>
@@ -2047,7 +2066,7 @@ Reason: %2</source>
     </message>
     <message>
         <source>Identity:</source>
-        <translation>Идентификационные данные:</translation>
+        <translation>Личные данные:</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -2067,27 +2086,27 @@ Reason: %2</source>
     </message>
     <message>
         <source>Send Message</source>
-        <translation>Послать сообщение</translation>
+        <translation>Отправление сообщения</translation>
     </message>
     <message>
         <source>No recipients have been specified!</source>
-        <translation>Не указан(ы) получатель(и)!</translation>
+        <translation>Не были указаны получатели!</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Данный пользователь желает занести Вас в свой список контактов (при этом он получит возможность всегда знать о вашем присутствии/отстутствии в сети).  Если Вы готовы разрешить ему это, нажмите  „Добавить/Авторизовать“.  Одновременно этот пользователь будет занесен в ваш список контактов (если он еще не занесен).</translation>
+        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Этот пользователь хочет иметь возможность знать, когда Вы находитесь в сети. Нажмите на кнопку &quot;Добавить/авторизовать&quot;, чтобы авторизовать его. Этот пользователь также будет добавлен в Ваш список контактов, если его там ещё нет.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Теперь вы авторизованы.</translation>
+        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Вы авторизованы.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Ваша авторизация отменена!</translation>
+        <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Ваша авторизация была отозвана!</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Включить/выключить шифрование</translation>
+        <translation>Переключить шифрование</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2096,8 +2115,8 @@ Reason: %2</source>
     <message>
         <source>There was an error trying to send the message encrypted.
 Check your OpenPGP application/settings.</source>
-        <translation>Ошибка при попытке отправить зашифрованное сообщение.
-Проверьте настройки OpenPGP.</translation>
+        <translation>Во время попытки отправки зашифрованного сообщения произошла ошибка.
+Проверьте настройки вашего приложения OpenPGP.</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -2105,11 +2124,11 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Message length</source>
-        <translation>Размер сообщения</translation>
+        <translation>Длина сообщения</translation>
     </message>
     <message>
         <source>Add URL</source>
-        <translation>Добавить URL</translation>
+        <translation>Добавление URL</translation>
     </message>
     <message>
         <source>User info</source>
@@ -2117,7 +2136,7 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Message history</source>
-        <translation>История сообщений</translation>
+        <translation>Журнал сообщений</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
@@ -2142,7 +2161,7 @@ Check your OpenPGP application/settings.</source>
     <name>FileRequestDlg</name>
     <message>
         <source>Identity: </source>
-        <translation type="unfinished">Идентификационные данные:</translation>
+        <translation type="unfinished">Подключение: </translation>
     </message>
     <message>
         <source>Send File</source>
@@ -2150,7 +2169,7 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Послать</translation>
+        <translation>&amp;Отправить</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -2170,11 +2189,11 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Receive File</source>
-        <translation>Принять файл</translation>
+        <translation>Получить файл</translation>
     </message>
     <message>
         <source>%1 byte(s)</source>
-        <translation>%1 байт</translation>
+        <translation>%1 байт(ов)</translation>
     </message>
     <message>
         <source>&amp;Accept</source>
@@ -2182,7 +2201,7 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>&amp;Reject</source>
-        <translation>&amp;Отказаться</translation>
+        <translation>&amp;Отклонить</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -2190,7 +2209,7 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
-        <translation>Вы уверены, что хотите отказаться от приема?</translation>
+        <translation>Вы уверены, что хотите отменить передачу?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -2218,19 +2237,19 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
-        <translation>Введен неправильный Jabber ID.   Исправьте его и попробуйте еще раз.</translation>
+        <translation>Указанный Jabber ID некорректен.  Исправьте его и попробуйте еще раз.</translation>
     </message>
     <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
-        <translation>Такого файла не существует.  Выберите правильное имя файла прежде, чем посылать его.</translation>
+        <translation>Указанный файл не существует.  Укажите корректное имя файл для отправки.</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Requesting...</source>
-        <translation>Запрос на передачу...</translation>
+        <translation>Запрашиваем...</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -2238,15 +2257,15 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>File already exists.  Overwrite?</source>
-        <translation>Файл уже существует. Переписать его?</translation>
+        <translation>Файл уже существует.  Перезаписать?</translation>
     </message>
     <message>
         <source>This file is being transferred already!</source>
-        <translation>Этот файл уже передан!</translation>
+        <translation>Этот файл уже передается!</translation>
     </message>
     <message>
         <source>Accepting...</source>
-        <translation>Принисмаю...</translation>
+        <translation>Принимаем...</translation>
     </message>
     <message>
         <source>Accepted!</source>
@@ -2254,16 +2273,16 @@ Check your OpenPGP application/settings.</source>
     </message>
     <message>
         <source>File was rejected by remote user.</source>
-        <translation>Получатель отказался принимать файл.</translation>
+        <translation>Файл был отклонен удаленным пользователем.</translation>
     </message>
     <message>
         <source>Unable to negotiate transfer.
 
 This can happen if the contact did not understand our request, or if the
 contact is offline.</source>
-        <translation>Не могу начать передачу файла.
+        <translation>Невозможно согласовать пересылку.
 
-Это может означать, что получатель не заметил вашего запроса, либо его нет на месте.</translation>
+Так бывает, когда контакт не понял нашего запроса или он не в сети.</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.
@@ -2271,11 +2290,12 @@ contact is offline.</source>
 Ensure that your Data Transfer settings are proper.  If you are behind
 a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
-        <translation>Не могу установить соединение для передачи данных.
+        <translation>Невозможно соединиться с удаленным компьютером для передачи данных.
 
-Убедитесь, что настройки передачи файлов в порядке.  Если вы используете маршрутизатор с
-NAT или брандмауер тогаш треба да ги отворите соодветните TCP порти
-или да наведете прокси за трансфер на податоци во поставките на вашиот пристап.</translation>
+Убедитесь, что настройки передачи данных корректны.  Если вы находитесь
+за роутером с NAT&apos;ом или firewall&apos;ом, то вам необходимо открыть на нем нужный
+TCP-порт или указать прокси для передачи данных в настройках вашей
+учетной записи.</translation>
     </message>
     <message>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
@@ -2283,9 +2303,11 @@ NAT или брандмауер тогаш треба да ги отворите
 This means that the Proxy service is either not functioning or it is
 unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
-        <translation>Не могу подключиться к прокси-серверу передачи данных, либо активизировать его.
+        <translation>Невозможно соединиться с прокси-сервером или использовать его.
 
-Это означает, что прокси-сервер не функционирует, либо недоступен.  Если вы находитесь за брандмауэром, проверьте разарешены ли исходящие TCP-сессии.</translation>
+Это означает, что прокси-сервер либо не функционирует, либо не
+доступен.  Если вы находитесь за файрволлом, убедитесь, что
+исходящие TCP-соединения разрешены.</translation>
     </message>
     <message>
         <source>File I/O error</source>
@@ -2293,22 +2315,22 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
-        <translation>Не могу принять файл.  Возможно, отправитель отменил передачу.</translation>
+        <translation>Невозможно принять файл.  Возможно, отправитель отменил посылку.</translation>
     </message>
     <message>
         <source>Sending folders is not supported.</source>
-        <translation>Пересылка папок не поддерживается.</translation>
+        <translation>Передача папок не поддерживается.</translation>
     </message>
 </context>
 <context>
     <name>FileTransDlg</name>
     <message>
         <source>N/A</source>
-        <translation>неприменимо</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>[Done]</source>
-        <translation>[Готово]</translation>
+        <translation>[Завершено]</translation>
     </message>
     <message>
         <source>[Error: %1]</source>
@@ -2316,15 +2338,15 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation>[Застопорилось]</translation>
+        <translation>[Задерживается]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation></translation>
+        <translation>%1%2/с</translation>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
-        <translation>осталось %dh%dm%ds</translation>
+        <translation>осталось %1ч%2м%3с</translation>
     </message>
     <message>
         <source>File</source>
@@ -2332,7 +2354,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>To</source>
-        <translation>Кому</translation>
+        <translation>К</translation>
     </message>
     <message>
         <source>From</source>
@@ -2340,11 +2362,11 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <source>%1h%2m%3s</source>
-        <translation></translation>
+        <translation>%1ч%2м%3с</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -2356,7 +2378,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Передача</translation>
+        <translation>Отсылка</translation>
     </message>
     <message>
         <source>Download</source>
@@ -2364,7 +2386,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Peer</source>
-        <translation>Получатель/отправитель</translation>
+        <translation>Адресат</translation>
     </message>
     <message>
         <source>Size</source>
@@ -2380,11 +2402,11 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Transfer Manager</source>
-        <translation>Менеджер передачи файлов</translation>
+        <translation>Менеджер передачи данных</translation>
     </message>
     <message>
         <source>Clear &amp;Finished</source>
-        <translation>&amp;Удалить завершенные</translation>
+        <translation>О&amp;чистить завершенные</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
@@ -2397,7 +2419,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <source>Transfer of %1 with %2 failed.
 Reason: %3</source>
-        <translation>Передача %1 с помощью %2 завершилась с ошибкой.
+        <translation>Передача %1 с %2 не удалась.
 Причина: %3</translation>
     </message>
     <message>
@@ -2417,7 +2439,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>To:</source>
-        <translation>Кому:</translation>
+        <translation>К:</translation>
     </message>
     <message>
         <source>File:</source>
@@ -2448,11 +2470,11 @@ Reason: %3</source>
     <name>FileTransView</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Cl&amp;ear</source>
-        <translation>&amp;Очистить</translation>
+        <translation>О&amp;чистить</translation>
     </message>
 </context>
 <context>
@@ -2463,11 +2485,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Proxy query successful.</source>
-        <translation>Запрос прокси завершился успешно.</translation>
+        <translation>Запрос прокси успешен.</translation>
     </message>
     <message>
         <source>Proxy query failed!</source>
-        <translation>Запрос прокси завершиля неудачей!</translation>
+        <translation>Запрос прокси не удался!</translation>
     </message>
     <message>
         <source>Requesting data transfer channel...</source>
@@ -2475,49 +2497,49 @@ Reason: %3</source>
     </message>
     <message>
         <source>Peer accepted request.</source>
-        <translation>Получатель принял запрос.</translation>
+        <translation>Адресат принял запрос.</translation>
     </message>
     <message>
         <source>Connecting to peer...</source>
-        <translation>Связываемся с получателем...</translation>
+        <translation>Соединяемся с адресатом...</translation>
     </message>
     <message>
         <source>Connecting to proxy...</source>
-        <translation>Связываемся с прокси...</translation>
+        <translation>Соединяемся с прокси...</translation>
     </message>
     <message>
         <source>Waiting for peer activation...</source>
-        <translation>Ожидаем активизации получателя...</translation>
+        <translation>Ждем активизации адресата...</translation>
     </message>
     <message>
         <source>Unable to negotiate transfer.</source>
-        <translation>Не могу договориться о передаче данных.</translation>
+        <translation>Невозможно согласовать передачу.</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.</source>
-        <translation>Не могу установить соединение с получателем файла.</translation>
+        <translation>Невозможно соединиться с адресатом для передачи данных.</translation>
     </message>
     <message>
         <source>Unable to connect to proxy for data transfer.</source>
-        <translation>Не могу установить соединение с прокси-сервером.</translation>
+        <translation>Невозможно соединиться с прокси для передачи данных.</translation>
     </message>
     <message>
         <source>Lost connection / Cancelled.</source>
-        <translation>Соединение потеряно / отменено.</translation>
+        <translation>Соединение прервалось / отменено.</translation>
     </message>
 </context>
 <context>
     <name>FontLabel</name>
     <message>
         <source>%1 %2</source>
-        <translation></translation>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
     <name>GCFindDlg</name>
     <message>
         <source>Find</source>
-        <translation>Найти</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Find:</source>
@@ -2533,7 +2555,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>Текст &apos;%1&apos; не найден.</translation>
+        <translation>Строка &quot;%1&quot; не найдена.</translation>
     </message>
 </context>
 <context>
@@ -2544,7 +2566,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="obsolete">Приклучи се во муабетот</translation>
+        <translation type="obsolete">Присоединиться к конференции</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -2552,7 +2574,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Are you sure you want to cancel joining groupchat?</source>
-        <translation>Вы действительно передумали подключаться к конференции? </translation>
+        <translation>Вы действительно не хотите присоединяться к конференции?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -2568,21 +2590,21 @@ Reason: %3</source>
     </message>
     <message>
         <source>You are in or joining this room already!</source>
-        <translation>Вы уже подключились!</translation>
+        <translation>Вы уже участвуете или собираетесь участвовать в этой конференции!</translation>
     </message>
     <message>
         <source>You must fill out the fields in order to join.</source>
-        <translation>Вы должны заполнить все поля, если желаете подключиться.</translation>
+        <translation>Чтобы присоединиться к конференции, Вам необходимо заполнить поля.</translation>
     </message>
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation>Не могу подключиться к конференции.
+        <translation>Невозможно присоединиться к конференции.
 Причина: %1</translation>
     </message>
     <message>
         <source>You entered an invalid room.</source>
-        <translation type="obsolete">Вы попали не в ту комнату.</translation>
+        <translation type="obsolete">Вы ввели неправильное имя конференции.</translation>
     </message>
     <message>
         <source>You entered an invalid room name.</source>
@@ -2597,7 +2619,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Identity:</source>
-        <translation>Идентификационные данные:</translation>
+        <translation>Личные данные:</translation>
     </message>
     <message>
         <source>ident</source>
@@ -2605,7 +2627,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Последний:</translation>
+        <translation>Недавнее:</translation>
     </message>
     <message>
         <source>Room information:</source>
@@ -2621,7 +2643,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Псевдоним:</translation>
+        <translation>Ник:</translation>
     </message>
     <message>
         <source>busywidget</source>
@@ -2637,7 +2659,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation>Подключиться к конференции</translation>
+        <translation>Присоединиться к конференции</translation>
     </message>
     <message>
         <source>psi/groupChat</source>
@@ -2648,11 +2670,11 @@ Reason: %1</source>
     <name>GCMainDlg</name>
     <message>
         <source>Find</source>
-        <translation>Найти</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;Пронајди</translation>
+        <translation>&amp;Найти</translation>
     </message>
     <message>
         <source>Topic:</source>
@@ -2660,39 +2682,39 @@ Reason: %1</source>
     </message>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation>Указать тему конференции</translation>
+        <translation>Тема конференции</translation>
     </message>
     <message>
         <source>Enter a topic:</source>
-        <translation>Введит тему:</translation>
+        <translation>Введите тему:</translation>
     </message>
     <message>
         <source>has set the topic to: %1</source>
-        <translation>изменил тему на: %1</translation>
+        <translation>изменил(а) тему на: %1</translation>
     </message>
     <message>
         <source>Disconnected.</source>
-        <translation>Отключился(-ась).</translation>
+        <translation>Произошло отключение.</translation>
     </message>
     <message>
         <source>Reconnecting...</source>
-        <translation>Повторно связываемся...</translation>
+        <translation>Восстановление соединения...</translation>
     </message>
     <message>
         <source>Error: You are in or joining this room already!</source>
-        <translation>Ошибка: Вы уже подключились!</translation>
+        <translation>Ошибка: вы уже участвуете или собираетесь участвовать в этой конференции!</translation>
     </message>
     <message>
         <source>Unable to join groupchat.  Reason: %1</source>
-        <translation>Не могу подключиться к конференции.  Причина: %1</translation>
+        <translation>Невозможно присоединиться к конференции. Причина: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
-        <translation>Неожиданная ошибка: %1</translation>
+        <translation>Неожиданная ошибка конференции: %1</translation>
     </message>
     <message>
         <source>Connected.</source>
-        <translation>Подключен(а).</translation>
+        <translation>Соединение установлено.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -2701,8 +2723,8 @@ Reason: %1</source>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation>Вы уверены, что хотите очистить окно?
-(замечание: это не относится к сохраненной истории)</translation>
+        <translation>Вы уверены, что хотите очистить окно разговора?
+(Примечание: это никак не отразится на истории сообщений)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -2714,7 +2736,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Clear chat window</source>
-        <translation>Очистить окно чата</translation>
+        <translation>Очистить окно разговора</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -2722,26 +2744,26 @@ Reason: %1</source>
     </message>
     <message>
         <source>Groupchat toolbar</source>
-        <translation>Инструментальная панель конференции</translation>
+        <translation>Панель инструментов конференции</translation>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation>Компактный/Полный</translation>
+        <translation>Переключить размеры - компактный/полный</translation>
     </message>
 </context>
 <context>
     <name>GCUserView</name>
     <message>
         <source>Send &amp;message</source>
-        <translation>Послать &amp;сообщение</translation>
+        <translation>&amp;Отправить сообщение</translation>
     </message>
     <message>
         <source>Open &amp;chat window</source>
-        <translation>Открыть окно &amp;чата (беседы)</translation>
+        <translation>Открыть окно &amp;разговора</translation>
     </message>
     <message>
         <source>Check &amp;Status</source>
-        <translation>Проверить &amp;статус</translation>
+        <translation>Проверить &amp;состояние</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -2764,19 +2786,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation>Выделить строки и известить пользователя, если данный текст включен в чат</translation>
+        <translation>Выделять текст, и оповещать пользователя если этот текст был сказан в разговоре</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Слова, которые вызывают оповещение в конференции.</translation>
+        <translation>Слова в конференции, которые вызывают оповещение.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation>Это список слов, которые при появлении в чате вызывают оповещение пользователя.</translation>
+        <translation>Список слов, которые вызовут оповещение пользователя, если их сказать в конференции.</translation>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>Введите сюда новое слово и нажмите кнопку &quot;Добавить слово&quot;, чтобы добавить его к списку выделяемых слов</translation>
+        <translation>Введите новое слово и нажмите &quot;Добавить&quot;, чтобы добавить слово в список</translation>
     </message>
     <message>
         <source>Add</source>
@@ -2784,7 +2806,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Adds the new word to the list</source>
-        <translation>Добавляет новое слово в список</translation>
+        <translation>Добавляет слово в список</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -2792,27 +2814,27 @@ Reason: %1</source>
     </message>
     <message>
         <source>Removes the selected word from the highlight list</source>
-        <translation>Удаляет выбранное слово из списка выделяемых слов</translation>
+        <translation>Удаляет выбранное слово из списка</translation>
     </message>
     <message>
         <source>Enable Nick Coloring</source>
-        <translation>Включить цветовое выделение псевдонимов</translation>
+        <translation>Включить раскраску ников</translation>
     </message>
     <message>
         <source>Nick Coloring</source>
-        <translation>Цветовое выделение псевдонимов</translation>
+        <translation>Раскраска ников</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Цвета для выделения псевдонимов в конференции</translation>
+        <translation>Цвета, которые используются для ников в конференции</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation>Это список цветов для выделения псевдонимов в окне конференции.</translation>
+        <translation>Это список слов, которые используются для раскрашивания ников в конференции.</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation>Введите сюда код цвета, или нажмите на изображение палитры справа</translation>
+        <translation>Введите обозначение цвета или нажмите на кнопку палитры справа</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
@@ -2831,11 +2853,11 @@ Reason: %1</source>
     <name>GnuPG</name>
     <message>
         <source>Unable to retrieve secret key list.</source>
-        <translation>Не могу получить список секретных ключей.</translation>
+        <translation>Невозможно получить список секретных ключей.</translation>
     </message>
     <message>
         <source>Unable to retrieve public key list.</source>
-        <translation>Не могу получить список публичных ключей.</translation>
+        <translation>Невозможно получить список публичных ключей.</translation>
     </message>
 </context>
 <context>
@@ -2846,23 +2868,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Latest</source>
-        <translation>&amp;Последний</translation>
+        <translation>С&amp;амое свежее</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Предыдущий</translation>
+        <translation>&amp;Предыдущее</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Следующий</translation>
+        <translation>&amp;Следующее</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Найти</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>Текст &apos;%1&apos; не найден.</translation>
+        <translation>Строка &quot;%1&quot; не найдена.</translation>
     </message>
     <message>
         <source>Already at beginning of message history.</source>
@@ -2870,11 +2892,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation>&amp;Экспортировать...</translation>
+        <translation>&amp;Экспорт...</translation>
     </message>
     <message>
         <source>Er&amp;ase All</source>
-        <translation>С&amp;тереть все</translation>
+        <translation>&amp;Стереть все</translation>
     </message>
     <message>
         <source>Text files (*.txt);;All files (*.*)</source>
@@ -2882,15 +2904,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Export message history</source>
-        <translation>Очистить журнал сообщений</translation>
+        <translation>Экспорт истории сообщений</translation>
     </message>
     <message>
         <source>Confirm overwrite</source>
-        <translation>Подтвердите запись поверх существующего файла</translation>
+        <translation>Подтверждение перезаписи</translation>
     </message>
     <message>
         <source>File already exists, overwrite?</source>
-        <translation>Файл уже существует. Переписать его?</translation>
+        <translation>Файл уже существует, перезаписать?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -2902,13 +2924,13 @@ Reason: %1</source>
     </message>
     <message>
         <source>Confirm erase all</source>
-        <translation>Подтвердите полную очистку журнала</translation>
+        <translation>Подтверждение стирания всего</translation>
     </message>
     <message>
         <source>This will erase all message history for this contact!
 Are you sure you want to do this?</source>
-        <translation>Вся история сообщений для данного контакта буде стерта.
-Вы уверены, что хотите этого?</translation>
+        <translation>Это приведет к стиранию всей истории сообщений для этого контакта!
+Вы уверены, что хотите сделать это?</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2923,7 +2945,7 @@ Are you sure you want to do this?</source>
     <name>HistoryView</name>
     <message>
         <source>Open</source>
-        <translation>Окрыть</translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2947,7 +2969,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>To</source>
-        <translation>Кому</translation>
+        <translation>К</translation>
     </message>
     <message>
         <source>From</source>
@@ -2969,7 +2991,7 @@ Are you sure you want to do this?</source>
     <name>HttpConnect</name>
     <message>
         <source>Authentication failed</source>
-        <translation>Аутентификация завершилась неудачей</translation>
+        <translation>Аутентификация не прошла</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -2977,22 +2999,22 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Access denied</source>
-        <translation>В доступе отказано</translation>
+        <translation>Доступ отвергнут</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation>Попытка соединения отвергнута</translation>
+        <translation>Соединение отклонено</translation>
     </message>
     <message>
         <source>Invalid reply</source>
-        <translation>Непонятный ответ</translation>
+        <translation>Неверный ответ</translation>
     </message>
 </context>
 <context>
     <name>HttpProxyPost</name>
     <message>
         <source>Authentication failed</source>
-        <translation>Аутентификация завершилась неудачей</translation>
+        <translation>Аутентификация не прошла</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -3000,33 +3022,33 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Access denied</source>
-        <translation>В доступе отказано</translation>
+        <translation>Доступ отвергнут</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation>Попытка соединения отвергнута</translation>
+        <translation>Соединение отклонено</translation>
     </message>
     <message>
         <source>Invalid reply</source>
-        <translation>Непонятный ответ</translation>
+        <translation>Неверный ответ</translation>
     </message>
 </context>
 <context>
     <name>IconSelect</name>
     <message>
         <source>No icons available</source>
-        <translation>Иконок не обнаружено</translation>
+        <translation>Иконки недоступны</translation>
     </message>
 </context>
 <context>
     <name>IconsetDetailsDlg</name>
     <message>
         <source>Iconset Details: %1</source>
-        <translation>Данные иконки: %1</translation>
+        <translation>Описание набора иконок: %1</translation>
     </message>
     <message>
         <source>Creation date:</source>
-        <translation>Дата на создания:</translation>
+        <translation>Дата создания:</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -3034,11 +3056,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Название:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Home URL:</source>
-        <translation>Домашняя страница:</translation>
+        <translation>Домашний URL:</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -3050,7 +3072,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Done</source>
-        <translation>&amp;Готово</translation>
+        <translation>&amp;Закрыть</translation>
     </message>
 </context>
 <context>
@@ -3072,11 +3094,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Emoticon iconsets</source>
-        <translation>Иконки со смайликами</translation>
+        <translation>Наборы смайликов</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>&amp;Показать детали</translation>
+        <translation>&amp;Показать описание</translation>
     </message>
     <message>
         <source>psi/arrowUp</source>
@@ -3099,27 +3121,27 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>&amp;Показать детали</translation>
+        <translation>&amp;Показать описание</translation>
     </message>
     <message>
         <source>Default roster iconset:</source>
-        <translation>Набор иконок для списка контактов по умолчанию:</translation>
+        <translation>Основной набор иконок для списка контактов:</translation>
     </message>
     <message>
         <source>Services</source>
-        <translation>Сервисы</translation>
+        <translation>Службы</translation>
     </message>
     <message>
         <source>Use transport specific icons for contacts</source>
-        <translation>Имользовать иконки специфичные для данного протокола</translation>
+        <translation>Использовать &quot;служебные&quot; иконки для контактов</translation>
     </message>
     <message>
         <source>Service iconsets:</source>
-        <translation>Иконки сервисов:</translation>
+        <translation>Наборы иконок для служб:</translation>
     </message>
     <message>
         <source>Service</source>
-        <translation>Сервис</translation>
+        <translation>Служба</translation>
     </message>
     <message>
         <source>Iconset</source>
@@ -3127,7 +3149,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>name</source>
-        <translation>название</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>transport</source>
@@ -3135,7 +3157,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>AIM</source>
-        <translation></translation>
+        <translation>AIM</translation>
     </message>
     <message>
         <source>aim</source>
@@ -3143,7 +3165,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Gadu-Gadu</source>
-        <translation></translation>
+        <translation>Gadu-Gadu</translation>
     </message>
     <message>
         <source>gadugadu</source>
@@ -3151,7 +3173,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>ICQ</source>
-        <translation></translation>
+        <translation>ICQ</translation>
     </message>
     <message>
         <source>icq</source>
@@ -3159,7 +3181,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>MSN</source>
-        <translation></translation>
+        <translation>MSN</translation>
     </message>
     <message>
         <source>msn</source>
@@ -3167,7 +3189,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>SMS</source>
-        <translation></translation>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>sms</source>
@@ -3183,11 +3205,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Собственный набор</translation>
+        <translation>Пользовательские</translation>
     </message>
     <message>
         <source>Custom iconsets:</source>
-        <translation>Выбранные иконки:</translation>
+        <translation>Пользовательские наборы иконок:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -3218,15 +3240,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>System Iconset:</source>
-        <translation>Системные иконки:</translation>
+        <translation>Системный набор иконок:</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>&amp;Показать детали</translation>
+        <translation>&amp;Показать описание</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation></translation>
+        <translation>Alt+S</translation>
     </message>
 </context>
 <context>
@@ -3238,12 +3260,12 @@ Are you sure you want to do this?</source>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Вы не опубликовали изменения в вашей учетной записи.
-Вы уверены, что хотите отменить их?</translation>
+        <translation>Вы не сохранили изменения, произведенные в вашей учетной записи.
+Вы уверены, что хотите отказаться от них?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Отменить изменения и закрыть</translation>
+        <translation>Закрыть и отказаться</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
@@ -3255,26 +3277,26 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Не могу найти информации о вашей учетной записи. Возможно вы ее еще не опубликовали.</translation>
+        <translation>Невозможно получить данные о вашей учетной записи. Возможно, вы никогда не вводили их раньше.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Успех</translation>
+        <translation>Публикация завершена</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Информация о вашей учетной записи опубликована.</translation>
+        <translation>Данные о вашей учетной записи опубликованы.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>Не могу получить информацию об этом пользователе.
+        <translation>Невозможно получить информацию об этом контакте.
 Причина: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>Не могу опубликовать информацию о вашей учетной записи.
+        <translation>Невозможно опубликовать информацию о вашей учетной записи.
 Причина: %1</translation>
     </message>
     <message>
@@ -3308,11 +3330,11 @@ available</source>
     </message>
     <message>
         <source>General</source>
-        <translation>Общие сведения</translation>
+        <translation>Общее</translation>
     </message>
     <message>
         <source>Birthday</source>
-        <translation>Дата рождения</translation>
+        <translation>День рождения</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -3324,15 +3346,15 @@ available</source>
     </message>
     <message>
         <source>Phone #</source>
-        <translation>Телефон</translation>
+        <translation>Номер телефона</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation>Электронная почта</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Псевдоним</translation>
+        <translation>Ник</translation>
     </message>
     <message>
         <source>Location</source>
@@ -3344,11 +3366,11 @@ available</source>
     </message>
     <message>
         <source>Postal Code</source>
-        <translation>Почтовый код</translation>
+        <translation>Почтовый индекс</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Штат (область)</translation>
+        <translation>Регион</translation>
     </message>
     <message>
         <source>City</source>
@@ -3376,11 +3398,11 @@ available</source>
     </message>
     <message>
         <source>Role</source>
-        <translation>Род занятий</translation>
+        <translation>Обязанности</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Обо мне</translation>
+        <translation>О себе</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
@@ -3388,7 +3410,7 @@ available</source>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Получить</translation>
+        <translation>З&amp;агрузить</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -3427,7 +3449,7 @@ available</source>
     <name>JLTestDlg</name>
     <message>
         <source>Connect</source>
-        <translation>Связаться</translation>
+        <translation>Подключиться</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -3443,25 +3465,25 @@ available</source>
     </message>
     <message>
         <source>Connection closed.</source>
-        <translation>Соединение завершено.</translation>
+        <translation>Соединение закрыто.</translation>
     </message>
     <message>
         <source>Stream or connection error.</source>
-        <translation>Ошибка связи.</translation>
+        <translation>Ошибка соединения или потока.</translation>
     </message>
 </context>
 <context>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>VCard (&quot;визитная карточка&quot;) недоступна</translation>
+        <translation>Нет доступной карточки vCard с информацией</translation>
     </message>
 </context>
 <context>
     <name>KTabBar</name>
     <message>
         <source>Close this tab</source>
-        <translation>Закрыть вкладку</translation>
+        <translation>Закрыть этот таб</translation>
     </message>
 </context>
 <context>
@@ -3480,7 +3502,7 @@ available</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -3488,41 +3510,41 @@ available</source>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation></translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Название:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>Разрешена</translation>
+        <translation>Включена</translation>
     </message>
     <message>
         <source>Specifies, whether toolbar is enabled and visible.</source>
-        <translation>Указывает, включена и видима ли панель задач.</translation>
+        <translation>Указывает, включена и видима ли панель инструментов.</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation>Закреплена</translation>
+        <translation>Заблокирована</translation>
     </message>
     <message>
         <source>Specifies, whether it is possible to move toolbar.</source>
-        <translation>Указывает, может ли данная панель инструментов перемещаться.</translation>
+        <translation>Указывает, возможно ли двигать панель инструментов.</translation>
     </message>
     <message>
         <source>Stretchable</source>
-        <translation>Автоматически растягивается</translation>
+        <translation>Растягивается</translation>
     </message>
     <message>
         <source>Specifies, whether toolbar is stretchable.
 Note: it is impossible to dock stretchable toolbar. Uncheck that check box, click apply, dock the toolbar, and then check stretchable again.</source>
-        <translation>Указывает, будет ли панель инструментов автоматически растягиваться до максимально возможного размера.
-Примечание: автоматически растягиваемые панели не могут прикрепляться к границам окна. Если вы все-таки хотите прикрепить ее к границе, временно отключите эту опция, прикрепите панель к границе окна, а потом снова включите опцию &quot;Автомматически растягивается&quot;.</translation>
+        <translation>Указывает, растягивается ли панель инструментов.
+Замечание: невозномжно пристыковать растягивающуюся панель инструментов к окну. Чтобы проделать это, снимите галочку, пристыкуйте панель, и поставьте галочку снова.</translation>
     </message>
     <message>
         <source>Change Position (Advanced)</source>
-        <translation>Изменить позицию</translation>
+        <translation>Изменить положение</translation>
     </message>
     <message>
         <source>A&amp;vailable Actions:</source>
@@ -3530,7 +3552,7 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Name</source>
-        <translation>Название</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>...</source>
@@ -3554,34 +3576,34 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Curr&amp;ent Actions:</source>
-        <translation>&amp;Текущее действие:</translation>
+        <translation>&amp;Выбранные действия:</translation>
     </message>
 </context>
 <context>
     <name>MainWin</name>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="obsolete">Показывать отключенных пользователей</translation>
+        <translation type="obsolete">Показывать контакты, отсутствующие в данный момент в сети</translation>
     </message>
     <message>
         <source>Show Away/XA/DnD</source>
-        <translation type="obsolete">Показывать пользователей со статусом &quot;недоступен/нет на месте/не беспокоить&quot;</translation>
+        <translation type="obsolete">Показывать контакты в режимах отсутствия/длительного отсутствия/занятости</translation>
     </message>
     <message>
         <source>Show Agents/Transports</source>
-        <translation type="obsolete">Показывать агентов/протоколы</translation>
+        <translation type="obsolete">Показывать агенты/службы</translation>
     </message>
     <message>
         <source>Connection is encrypted</source>
-        <translation type="obsolete">Соединение шифруется</translation>
+        <translation type="obsolete">Защищенное соединение</translation>
     </message>
     <message>
         <source>Connection is not encrypted</source>
-        <translation type="obsolete">Соединение не шифруется</translation>
+        <translation type="obsolete">Незащищенное соединение</translation>
     </message>
     <message>
         <source>&amp;ReadMe</source>
-        <translation type="obsolete">&amp;Прочитай меня</translation>
+        <translation type="obsolete">&amp;Инструкции</translation>
     </message>
     <message>
         <source>&amp;About</source>
@@ -3589,35 +3611,35 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation type="obsolete">О &amp;Qt</translation>
+        <translation type="obsolete">О &amp;библиотеке Qt</translation>
     </message>
     <message>
         <source>&amp;Add a contact</source>
-        <translation type="obsolete">&amp;Добавить пользователя</translation>
+        <translation type="obsolete">Добавить &amp;контакт</translation>
     </message>
     <message>
         <source>New &amp;blank message</source>
-        <translation type="obsolete">&amp;Новое пустое сообщение</translation>
+        <translation type="obsolete">Н&amp;овое пустое сообщение</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="obsolete">Настройка учетных записей</translation>
+        <translation type="obsolete">Настройки учетной записи</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="obsolete">&amp;Опции</translation>
+        <translation type="obsolete">&amp;Настройки</translation>
     </message>
     <message>
         <source>&amp;Change profile</source>
-        <translation type="obsolete">Сменить &amp;профиль</translation>
+        <translation type="obsolete">С&amp;менить профиль</translation>
     </message>
     <message>
         <source>Play &amp;sounds</source>
-        <translation type="obsolete">&amp;Звук</translation>
+        <translation type="obsolete">Проигрывать &amp;звук</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Помощь</translation>
+        <translation>&amp;Справка</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -3629,15 +3651,15 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>ReadMe</source>
-        <translation>Прочитай меня</translation>
+        <translation>Инструкции</translation>
     </message>
     <message>
         <source>Receive next event</source>
-        <translation>Получить следующее извещение</translation>
+        <translation>Получить следующее событие</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Показать</translation>
+        <translation>&amp;Восстановить</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
@@ -3645,15 +3667,15 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>&amp;Psi</source>
-        <translation type="obsolete">&amp;Psi</translation>
+        <translation type="obsolete">&amp;Меню</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="obsolete">&amp;Статус</translation>
+        <translation type="obsolete">&amp;Режим</translation>
     </message>
     <message>
         <source>&amp;Manage services</source>
-        <translation type="obsolete">Управление &amp;сервисами</translation>
+        <translation type="obsolete">&amp;Работа со службами</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -3661,35 +3683,35 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Join &amp;Groupchat</source>
-        <translation type="obsolete">Подключиться к &amp;конференции</translation>
+        <translation type="obsolete">Присоединиться к кон&amp;ференции</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation type="obsolete">Настройка &amp;учетных записей</translation>
+        <translation type="obsolete">Учетные &amp;записи</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation>Соединяюсь</translation>
+        <translation>Соединение</translation>
     </message>
     <message>
         <source>1 event received</source>
-        <translation>Получено 1 оповещение</translation>
+        <translation>Получено 1 событие</translation>
     </message>
     <message>
         <source>%1 events received</source>
-        <translation>Получено %1 оповещение(й)</translation>
+        <translation>Получено событий: %1</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="obsolete">Просмотр групп</translation>
+        <translation type="obsolete">Показ групп</translation>
     </message>
     <message>
         <source>&amp;Browse Services</source>
-        <translation type="obsolete">&amp;Разгледај ги сервисите</translation>
+        <translation type="obsolete">&amp;Просмотр служб</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="obsolete">О Qt</translation>
+        <translation type="obsolete">О библиотеке Qt</translation>
     </message>
     <message>
         <source>New blank message</source>
@@ -3697,11 +3719,11 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="obsolete">Подключиться к конференцииПрисоединиться к конференции</translation>
+        <translation type="obsolete">Присоединиться к конференции</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">Опции</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
         <source>Change Profile</source>
@@ -3709,7 +3731,7 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Play sounds</source>
-        <translation type="obsolete">Звук</translation>
+        <translation type="obsolete">Проигрывать звуки</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -3721,87 +3743,87 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Toggle visibility of special roster groups</source>
-        <translation type="obsolete">Включает/выключает видимость специальных групп в списке контактов</translation>
+        <translation type="obsolete">Переключает показ групп в списке контактов</translation>
     </message>
     <message>
         <source>Toggles visibility of offline contacts in roster</source>
-        <translation type="obsolete">Включает/выключает видимость отключенных пользователей в списке контактов</translation>
+        <translation type="obsolete">Переключает показ отключенных контактов</translation>
     </message>
     <message>
         <source>Toggles visibility of away/xa/dnd contacts in roster</source>
-        <translation type="obsolete">Включает/выключает видимость пользователей со статусом нет-на-месте/не-беспокоить</translation>
+        <translation type="obsolete">Переключает показ контактов, которые отсутствуют/недоступны/заняты</translation>
     </message>
     <message>
         <source>Toggles visibility of agents/transports in roster</source>
-        <translation type="obsolete">Включает/выключает видимость агентов/протоколов в списке контактов</translation>
+        <translation type="obsolete">Переключает показ агентов/служб в списке контактов</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation type="obsolete">Специальный элемент, показывающий количество находящихся во входной очереди сообщений</translation>
+        <translation type="obsolete">Показывает число полученных событий</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="obsolete">Обнаружение &amp;сервисов</translation>
+        <translation type="obsolete">&amp;Просмотр служб</translation>
     </message>
     <message>
         <source>Show Read Me file</source>
-        <translation type="obsolete">Показать файл &quot;Прочитай меня&quot;</translation>
+        <translation type="obsolete">Показать файл с инструкциями</translation>
     </message>
     <message>
         <source>Configure Toolbars</source>
-        <translation type="obsolete">Конфигурирование панелей инструментов</translation>
+        <translation type="obsolete">Настроить панели инструментов</translation>
     </message>
     <message>
         <source>Configure Tool&amp;bars</source>
-        <translation type="obsolete">Конфигурирование панелей &amp;инструментов</translation>
+        <translation type="obsolete">Настроить панели &amp;инструментов</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation type="obsolete">Включает/выключает звуковые оповещения</translation>
+        <translation type="obsolete">Переключает звук</translation>
     </message>
     <message>
         <source>Quits Psi</source>
-        <translation type="obsolete">Завершает работу с Psi</translation>
+        <translation type="obsolete">Выход из Psi</translation>
     </message>
     <message>
         <source>Changes your global status to &apos;%1&apos;</source>
-        <translation type="obsolete">Меняет ваш глобальный статус на &apos;%1&apos;</translation>
+        <translation type="obsolete">Изменяет ваш статус на &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="obsolete">Подключен(а)</translation>
+        <translation type="obsolete">В сети</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="obsolete">Готов(а) к чату</translation>
+        <translation type="obsolete">Свободен для разговора</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="obsolete">Нет на месте</translation>
+        <translation type="obsolete">Отсутствую</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation type="obsolete">Нет на месте и надолго</translation>
+        <translation type="obsolete">Отошел</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation type="obsolete">Не беспокоить</translation>
+        <translation type="obsolete">Занят</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="obsolete">Невидим(а)</translation>
+        <translation type="obsolete">Невидимый</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="obsolete">Отключен(а)</translation>
+        <translation type="obsolete">Отключен</translation>
     </message>
     <message>
         <source>The main Psi button, that provides access to many actions</source>
-        <translation type="obsolete">Главная кнопка Psi, через которую осуществляется доступ к большинству операций и настроек</translation>
+        <translation type="obsolete">Главная кнопка Psi, обеспечивающая доступ ко многим действиям</translation>
     </message>
     <message>
         <source>Provides a convenient way to change and to get information about current status</source>
-        <translation type="obsolete">Обеспечивает удобный доступ к информации о вашем текущем статусе</translation>
+        <translation type="obsolete">Удобный способ для изменения/просмотра состояния текущего статуса</translation>
     </message>
     <message>
         <source>Separator</source>
@@ -3809,15 +3831,15 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Spacer provides spacing to separate actions</source>
-        <translation type="obsolete">Вставляет пробел для разделения действий</translation>
+        <translation type="obsolete">Раздвигает соседние действия</translation>
     </message>
     <message>
         <source>Show Hidden</source>
-        <translation type="obsolete">Показывать скрытых</translation>
+        <translation type="obsolete">Показывать спрятанных</translation>
     </message>
     <message>
         <source>Toggles visibility of hidden contacts in roster</source>
-        <translation type="obsolete">Включает/выключает видимость скрытых пользователей в списке контактов</translation>
+        <translation type="obsolete">Переключает видимость скрытых контактов в списке</translation>
     </message>
     <message>
         <source>Psi Handbook (Online)</source>
@@ -3829,35 +3851,35 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Report a Bug</source>
-        <translation type="obsolete">Сообщить об ошибке в программе</translation>
+        <translation type="obsolete">Сообщить об ошибке</translation>
     </message>
     <message>
         <source>Report a &amp;Bug</source>
-        <translation type="obsolete">Сообщить об &amp;ошибке в программе</translation>
+        <translation type="obsolete">Сообщить об о&amp;шибке</translation>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation type="obsolete">Совет Дня</translation>
+        <translation type="obsolete">Совет дня</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation type="obsolete">&amp;Совет Дня</translation>
+        <translation type="obsolete">&amp;Совет дня</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation type="obsolete">Просмотреть полезные советы</translation>
+        <translation type="obsolete">Просмотр многих полезных советов</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
-        <translation type="obsolete">Менеджер передачи файлов</translation>
+        <translation type="obsolete">Менеджер передачи данных</translation>
     </message>
     <message>
         <source>Trans&amp;fer Manager</source>
-        <translation type="obsolete">Менеджер передачи &amp;файлов</translation>
+        <translation type="obsolete">Менеджер &amp;передачи данных</translation>
     </message>
     <message>
         <source>Opens the Transfer Manager dialog</source>
-        <translation type="obsolete">Открывает окно менеджера передачи файлов</translation>
+        <translation type="obsolete">Открывает диалог менеджера передачи данных</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -3873,7 +3895,7 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <source>View</source>
@@ -3881,18 +3903,18 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>Tools</source>
-        <translation>Сервис</translation>
+        <translation>Инструменты</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Помощь</translation>
+        <translation>Справка</translation>
     </message>
 </context>
 <context>
     <name>MiniClient</name>
     <message>
         <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: серверска автентикација</translation>
+        <translation type="obsolete">%1: Аутентификация сервера</translation>
     </message>
     <message>
         <source>The %1 certificate failed the authenticity test.</source>
@@ -3904,7 +3926,7 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>&amp;Details...</source>
-        <translation>&amp;Детали...</translation>
+        <translation>&amp;Подробности...</translation>
     </message>
     <message>
         <source>Co&amp;ntinue</source>
@@ -3912,21 +3934,21 @@ Note: it is impossible to dock stretchable toolbar. Uncheck that check box, clic
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>%1: Server Error</source>
-        <translation type="obsolete">%1: Серверска грешка</translation>
+        <translation type="obsolete">%1: Ошибка сервера</translation>
     </message>
     <message>
         <source>There was an error communicating with the Jabber server.
 Details: %1</source>
-        <translation>Ошибка связи с Jabber-сервер.
+        <translation>Во время работы с сервером Jabber произошла ошибка.
 Подробности: %1</translation>
     </message>
     <message>
         <source>Server Authentication</source>
-        <translation>Аутентификация сервера </translation>
+        <translation>Аутентификация сервера</translation>
     </message>
     <message>
         <source>Server Error</source>
@@ -3937,15 +3959,15 @@ Details: %1</source>
     <name>MsgMle</name>
     <message>
         <source>Open mail composer</source>
-        <translation type="obsolete">Отвори мејл бележник</translation>
+        <translation type="obsolete">Открыть почтовую программу</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="obsolete">Отвори прелистувач</translation>
+        <translation type="obsolete">Открыть веб-броузер</translation>
     </message>
     <message>
         <source>Copy location</source>
-        <translation type="obsolete">Копирај адреса</translation>
+        <translation type="obsolete">Скопировать адрес</translation>
     </message>
 </context>
 <context>
@@ -3956,71 +3978,71 @@ Details: %1</source>
     </message>
     <message>
         <source>Single-click triggers default action</source>
-        <translation>Одинарный клик запускает основное действие</translation>
+        <translation>Одиночный щелчок вызывает действие по умолчанию</translation>
     </message>
     <message>
         <source>Always show self-contact</source>
-        <translation type="obsolete">Всегда показывать самого себя в списке пользователей</translation>
+        <translation type="obsolete">Всегда показывать себя в списке контактов</translation>
     </message>
     <message>
         <source>Grab URLs from clipboard</source>
-        <translation>Захватывать URL&apos;ы из буфера обмена</translation>
+        <translation>Захватывать URL из буфера обмена</translation>
     </message>
     <message>
         <source>Jabber ID completion</source>
-        <translation>Автозавершение Jabber ID</translation>
+        <translation>Автодополнение Jabber ID</translation>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation>Показывать тему во входящих оповещениях</translation>
+        <translation>Показывать отдельную строку &quot;Тема&quot; в событиях</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Показывать счетчик знаков</translation>
+        <translation>Показывать счетчик символов</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
-        <translation>Автоматически получать vCard при установлении связи с сервером</translation>
+        <translation>Автоматически получать vCard при подключении к серверу</translation>
     </message>
     <message>
         <source>Check client version when a contact comes online</source>
-        <translation>Проверять версию Jabber-клиента других пользователей, когда они выходят на связь с сервером</translation>
+        <translation>Проверять версию клиента, когда контакт входит в сеть</translation>
     </message>
     <message>
         <source>Animate the roster when a contact comes online</source>
-        <translation>Анимировать окно списка пользователей, когда новые пользователи выходят на связь с сервером</translation>
+        <translation>Анимировать имена только что вошедших в сеть контактов</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
-        <translation>Автоматически прокручивать список к тому пользователю, от которого пришло оповещение</translation>
+        <translation>Прокручивать список к контакту при получении события, связанного с ним</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Игнорировать „заголовочные“ оповещения (напр. оповещения MSN)</translation>
+        <translation>Игнорировать &quot;объявления&quot; (например, новости MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
-        <translation>Обрабатывать входящие сообщения и чаты как:</translation>
+        <translation>Принимать входящие сообщения и разговоры:</translation>
     </message>
     <message>
         <source>Determined by sender</source>
-        <translation>Определяется отправителем</translation>
+        <translation>так, как указано отправителем</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation>Как сообщения</translation>
+        <translation>все как сообщения</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation>Как чаты</translation>
+        <translation>все как разговоры</translation>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
-        <translation>Как сообщения (но если уже беседую, то как чаты)</translation>
+        <translation>как сообщения (как разговоры, если идет разговор)</translation>
     </message>
     <message>
         <source>Enable message events</source>
-        <translation type="obsolete">Разрешить дополнительные оповещения в сообщениях</translation>
+        <translation type="obsolete">Включить информирование о наборе сообщений</translation>
     </message>
     <message>
         <source>Enable &apos;Contact is typing ...&apos; events</source>
@@ -4074,7 +4096,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Small group headings in roster</source>
-        <translation type="obsolete">Маленькие заголовки групп в списке контактов</translation>
+        <translation type="obsolete">Маленькие названия групп в списке контактов</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -4082,39 +4104,39 @@ Details: %1</source>
     </message>
     <message>
         <source>Group Background</source>
-        <translation type="obsolete">Фон заголовка группы</translation>
+        <translation type="obsolete">Цвет фона групп</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="obsolete">Отключен(а)</translation>
+        <translation type="obsolete">Отключен</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="obsolete">Нет на месте</translation>
+        <translation type="obsolete">Отсутствую</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="obsolete">Включен(а)</translation>
+        <translation type="obsolete">В сети</translation>
     </message>
     <message>
         <source>Nick Anim Foreground</source>
-        <translation type="obsolete">Анимация</translation>
+        <translation type="obsolete">Цвет ника при анимации</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation type="obsolete">Не беспокоить</translation>
+        <translation type="obsolete">Занят</translation>
     </message>
     <message>
         <source>List Background</source>
-        <translation type="obsolete">Фон списка</translation>
+        <translation type="obsolete">Цвет фона списка</translation>
     </message>
     <message>
         <source>Nick Anim Background</source>
-        <translation type="obsolete">Фон анимации</translation>
+        <translation type="obsolete">Цвет фона при анимации</translation>
     </message>
     <message>
         <source>Group Foreground</source>
-        <translation type="obsolete">Заголовок группы</translation>
+        <translation type="obsolete">Цвет названий групп</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -4130,7 +4152,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Roster</source>
-        <translation>Список</translation>
+        <translation>Список контактов</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -4138,7 +4160,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Popup</source>
-        <translation>Всплывающее окошко</translation>
+        <translation>Всплывающее окно</translation>
     </message>
     <message>
         <source>Account Heading Background</source>
@@ -4193,7 +4215,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation>Окно списка всегда поверх других окон</translation>
+        <translation>Окно списка контактов всегда наверху</translation>
     </message>
     <message>
         <source>Remember Window Sizes</source>
@@ -4201,7 +4223,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation>Клик левой кнопкой вызывает меню</translation>
+        <translation>Левая кнопка мыши открывает меню</translation>
     </message>
     <message>
         <source>Links</source>
@@ -4213,7 +4235,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Вручную</translation>
+        <translation>Самостоятельно указанных программ</translation>
     </message>
     <message>
         <source>Mailer</source>
@@ -4221,39 +4243,39 @@ Details: %1</source>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Броузер</translation>
+        <translation>Браузер</translation>
     </message>
     <message>
         <source>Enable Docklet</source>
-        <translation>Показывать иконку в системном лотке</translation>
+        <translation>Отображать состояние на панели</translation>
     </message>
     <message>
         <source>Docklet</source>
-        <translation>Иконка в системном лотке</translation>
+        <translation>Док состояния/системный лоток</translation>
     </message>
     <message>
         <source>Use &quot;Double-click&quot; style (like Mirabilis ICQ)</source>
-        <translation>Использовать двойной клик (как в Mirabilis ICQ)</translation>
+        <translation>Использовать стиль &quot;двойных щелчков&quot; (как в Mirabilis ICQ)</translation>
     </message>
     <message>
         <source>Hide roster window on startup</source>
-        <translation>При старте прятать окно списка контактов</translation>
+        <translation>Прятать список контактов при запуске</translation>
     </message>
     <message>
         <source>Make roster window a &quot;Tool-Window&quot;</source>
-        <translation>Главное окно выглядит как &quot;инструментальное окошко&quot;</translation>
+        <translation>Не показывать окно контактов на панели задач</translation>
     </message>
     <message>
         <source>Use WindowMaker docklet</source>
-        <translation>Использовать иконку WindowMaker&apos;а</translation>
+        <translation>Поддержка WindowMaker</translation>
     </message>
     <message>
         <source>Data Transfer Port:</source>
-        <translation>Порт для передачи файлов:</translation>
+        <translation>Порт передачи данных:</translation>
     </message>
     <message>
         <source>Data Transfer External Address:</source>
-        <translation>Внешний адрес для передачи файлов:</translation>
+        <translation>Внешний адрес для передачи данных:</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
@@ -4272,19 +4294,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Contact &quot;says&quot; instead of IRC style</source>
-        <translation>Стиль „Пользователь сказал“ вместо стиля IRC</translation>
+        <translation>Не использовать оформление разговора в стиле IRC</translation>
     </message>
     <message>
         <source>Enter key sends chat messages</source>
-        <translation>Клавиша Enter отсылает сообщение</translation>
+        <translation>Клавиша Enter используется для отправки сообщений</translation>
     </message>
     <message>
         <source>Alert chat messages even if chat window is open</source>
-        <translation>Оповещать о новых сообщениях, даже когда окно чата раскрыто</translation>
+        <translation>Уведомлять о новых репликах в уже открытом окне разговора</translation>
     </message>
     <message>
         <source>Raise chat window on receiving new messages</source>
-        <translation>Активировать окно чата при проявлении новых сообщений</translation>
+        <translation>Открывать окно разговора при получении новых сообщений</translation>
     </message>
     <message>
         <source>Default Action</source>
@@ -4296,31 +4318,31 @@ Details: %1</source>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation>Разговор</translation>
     </message>
     <message>
         <source>Delete chat window contents (end conversation)</source>
-        <translation>Очищать окно чата (т.е. завершать разговор)</translation>
+        <translation>Удалять содержимое окон разговоров (завершать разговор)</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>При закрытии окна чата</translation>
+        <translation>когда окно разговора закрыто</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Через час после закрытия окна чата</translation>
+        <translation>через час после закрытия окна разговора</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Через день после закрытия окна чата</translation>
+        <translation>через день после закрытия окна разговора</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Никогда</translation>
+        <translation>никогда</translation>
     </message>
     <message>
         <source>Open chats in compact mode</source>
-        <translation>Открывать чат в компактном режиме</translation>
+        <translation>Открывать разговоры в компактном режиме</translation>
     </message>
     <message>
         <source>Open chats in tabbed mode</source>
@@ -4339,87 +4361,87 @@ Details: %1</source>
     </message>
     <message>
         <source>Auto-open New Messages</source>
-        <translation>Автоматически открывать новые сообщения</translation>
+        <translation>Автоматическое открытие новых сообщений</translation>
     </message>
     <message>
         <source>Allow auto-open even when Away/XA</source>
-        <translation>Автоматически открывать, даже когда вас нет на месте</translation>
+        <translation>Разрешить авто-открытие даже в режимах отсутствия</translation>
     </message>
     <message>
         <source>Allow auto-open even from unlisted users</source>
-        <translation>Автоматически открывать и сообщения от пользователей, не представленных в списке</translation>
+        <translation>Разрешить авто-открытие даже от контактов не из списка</translation>
     </message>
     <message>
         <source>Raise Roster Window On New Event</source>
-        <translation>Активизировать окно списка при новых оповещениях</translation>
+        <translation>Поднять над всеми окно списка контактов при получении события</translation>
     </message>
     <message>
         <source>Ignore events from contacts not already in your roster</source>
-        <translation>Игнорировать сообщения от пользователей, не проедставленных в списке</translation>
+        <translation>Игнорировать события от контактов не из списка</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
-        <translation>Автоматически авторизовывать пользователей, добавляемых в список</translation>
+        <translation>Автоматически авторизовывать контакты</translation>
     </message>
     <message>
         <source>Alerts</source>
-        <translation>Визуальные оповещения</translation>
+        <translation>Уведомления</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Отсутствуют</translation>
+        <translation>Отключить мигание</translation>
     </message>
     <message>
         <source>Blink</source>
-        <translation>Мигание</translation>
+        <translation>Включить мигание</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation>Анимация</translation>
+        <translation>Включить анимацию</translation>
     </message>
     <message>
         <source>Enable popup notifications</source>
-        <translation>Разрешить оповещения в виде всплывающих окон</translation>
+        <translation>Включить всплывающие извещения</translation>
     </message>
     <message>
         <source>Popup Notifications</source>
-        <translation>Оповещения в виде всплывающих окон</translation>
+        <translation>Всплывающие извещения</translation>
     </message>
     <message>
         <source>On incoming Message event</source>
-        <translation>О новых сообщениях</translation>
+        <translation>При входящем сообщении</translation>
     </message>
     <message>
         <source>When a contact becomes available</source>
-        <translation>Когда пользователь становится доступным</translation>
+        <translation>Когда контакт становится доступен</translation>
     </message>
     <message>
         <source>When a contact becomes unavailable</source>
-        <translation>Когда пользователь становится недоступным</translation>
+        <translation>Когда контакт становится недоступен</translation>
     </message>
     <message>
         <source>When a contact changes status</source>
-        <translation>Когда статус пользователя изменяется</translation>
+        <translation>Когда контакт меняет статус</translation>
     </message>
     <message>
         <source>Autopopup New Headlines</source>
-        <translation type="obsolete">Автоматически создавать новые заголовки</translation>
+        <translation type="obsolete">Автоматическое открытие новых объявлений</translation>
     </message>
     <message>
         <source>On incoming Headline event</source>
-        <translation>Когда приходят &quot;заголовочные&quot; оповещения</translation>
+        <translation>При входящем объявлении</translation>
     </message>
     <message>
         <source>Auto-open New Headlines</source>
-        <translation>Автоматически открывать новые заголовки</translation>
+        <translation>Автоматическое открытие новых объявлений</translation>
     </message>
     <message>
         <source>Auto-open New Files</source>
-        <translation>Автоматически открывать новые файлы</translation>
+        <translation>Автоматическое открытие новых файлов</translation>
     </message>
     <message>
         <source>On incoming File event</source>
-        <translation>Когда приходят оповещения о передаче файлов</translation>
+        <translation>При входящем файле</translation>
     </message>
     <message>
         <source>Notify when authorization was received</source>
@@ -4454,11 +4476,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Play sounds when Away/XA</source>
-        <translation>Проигрывать звуки, когда вас нет на месте</translation>
+        <translation>Проигрывать звуки в режиме отсутствия и длительного отсутствия</translation>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
-        <translation>Проигрывать звукии для всех сообщений в конференции</translation>
+        <translation>Проигрывать звуки для всех сообщений в конференции</translation>
     </message>
     <message>
         <source>System Message:</source>
@@ -4466,47 +4488,47 @@ Details: %1</source>
     </message>
     <message>
         <source>Receive Next Chat:</source>
-        <translation>Получена следующая реплика в чате:</translation>
+        <translation>Реплика в разговоре:</translation>
     </message>
     <message>
         <source>Enter a filename or !beep for a system beep</source>
-        <translation>Введите имя файла или !beep (системный звуковой сигнал)</translation>
+        <translation>Введите имя файла или &apos;!beep&apos; для использования системного гудка</translation>
     </message>
     <message>
         <source>Receive Online Status:</source>
-        <translation>Получен статус &quot;Подключен&quot;:</translation>
+        <translation>При чьем-либо появлении в сети:</translation>
     </message>
     <message>
         <source>Receive Message:</source>
-        <translation>Получено сообщение:</translation>
+        <translation>Прием сообщения:</translation>
     </message>
     <message>
         <source>Receive First Chat:</source>
-        <translation>Получена первая реплика в чате:</translation>
+        <translation>Начало разговора:</translation>
     </message>
     <message>
         <source>Receive Offline Status:</source>
-        <translation>Получен статус &quot;Отключен&quot;:</translation>
+        <translation>При чьем-либо отключении:</translation>
     </message>
     <message>
         <source>Send Message:</source>
-        <translation>Послать сообщение:</translation>
+        <translation>Отправка сообщения:</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation>Сбросить в исходное состояние</translation>
+        <translation>Восстановить умолчания</translation>
     </message>
     <message>
         <source>Headline:</source>
-        <translation>Заголовок:</translation>
+        <translation>Объявление:</translation>
     </message>
     <message>
         <source>Incoming File Transfer:</source>
-        <translation>Получен запрос на передачу файла:</translation>
+        <translation>Передача файла:</translation>
     </message>
     <message>
         <source>File Transfer Complete:</source>
-        <translation>Передача файла закончена:</translation>
+        <translation>Завершение передачи файла:</translation>
     </message>
 </context>
 <context>
@@ -4517,7 +4539,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Prompt for status message when choosing &quot;Online&quot;</source>
-        <translation type="obsolete">Каждый раз предлагать ввести сообщение о статусе при подключении к серверу</translation>
+        <translation type="obsolete">Предлагать ввести сообщение о состоянии при выборе режима &quot;В сети&quot;</translation>
     </message>
     <message>
         <source>Minutes</source>
@@ -4525,27 +4547,27 @@ Details: %1</source>
     </message>
     <message>
         <source>Auto Offline After:</source>
-        <translation>Автоматически отключаться от сервера через:</translation>
+        <translation>Выход из сети после:</translation>
     </message>
     <message>
         <source>Auto XA After:</source>
-        <translation>Автоматически устанавливать статус &quot;Нет на месте и надолго&quot; через:</translation>
+        <translation>Длительное отсутствие после:</translation>
     </message>
     <message>
         <source>Auto Away After:</source>
-        <translation>Автоматически устанавливать статус &quot;Нет на месте&quot; через:</translation>
+        <translation>Отсутствие после:</translation>
     </message>
     <message>
         <source>Auto Status Message:</source>
-        <translation>Автоматическое сообщение о статусе:</translation>
+        <translation>Текст сообщения для автоматической смены режимов:</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Домашние заготовки</translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>Новая</translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4557,316 +4579,314 @@ Details: %1</source>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
-        <translation>Приглашать ввести сообщение о статусе</translation>
+        <translation>Запрашивать сообщение при переходе в состояние</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Включен(а)</translation>
+        <translation>В сети</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Отключен(а)</translation>
+        <translation>Отключен</translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Options</source>
-        <translation type="obsolete">Опции</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
         <source>Windows Default Browser/Mail</source>
-        <translation type="obsolete">Основен Windows прелистувач/мејлер</translation>
+        <translation type="obsolete">Браузера/почтового клиента Windows</translation>
     </message>
     <message>
         <source>KDE Default Browser/Mail</source>
-        <translation type="obsolete">Основен KDE прелистувач/мејлер</translation>
+        <translation type="obsolete">Браузера/почтового клиента KDE</translation>
     </message>
     <message>
         <source>MacOS Default Browser/Mail</source>
-        <translation type="obsolete">Основен MacOS прелистувач/мејлер</translation>
+        <translation type="obsolete">Браузера/почтового клиента MacOS</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">Избор</translation>
+        <translation type="obsolete">Самостоятельно указанных программ</translation>
     </message>
     <message>
         <source>Windows Sound</source>
-        <translation type="obsolete">Windows звук</translation>
+        <translation type="obsolete">Звуки Windows</translation>
     </message>
     <message>
         <source>MacOS Sound</source>
-        <translation type="obsolete">MacOS звук</translation>
+        <translation type="obsolete">Звуки MacOS</translation>
     </message>
     <message>
         <source>New Status Preset</source>
-        <translation type="obsolete">Нов дефиниран статус</translation>
+        <translation type="obsolete">Новый шаблон режима</translation>
     </message>
     <message>
         <source>Please enter a name for the new status preset:</source>
-        <translation type="obsolete">Внеси име за новиот дефиниран статус:</translation>
+        <translation type="obsolete">Введите название для нового шаблона:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Грешка</translation>
+        <translation type="obsolete">Ошибка</translation>
     </message>
     <message>
         <source>Can&apos;t create a blank preset!</source>
-        <translation type="obsolete">Не можам да креирам празна дефиниција!</translation>
+        <translation type="obsolete">Невозможно создать пустой шаблон!</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation type="obsolete">Веќе имаш дефиниција со тоа име!</translation>
+        <translation type="obsolete">Шаблон с таким именем уже существует!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="obsolete">Избери звучен фајл</translation>
+        <translation type="obsolete">Выберите звуковой файл</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="obsolete">Нормално, десен клик врз контактот ќе го активира менито. Избери ја оваа опција ако сакаш да користиш лев клик.</translation>
+        <translation type="obsolete">Обычно при щелчке правой кнопкой мыши по контакту открывается контекстное меню. Отметьте эту опцию, если хотите использовать для этого левую кнопку.</translation>
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation type="obsolete">Нормално, двоклик на контактот ќе ја повика основната акција. Избери ја оваа опција ако сакаш да ја повикаш со еден клик.</translation>
+        <translation type="obsolete">Обычно при двойном щелчке мышью по контакту выполняется действие по учмоланию. Отметьте эту опцию, если хотите использовать для этого одиночный щелчок.</translation>
     </message>
     <message>
         <source>Make the default action open a chat window.</source>
-        <translation type="obsolete">Основна акција ќе биде отворање на прозорец за порака.</translation>
+        <translation type="obsolete">Сделать октрытие окна разговора действием по умолчанию.</translation>
     </message>
     <message>
         <source>Make the default action open a normal message window.</source>
-        <translation type="obsolete">Основна акција ќе биде отворање на прозорец за разговор.</translation>
+        <translation type="obsolete">Сделать открытие обычного окна сообщений действием по умолчанию.</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="obsolete">Главниот Psi прозор секогаш ќе биде пред другите.</translation>
+        <translation type="obsolete">Помещать основное окно Psi поверх всех других окон.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Контролира колку долго логот од разговорот ќе се чува во меморија, откако прозорот за разговор е затворен.&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;Определяет, как долго журнал разговора будет храниться в памяти после закрытия окна разговора.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Оваа опција не го чува логот во меморија.&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;При использовании этой опции журнал разговора не хранится в памяти.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Со оваа опција логот се чува 1 час пред да се избрише.&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;При использовании этой опции журнал разговора хранится в памяти в течение часа.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Со оваа опција логот се чува 1 ден пред да се избрише.&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;При использовании этой опции журнал разговора хранится в памяти в течение суток.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Со оваа опција логот се чува за сегогаш.&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;При использовании этой опции журнал разговора хранится в памяти всегда.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi remember window size and positions for chats and messages.  If disabled, the windows will always appear in their default positions and sizes.</source>
-        <translation type="obsolete">Со ова опција Psi ќе ја памти големината и позицијата на прозорите за разговор и пораки. Доколку  не е селектирана прозорите секогаш ќе се појавуваат во своите основни позиции и големини.</translation>
+        <translation type="obsolete">Запоминать размеры расположение окон разговоров и сообщений. Если эта опция отключена, они будут появляться с размерами и расположением по умолчанию.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be relaced by &lt;img src=&quot;smile&quot;&gt;&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Смешковци се кратки секвенци од знаци кои служат за искажување емоции или идеи.&lt;/P&gt;&lt;P&gt;Избери ја ова опција ако сакаш Psi да ги заменува емоциите со слика.&lt;/P&gt;&lt;P&gt;На пример, &lt;B&gt;:-)&lt;/B&gt; ќе биде заменето со &lt;img src=&quot;smile&quot;&gt;&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;Смайлики - короткие последовательности символов, используемые, чтобы передавать эмоции или образы.&lt;/P&gt;&lt;P&gt;Отметьте эту опцию, если хотите, чтобы Psi заменял обычные смайлики на графические изображения.&lt;/P&gt;&lt;P&gt;Например, &lt;B&gt;:-)&lt;/B&gt; будет заменен на &lt;img src=&quot;smile&quot;&gt;&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;Changes the normal chat style from:&lt;/P&gt;&lt;P&gt;[01:23:45] &lt;MyName&gt; Hi&lt;/P&gt;&lt;P&gt;[01:23:56] &lt;YourName&gt; How are you?&lt;/P&gt;&lt;P&gt;to:&lt;/P&gt;&lt;P&gt;[01:23:45] MyName says:&lt;/P&gt;&lt;P&gt;Hi&lt;/P&gt;&lt;P&gt;[01:23:56] YourName says:&lt;/P&gt;&lt;P&gt;How are you?&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Го променува нормалниот стил на разговор од:&lt;/P&gt;&lt;P&gt;[01:23:45] &lt;MyName&gt; Здраво&lt;/P&gt;&lt;P&gt;[01:23:56] &lt;YourName&gt; Како си?&lt;/P&gt;&lt;P&gt;во:&lt;/P&gt;&lt;P&gt;[01:23:45] Моетоиме вели:&lt;/P&gt;&lt;P&gt;Здраво&lt;/P&gt;&lt;P&gt;[01:23:56] Твоетоиме вели:&lt;/P&gt;&lt;P&gt;Како си?&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;Изменить стиль обычного разговора:&lt;/P&gt;&lt;P&gt;[01:23:45] &lt;МоеИмя&gt; Привет&lt;/P&gt;&lt;P&gt;[01:23:56] &lt;ИмяСобеседника&gt; Как дела?&lt;/P&gt;&lt;P&gt;на:&lt;/P&gt;&lt;P&gt;[01:23:45] МоеИмя пишет:&lt;/P&gt;&lt;P&gt;Привет&lt;/P&gt;&lt;P&gt;[01:23:56] ИмяСобеседника пишет:&lt;/P&gt;&lt;P&gt;Как дела?&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Selects what applications to use for handling URLs and e-mail addresses.  You can choose between the system default and custom applications.</source>
-        <translation type="obsolete">Тука избираш кои апликации ќе ги користиш за работа со  URL-а и со e-mail адреси.  Можеш да избереш помеѓу оние кои се основни на системот и другите кои се достапни.</translation>
+        <translation type="obsolete">Выбор приложения для обработки URL и почтовых адресов. Вы можете пользоваться программами системы по умолчанию иои указать свои.</translation>
     </message>
     <message>
         <source>Enter the path to the application&apos;s executable and choose &quot;Custom&quot; in the list above.</source>
-        <translation type="obsolete">Внеси ја патеката која води до апликацијата и избери &quot;Избор&quot; од горната листа.</translation>
+        <translation type="obsolete">Введите путь к исполняемому файлу приложения и выберите пункт &quot;Самостоятельно указанных программ&quot; из списка выше.</translation>
     </message>
     <message>
         <source>Specify what custom browser application to use for handling URLs here.</source>
-        <translation type="obsolete">Одреди кој прелистувач сакаш да го користиш.</translation>
+        <translation type="obsolete">Укажите здесь, какой бразуер должен использоваться для обработки URL.</translation>
     </message>
     <message>
         <source>Specify what custom mailer application to use for handling e-mail addresses here.</source>
-        <translation type="obsolete">Одреди која e-mail апликација сакаш да ја користиш.</translation>
+        <translation type="obsolete">Укажите здесь, какой почтовый клиент должен использоваться для обработки адресов электронной почты.</translation>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation type="obsolete">Psi ќе користи докирана икона (позната како system tray икона).</translation>
+        <translation type="obsolete">Отображать значок Psi в доке состояния/системном лотке.</translation>
     </message>
     <message>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation type="obsolete">Нормално еден клик на докираната икона го крева главниот прозор. Избери ја оваа опција ако сакаш да користиш двоклик.</translation>
+        <translation type="obsolete">Обычно при щелчке мышью по значку Psi в доке состояния (или системном лотке) открывается основное окно. Отметьте эту опцию, если хотите использовать для этого двойной щелчок.</translation>
     </message>
     <message>
         <source>Starts Psi with only the docklet icon visible.</source>
-        <translation type="obsolete">Psi стартува само со докираната икона.</translation>
+        <translation type="obsolete">Запускать Psi со значком в доке состояния (или системном лотке).</translation>
     </message>
     <message>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
-        <translation type="obsolete">Psi нема да зема место на taskbar-от и главниот прозор ќе користи мал наслво.</translation>
+        <translation type="obsolete">Psi не будет занимать много места на панели задач, а заголовок его основного окна будет короче.</translation>
     </message>
     <message>
         <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
-        <translation type="obsolete">Одредува боја на името на контактот кога тој е &quot;%1&quot;.</translation>
+        <translation type="obsolete">Цвет текста имени контакта в главном окне, когда пользователь находится в режиме &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>online</source>
-        <translation type="obsolete">присутен</translation>
+        <translation type="obsolete">в сети</translation>
     </message>
     <message>
         <source>offline</source>
-        <translation type="obsolete">отсутен</translation>
+        <translation type="obsolete">отключен</translation>
     </message>
     <message>
         <source>away</source>
-        <translation type="obsolete">оддалечен</translation>
+        <translation type="obsolete">отсутствует</translation>
     </message>
     <message>
         <source>do not disturb</source>
-        <translation type="obsolete">не сака да го вознемируваат</translation>
+        <translation type="obsolete">занят</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="obsolete">Одредува боја на позадината на групата во главниот прозор.</translation>
+        <translation type="obsolete">Цвет фона для имени группы в основном окне.</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
-        <translation type="obsolete">Одредува боја на позадината на главниот прозор.</translation>
+        <translation type="obsolete">Цвет фона основного окна.</translation>
     </message>
     <message>
         <source>Specifies the font style for the main window.</source>
-        <translation type="obsolete">Го одредува стилот на букви на главниот прозор.</translation>
+        <translation type="obsolete">Начертание шрифта, используемого в основном окне.</translation>
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation type="obsolete">Го одредува стилот на букви на прозорот за прораки.</translation>
+        <translation type="obsolete">Начертание шрифта для окон сообщений.</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation type="obsolete">Го одредува стилот на букви на прозорот за разговор.</translation>
+        <translation type="obsolete">Начертание шрифта для окон разговоров.</translation>
     </message>
     <message>
         <source>Selects a font for the a roster window using the font selection dialog.</source>
-        <translation type="obsolete">Избира фонт за прозорот со списокот.</translation>
+        <translation type="obsolete">Выбор шрифта для окна списка контактов.</translation>
     </message>
     <message>
         <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation type="obsolete">Избира фонт за прозорите за пораки.</translation>
+        <translation type="obsolete">Выбор шрифта для окон сообщений.</translation>
     </message>
     <message>
         <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation type="obsolete">Избира фонт за прозорите за разговор.</translation>
+        <translation type="obsolete">Выбор шрифта для окон разговоров.</translation>
     </message>
     <message>
         <source>Selects a set of icons to use in the main window.  Icons are usually used for visual identification of users&apos; status, such as &quot;online&quot;, &quot;offline&quot;, &quot;away&quot;, etc.</source>
-        <translation type="obsolete">Избира сет на икони за главниот прозор. Иконите се користат за визуелна идентификација на статусот на корисниците, како &quot;присутен&quot;, &quot;отсутен&quot;, &quot;оддалечен&quot;, итн.</translation>
+        <translation type="obsolete">Выбор набора значков для использования в основном окне. Значки обычно используются для отображения редима пользователей, например, &quot;в сети&quot;, &quot;отсутствует&quot; и т. д.</translation>
     </message>
     <message>
         <source>Makes new incoming message windows pop up automatically when received.</source>
-        <translation type="obsolete">Оваа опција овозможува новите пораки автоматски да се покраваат кога ќе пристигнат.</translation>
+        <translation type="obsolete">При появлении сообщений автоматически открывать их окна.</translation>
     </message>
     <message>
         <source>Makes new incoming chat windows pop up automatically when received.</source>
-        <translation type="obsolete">Оваа опција овозможува новите раговори автоматски да се покраваат кога ќе пристигнат.</translation>
+        <translation type="obsolete">При начале разговоров автоматически открывать их окна.</translation>
     </message>
     <message>
         <source>Makes new incoming events bring the main window to the foreground.</source>
-        <translation type="obsolete">Оваа опција овозможува новите настани да го донесат главниот прозор пред другите.</translation>
+        <translation type="obsolete">Отображать основное окно при появлении новых событий.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Одредува како да се третираат новите настани:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Нормално&lt;/B&gt; - пораките доаѓаат како пораки, разговорите како разговори.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Пораки&lt;/B&gt; - Сите пораки/разговори се пораки, безразлика каква била нивната оригинална форма.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Разговори&lt;/B&gt; - Сите пораки/разговори се разговори,безразлика каква била нивната оригинална форма.&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;Обработка входящих событий:&lt;/P&gt;&lt;P&gt;&lt;B&gt;обычная&lt;/B&gt; - сообщения появляются как сообщения, разговоры - как разговоры;&lt;/P&gt;&lt;P&gt;&lt;B&gt;сообщения&lt;/B&gt; - все сообщения и разговоры появляются как сообщения, независимо от того, чем они были изначально;&lt;/P&gt;&lt;P&gt;&lt;B&gt;разговоры&lt;/B&gt; - все сообщения и разговоры появляются как разговоры, независимо от того, чем они были изначально.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Does not animate or blink incoming event icons on the main window as they are received.</source>
-        <translation type="obsolete">Новите настани не се анимирани и трепкави кога ќе пристигнат.</translation>
+        <translation type="obsolete">При появлении событий не использовать анимацию или мигание их значков в основном окне.</translation>
     </message>
     <message>
         <source>Makes all incoming event icons blink on the main window as events are received.</source>
-        <translation type="obsolete">Иконите на главниот прозор трепкаат кога ќе пристигне нов настан.</translation>
+        <translation type="obsolete">При появлении событий использовать анимацию или мигание их значков в основном окне.</translation>
     </message>
     <message>
         <source>Animates incoming event icons on the main window as events are recieved.</source>
-        <translation type="obsolete">Иконите на главниот прозор се анимираат кога ќе пристигне нов настан.</translation>
+        <translation type="obsolete">Значок в основном окне анимируется при появлении соответствующего события.</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="obsolete">Psi ги игнорира сите &quot;насловни&quot; настани, како системски пораки на MSN, објави, итн.</translation>
+        <translation type="obsolete">Пропускать все &quot;объявления&quot;, например новости MSN, рекламу и т. д.</translation>
     </message>
     <message>
         <source>Makes Psi scroll the main window automatically so you can see new incoming events.</source>
-        <translation type="obsolete">Psi автоматски ќе го помести главниот прозор, за да можеш да го видиш новиот настан.</translation>
+        <translation type="obsolete">Автоматически прокручивать основное окно так, чтобы вы могли сразу видеть новые события.</translation>
     </message>
     <message>
         <source>Normally, Psi will not alert you when a new chat message is received in a chat window that is already open.  Check this option if you want to receive these alerts anyway.</source>
-        <translation type="obsolete">Нормално, Psi нема да те извести кога ќе пристигне нова порака во разговорот кога прозорот за разговор е отворен. Избери ја оваа опција доколку сакаш да бидеш известен.</translation>
+        <translation type="obsolete">Обычно Psi не уведомляет вас, если появилось новое сообщение в разговоре, а окно разговора уже открыто. Отметьте эту опцию, если хотите получать такие уведомления.</translation>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="obsolete">Jabber дозволува да се стават проширени пораки за статусот на сите типови статус. Нормално, Psi не те прашува за проширена порака кога статустот ти е &quot;присутен&quot;. Избери ја оваа опција ако сакаш да те прашува.</translation>
+        <translation type="obsolete">В Jabber можно использовать расширенные сообщения о состоянии для всех режимов. Обычно Psi не предлагает вам использовать их, когда вы переходите в режим &quot;в сети&quot;. Отметьте эту опцию, если хотите воспользоваться этой возможностью.</translation>
     </message>
     <message>
         <source>Makes Psi animate contact names in the main window when they come online.</source>
-        <translation type="obsolete">Psi ќе го анимира списокот кога контактот ќе се вклучи.</translation>
+        <translation type="obsolete">Анимировать имена контактов в основном окне, когда они переходят в режим &quot;в сети&quot;.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="obsolete">Psi автоматски го менува твојот статус во &quot;оддалечен&quot; ако компјутерот ти е мрзлив одредено време.</translation>
+        <translation type="obsolete">Автоматически переходить в режим отсутствия при бездействии в течение определенного периода времени.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="obsolete">Psi автоматски го менува твојот статус во &quot;недостапен&quot; ако компјутерот ти е мрзлив одредено време. </translation>
+        <translation type="obsolete">Автоматически переходить в режим длительного отсутствия при бездействии в течение определенного периода времени.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="obsolete">Psi автоматски го менува твојот статус во &quot;отсутен&quot; ако компјутерот ти е мрзлив одредено време. Ова ќе те исклучи од Jabber серверот.</translation>
+        <translation type="obsolete">Автоматически выходить из сети при бездействии в течение определенного периода времени. Произойдет отключение от сервера Jabber.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation type="obsolete">Одредува проширена порака ако сакаш Psi автоматски да ти го подесува статусот. Види ги горните опции.</translation>
+        <translation type="obsolete">Расширенное сообщение о состоянии, используемое, если Psi может менять режим работы автоматически. См. параметры выше.</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
-        <translation type="obsolete">Кликни тука ако сакаш да креираш дефиниција за статусот.</translation>
+        <translation type="obsolete">Нажмите эту кнопку, чтобы создать новое сообщение о состоянии.</translation>
     </message>
     <message>
         <source>Press this button to delete a status message preset.</source>
-        <translation type="obsolete">Кликни тука ако сакаш да избришеш дефиниција за статусот.</translation>
+        <translation type="obsolete">Нажмите эту кнопку, чтобы удалить сообщение о состоянии.</translation>
     </message>
     <message>
         <source>Use this list to select a status message preset to view or edit in the box to the right.</source>
-        <translation type="obsolete">Од оваа листа избираш дефиниција за статусот која можеш да ја промениш.</translation>
+        <translation type="obsolete">Из этого списка выберите сообщение для редактирования или просмотра в поле справа.</translation>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the left.</source>
-        <translation type="obsolete">Тука ја менуваш содржината на одбраната дефиниција за статусот.</translation>
+        <translation type="obsolete">Здесь вы можете редактировать сообщение, выбранное из списка слева.</translation>
     </message>
     <message>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
-        <translation type="obsolete">Ако твојот систем поддржува повеќе звучни изведувачи, тука можеш да го одбереш тој што највеќе ти годи.</translation>
+        <translation type="obsolete">Если в вашей системе несколько звуковых проигрывателей, здесь вы можете выбрать предпочтительный.</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="obsolete">Звуци (*.wav)</translation>
+        <translation type="obsolete">Звук (*.wav)</translation>
     </message>
     <message>
         <source>GNOME2 Default Browser/Mail</source>
-        <translation type="obsolete">GNOME2 Основен прелистувач/мејлер</translation>
+        <translation type="obsolete">Браузера/почтового клиента GNOME2</translation>
     </message>
     <message>
         <source>Normally, Psi will not autopopup events when you are away.  Set this option if you want them to popup anyway.</source>
-        <translation type="obsolete">Нормално, Psi нема автоматски да ги крева настаните кога си оддалечен. Избери ја оваа опција ако сепак сакаш да се креваат.</translation>
+        <translation type="obsolete">Обычно Psi не будет автоматически открывать сообщения, когда вы &quot;отсутствуете&quot;. Отметьте эту опцию, если вы хотите чтобы они открывались и в этом случае.</translation>
     </message>
     <message>
         <source>Normally, Psi will not autopopup events from users not in your roster.  Set this option if you want them to popup anyway.</source>
-        <translation type="obsolete">Нормално, Psi нема автоматски да ги крева настаните кои не се од корисници од твојата листа. 
-Избери ја оваа опција ако сепак сакаш да се креваат.</translation>
+        <translation type="obsolete">Обычно Psi не будет автоматически открывать сообщения, полученные от людей не из вашего списка контактов. Отметьте эту опцию, если вы хотите чтобы они открывались и в этом случае.</translation>
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation type="obsolete">Овозможи ја оваа опција ако сакаш да слушаш звучни известување кога твојот статус е „оддалечен“ или 
-„продолжено оддалечен“.</translation>
+        <translation type="obsolete">Включите эту опцию, если вы хотите слышать звуки в режимах &quot;отсутствую&quot; и &quot;недоступен&quot;.</translation>
     </message>
 </context>
 <context>
@@ -4881,31 +4901,31 @@ Details: %1</source>
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation>Обычно двойной клик вызывает действие по умолчанию. Выберете эту опцию, если вы хотите, чтобы это действие вызывалось одинарным кликом.</translation>
+        <translation>Обычно при двойном щелчке мышью по контакту выполняется действие по учмоланию. Отметьте эту опцию, если хотите использовать для этого одиночный щелчок.</translation>
     </message>
     <message>
         <source>If checked, always show the self-contact in roster, otherwise it is shown only when multiple resources are connected to your account.</source>
-        <translation type="obsolete">Если эта опция выбрана, запись, обозначающая вас самих всегда видна в списке контактов. В противном случае она показывается только когда несколько ресурсов подключены к вашей учетной записи.</translation>
+        <translation type="obsolete">Если включено, всегда показывать свой собственный контакт в списке, иначе показывать только если к вашей учетной записи подключено несколько ресурсов.</translation>
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation>Разрешеает автоматическое завершение идентификатора Jabber (JID) по мере того, как вы его вводите.</translation>
+        <translation>Включает автодополнение JID на лету в диалоге сообщений.</translation>
     </message>
     <message>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
-        <translation>Автоматически переносит URL-ы из буфера обмена в сообщения</translation>
+        <translation>Если включено, автоматически присоединяет URL из буфера к сообщениям</translation>
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Определяет, как должны обрабатываться новые входящие оповещения:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Определяется отправителем&lt;/B&gt; - сообщения приходят как сообщения, чаты - как чаты.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Сообщения&lt;/B&gt; - Все сообщения/чаты выглядят как сообщения, безотносительно к их исходной форме.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Чаты&lt;/B&gt; - Все сообщения/чаты выглядят как чаты, безотносительно к их исходной форме.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Обработка входящих событий:&lt;/P&gt;&lt;P&gt;&lt;B&gt;обычная&lt;/B&gt; - сообщения появляются как сообщения, разговоры - как разговоры;&lt;/P&gt;&lt;P&gt;&lt;B&gt;сообщения&lt;/B&gt; - все сообщения и разговоры появляются как сообщения, независимо от того, чем они были изначально;&lt;/P&gt;&lt;P&gt;&lt;B&gt;разговоры&lt;/B&gt; - все сообщения и разговоры появляются как разговоры, независимо от того, чем они были изначально.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
-        <translation>Если эта опция включена, Psi показывет тему сообщения в отдельной строке. Если хотите сэкономить место на экране, отключите эту опцию.</translation>
+        <translation>Показывает отдельную строку с темой в сообщениях. Отключите, если хотите сэкономить место на экране.</translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Показывает счетчик длины сообщения. Включите эту опцию, если вы хотите знать насколько велики ваши сообщения. Может быть полезным если в качестве транспорта используется SMS.</translation>
+        <translation>Показывает счетчик длины сообщений. Включите, если хотите знать длину своего сообщения - это может быть полезно при использовании транспорта SMS.</translation>
     </message>
     <message>
         <source>Automatically sends iq:version query to contact when he becomes online. This allows you to determine what clien he is using to get online. Note: results in increased traffic.</source>
@@ -4913,27 +4933,27 @@ Details: %1</source>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
-        <translation>По умолчанию Psi всегда проверяет вашу &quot;визитную карточку&quot; vCard при подключении к серверу. Если желает слегка уменьшить сетевой трафик, можете выключить эту опцию.</translation>
+        <translation>По умолчанию, Psi всегда проверяет вашу карточку при входе в сеть. Если вы хотите сэкономить немного трафика, отключите эту опцию.</translation>
     </message>
     <message>
         <source>Makes Psi animate contact names in the main window when they come online.</source>
-        <translation>Включает анимацию имени пользователя в списке контактов при подключении этого пользователя к серверу.</translation>
+        <translation>Анимировать имена контактов в основном окне, когда они переходят в режим &quot;в сети&quot;.</translation>
     </message>
     <message>
         <source>Makes Psi scroll the main window automatically so you can see new incoming events.</source>
-        <translation>Автоматически прокручивает главное окно, так чтобы источник нового оповещения был виден.</translation>
+        <translation>Автоматически прокручивать основное окно так, чтобы вы могли сразу видеть новые события.</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Инструктирует Psi игнорировать все „заголовочные“ оповещения, такие как системные сообщения MSN, объявления, и т.д.</translation>
+        <translation>Пропускать все &quot;объявления&quot;, например новости MSN, рекламу и т. д.</translation>
     </message>
     <message>
         <source>Automatically sends iq:version query to contact when he becomes online. This allows you to determine what client he is using to get online. Note: results in increased traffic.</source>
-        <translation>Автоматически посылает запрос iq:version пользователю, который только что подключился. Это позволяет вам видеть, каким клиентом он пользуется. Замечание: это увеличивает сетевой трафик.</translation>
+        <translation>Автоматически посылает запрос iq:version, когда контакт входит в сеть, что позволяет узнать, какой Jabber-клиент использует контакт. Внимание: повышает используемый трафик.</translation>
     </message>
     <message>
         <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
-        <translation>Разрешает передачу и прием оповещений, связанных с прохождением сообщений, таких как &quot;Пользователь вводит текст...&quot; и т.п...</translation>
+        <translation>Включает посылку и запрос сообщений типа &apos;Кто-либо набирает&apos;, ...</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -4944,79 +4964,79 @@ Details: %1</source>
     <name>OptionsTabAppearance</name>
     <message>
         <source>Appearance</source>
-        <translation>Вид</translation>
+        <translation>Внешний вид</translation>
     </message>
     <message>
         <source>Psi&apos;s Appearance</source>
-        <translation>Настройки, определяющие, как выглядит Psi</translation>
+        <translation>Внешний вид Psi</translation>
     </message>
     <message>
         <source>Specifies the font style for the main window.</source>
-        <translation type="obsolete">Определяет стиль шрифта в главном окне.</translation>
+        <translation type="obsolete">Начертание шрифта, используемого в основном окне.</translation>
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation type="obsolete">Определяет стиль шрифта в окне сообщения.</translation>
+        <translation type="obsolete">Начертание шрифта для окон сообщений.</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation type="obsolete">Определяет стиль шрифта в окне чата.</translation>
+        <translation type="obsolete">Начертание шрифта для окон разговоров.</translation>
     </message>
     <message>
         <source>Selects a font for the a roster window using the font selection dialog.</source>
-        <translation type="obsolete">Выбирает шрифт для окна списка пользователей.</translation>
+        <translation type="obsolete">Выбор шрифта для окна списка контактов.</translation>
     </message>
     <message>
         <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation type="obsolete">Выбирает шрифт для окна сообщений.</translation>
+        <translation type="obsolete">Выбор шрифта для окон сообщений.</translation>
     </message>
     <message>
         <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation type="obsolete">Выбирает шрифт для окна чата.</translation>
+        <translation type="obsolete">Выбор шрифта для окон разговоров.</translation>
     </message>
     <message>
         <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
-        <translation type="obsolete">Определяет цвет имени пользователя, когда он имеет статус &quot;%1&quot;.</translation>
+        <translation type="obsolete">Цвет текста имени контакта в главном окне, когда пользователь находится в режиме &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>online</source>
-        <translation type="obsolete">подключен(а)</translation>
+        <translation type="obsolete">в сети</translation>
     </message>
     <message>
         <source>offline</source>
-        <translation type="obsolete">отключен(а)</translation>
+        <translation type="obsolete">отключен</translation>
     </message>
     <message>
         <source>away</source>
-        <translation type="obsolete">нет на месте</translation>
+        <translation type="obsolete">отсутствует</translation>
     </message>
     <message>
         <source>do not disturb</source>
-        <translation type="obsolete">не беспокоить</translation>
+        <translation type="obsolete">занят</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="obsolete">Определяет цвет фона заголовка группы в главном окне.</translation>
+        <translation type="obsolete">Цвет фона для имени группы в основном окне.</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
-        <translation type="obsolete">Определяет цвет фона главного окна.</translation>
+        <translation type="obsolete">Цвет фона основного окна.</translation>
     </message>
     <message>
         <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="obsolete">Определяет цвет анимации псевдонимов.</translation>
+        <translation type="obsolete">Цвет текста для анимации ников.</translation>
     </message>
     <message>
         <source>Specifies the background animation color for nicks.</source>
-        <translation type="obsolete">Определяет цвет фона анимации псевдонимов.</translation>
+        <translation type="obsolete">Цвет фона для анимации ников.</translation>
     </message>
     <message>
         <source>Toggles on new, smaller group headings.</source>
-        <translation type="obsolete">Переключает между стандартным и уменьшенным размером заголовков групп в главном окне.</translation>
+        <translation type="obsolete">Переключает использование новых заголвков групп меньшего размера.</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation type="obsolete">Определяет стиль шрифта во всплывающих окнах.</translation>
+        <translation type="obsolete">Начертание шрифта для всплывающих окон.</translation>
     </message>
 </context>
 <context>
@@ -5113,83 +5133,83 @@ Details: %1</source>
     <name>OptionsTabApplication</name>
     <message>
         <source>Application</source>
-        <translation>Программа</translation>
+        <translation>Приложение</translation>
     </message>
     <message>
         <source>General application options</source>
-        <translation>Общие настройки программы</translation>
+        <translation>Основные настройки приложения</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>Главное окно Psi всегда находится поверх других окон.</translation>
+        <translation>Помещать основное окно Psi поверх всех других окон.</translation>
     </message>
     <message>
         <source>Makes Psi remember window size and positions for chats and messages.  If disabled, the windows will always appear in their default positions and sizes.</source>
-        <translation>Указывает, что Psi должен запоминать размеры и положение окон сообщений и чатов.  Если эта опция не установлена, то новые окна всегда будут иметь размер и положения, заданные по умолчанию.</translation>
+        <translation>Запоминать размеры расположение окон разговоров и сообщений.  Если эта опция отключена, они будут появляться с размерами и расположением по умолчанию.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>Обычно клик правой кнопкой активизирует локальное меню. Выберете эту опцию, если вы хотите, чтобы это действие вызывалось кликом левой кнопкой.</translation>
+        <translation>Обычно при щелчке правой кнопкой мыши по контакту открывается контекстное меню.  Отметьте эту опцию, если хотите использовать для этого левую кнопку.</translation>
     </message>
     <message>
         <source>Selects what applications to use for handling URLs and e-mail addresses.  You can choose between the system default and custom applications.</source>
-        <translation>Выбирает программы, используемы для обработки URL-ов и e-mail адресов. Вы можете выбрать программы, принятые в системе по умолчанию, либо указать их вручную.</translation>
+        <translation>Выбор приложения для обработки URL и почтовых адресов.  Вы можете пользоваться программами системы по умолчанию или указать свои.</translation>
     </message>
     <message>
         <source>Enter the path to the application&apos;s executable and choose &quot;Custom&quot; in the list above.</source>
-        <translation>Выберите „Вручную“ из списка выше и введите полный маршрут к файлу программы.</translation>
+        <translation>Введите путь к исполняемому файлу приложения и выберите пункт &quot;Самостоятельно указанных программ&quot; из списка выше.</translation>
     </message>
     <message>
         <source>Specify what custom browser application to use for handling URLs here.</source>
-        <translation>Указывает, каким броузером вы желаете пользоваться.</translation>
+        <translation>Укажите здесь, какой бразуер должен использоваться для обработки URL.</translation>
     </message>
     <message>
         <source>Specify what custom mailer application to use for handling e-mail addresses here.</source>
-        <translation>Указывает, каким почтовым клиентом вы желаете пользоваться.</translation>
+        <translation>Укажите здесь, какой почтовый клиент должен использоваться для обработки адресов электронной почты.</translation>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation>Включает иконку в системном лотке, обеспечивающую быстрый доступ к Psi.</translation>
+        <translation>Отображать значок Psi в доке состояния/системном лотке.</translation>
     </message>
     <message>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation>Обычно одинарный клик на иконке в системном лотке открывает главное окно. Выберите эту опцию, если желаете, чтобы окно открывалось по двойному клику.</translation>
+        <translation>Обычно при щелчке мышью по значку Psi в доке состояния (или системном лотке) открывается основное окно.  Отметьте эту опцию, если хотите использовать для этого двойной щелчок.</translation>
     </message>
     <message>
         <source>Starts Psi with only the docklet icon visible.</source>
-        <translation>При старте Psi видна только иконка в системном лотке.</translation>
+        <translation>Запускать Psi со значком в доке состояния (или системном лотке).</translation>
     </message>
     <message>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
-        <translation>&quot;Инструментальное окошко&quot; не занимает места на панели задач и имеет уменьшенную панель заголовка.</translation>
+        <translation>Psi не будет занимать много места на панели задач, а заголовок его основного окна будет короче.</translation>
     </message>
     <message>
         <source>If checked, Psi will use the Window Maker docket instead of FreeDesktop one.</source>
-        <translation type="obsolete">При выборе этой опции Psi будет пользоваться иконкой Window Maker для системного лотка, вместо таковой из FreeDesktop (только при работе под X-Window).</translation>
+        <translation type="obsolete">Если включено, Psi будет использовать док Window Maker вместо дока FreeDesktop.</translation>
     </message>
     <message>
         <source>Windows Default Browser/Mail</source>
-        <translation>Броузер/мэйлер, установленный в Windows по умолчанию</translation>
+        <translation>Браузера/почтового клиента Windows</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Указать вручную</translation>
+        <translation>Самостоятельно указанных программ</translation>
     </message>
     <message>
         <source>KDE Default Browser/Mail</source>
-        <translation>Броузер/мэйлер, установленный в KDE по умолчанию</translation>
+        <translation>Браузера/почтового клиента KDE</translation>
     </message>
     <message>
         <source>GNOME2 Default Browser/Mail</source>
-        <translation>Броузер/мэйлер, установленный в GNOME2 по умолчанию</translation>
+        <translation>Браузера/почтового клиента GNOME2</translation>
     </message>
     <message>
         <source>MacOS Default Browser/Mail</source>
-        <translation type="obsolete">Броузер/мэйлер, установленный в MacOS по умолчанию</translation>
+        <translation type="obsolete">Браузера/почтового клиента MacOS</translation>
     </message>
     <message>
         <source>If checked, Psi will use the Window Maker docklet instead of FreeDesktop one.</source>
-        <translation>Если данная опция включена, Psi помещает в системный лоток иконку из Window Maker, а не из Free Desktop.</translation>
+        <translation>Если включено, Psi будет использовать док Window Maker вместо дока FreeDesktop.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
@@ -5197,7 +5217,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Hides the menubar in the application window.</source>
-        <translation>Скрывает меню окна приложения.</translation>
+        <translation>Скрывает меню в окне приложения.</translation>
     </message>
     <message>
         <source>Mac OS Default Browser/Mail</source>
@@ -5211,9 +5231,9 @@ Details: %1</source>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.
 &lt;br&gt;&lt;br&gt;
 If you really-really want to disable all toolbars and the menubar, you need to edit the config.xml file by hand.</source>
-        <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; панели инструментов &lt;i&gt;и&lt;/i&gt; меню. Если Вы это сделаете, то невозможно будет включить их обратно, когда вы передумаете
+        <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; панели инструментов &lt;i&gt;и&lt;/i&gt; меню. Если вы это сделаете, то их уже никак нельзя будет включить обратно, если вы передумаете.
 &lt;br&gt;&lt;br&gt;
-Если Вы точно хотите выключить и меню и панели инструментов, Вам необходимо вручную отредактировать файл config.xml.</translation>
+Если вы действительно очень хотите отключить все панели инструментов и меню, то это нужно делать ручной правкой файла config.xml.</translation>
     </message>
     <message>
         <source>I understand</source>
@@ -5224,59 +5244,59 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation>Разговор</translation>
     </message>
     <message>
         <source>Configure the chat dialog</source>
-        <translation>Настройки окна чата (беседы)</translation>
+        <translation>Настройка диалога разговора</translation>
     </message>
     <message>
         <source>Make the default action open a chat window.</source>
-        <translation>Указывает, что действием по умолчанию является открытие окна чата.</translation>
+        <translation>Сделать октрытие окна разговора действием по умолчанию.</translation>
     </message>
     <message>
         <source>Make the default action open a normal message window.</source>
-        <translation>Указывает, что действием по умолчанию является открытие окна сообщения.</translation>
+        <translation>Сделать открытие обычного окна сообщений действием по умолчанию.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Changes the normal chat style from:&lt;/P&gt;&lt;P&gt;[01:23:45] &amp;lt;MyName&amp;gt; Hi&lt;/P&gt;&lt;P&gt;[01:23:56] &amp;lt;YourName&amp;gt; How are you?&lt;/P&gt;&lt;P&gt;to:&lt;/P&gt;&lt;P&gt;[01:23:45] MyName says:&lt;/P&gt;&lt;P&gt;Hi&lt;/P&gt;&lt;P&gt;[01:23:56] YourName says:&lt;/P&gt;&lt;P&gt;How are you?&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Переключает стиль разговора между следующими вариантами:&lt;/P&gt;&lt;P&gt;[01:23:45] &amp;lt;Пользователь N&amp;gt; Привет&lt;/P&gt;&lt;P&gt;[01:23:56] &amp;lt;Пользователь M&amp;gt; Как дела?&lt;/P&gt;&lt;P&gt;и:&lt;/P&gt;&lt;P&gt;[01:23:45] Пользователь N говорит:&lt;/P&gt;&lt;P&gt;Привет&lt;/P&gt;&lt;P&gt;[01:23:56] Пользователь M говорит:&lt;/P&gt;&lt;P&gt;Как дела?&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Изменяет обычную форму разговоров:&lt;/P&gt;&lt;P&gt;[01:23:45] &amp;lt;МоеИмя&amp;gt; Привет&lt;/P&gt;&lt;P&gt;[01:23:56] &amp;lt;ВашеИмя&amp;gt; Как дела?&lt;/P&gt;&lt;P&gt;на:&lt;/P&gt;&lt;P&gt;[01:23:45] МоеИмя говорит:&lt;/P&gt;&lt;P&gt;Привет&lt;/P&gt;&lt;P&gt;[01:23:56] ВашеИмя говорит:&lt;/P&gt;&lt;P&gt;Как дела?&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;When checked, pressing Enter in a chat window will send your message.  You must use Shift+Enter in order to create a newline in the chat message.  If unchecked, messages are sent by pressing Alt-S or Control-Enter, just as they are with regular messages.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При выборе этой опции, нажатие Enter в окне чата отправляет ваше сообщение.  Чтобы начать новую строку, нужно нажать Shift+Enter.  В противном случае ссобщения посылаются при нажатии Alt-S или Control-Entrt, точно так же, как обычные сообщения.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Если включено, нажатие Enter в окне разговора будет отсылать очередное сообщение.  В этом случае для перехода на новую строку в сообщение нужно использовать Shift+Enter.  Если отключено, сообщения в разговоре посылаются нажатием Alt-S или Control-Enter, точно так же, как и обычные сообщения.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Normally, Psi will not alert you when a new chat message is received in a chat window that is already open.  Check this option if you want to receive these alerts anyway.</source>
-        <translation>Обычно Psi не извещает вас о новых сообщениях в чате, когда окно чата открыто.  Выберите эту опцию, если вы хотите получать извещения в любом случае.</translation>
+        <translation>Обычно Psi не уведомляет вас, если появилось новое сообщение в разговоре, а окно разговора уже открыто.  Отметьте эту опцию, если хотите получать такие уведомления.</translation>
     </message>
     <message>
         <source>Makes Psi bring an open chat window to the front of your screen when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation>Заставляет Psi активировать окно чата и поместить его на передний план при появлении нового сообщения. При этом окно чата не перехватывает клавиатурный фокус и потому не мешает вашей работе.</translation>
+        <translation>Открывать автоматически окно разговора поверх рабочего экрана, когда вы получаете новое сообщение. При этом оно не становится активным и не мешает вашей работе.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Указывает, как долго Psi должен держать в памяти журнал чата после того, как окно чата закрыто.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Определяет, как долго журнал разговора будет храниться в памяти после закрытия окна разговора.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Данная опция предписывает не хранить журнал чата в памяти.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;При использовании этой опции журнал разговора не хранится в памяти.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Данная опция предписывает хранить журнал чата в течение одного часа.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;При использовании этой опции журнал разговора хранится в памяти в течение часа.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Данная опция предписывает хранить журнал чата в течение одного дня.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;При использовании этой опции журнал разговора хранится в памяти в течение суток.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Данная опция предписывает хранить журнал чата вечно.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;При использовании этой опции журнал разговора хранится в памяти всегда.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
-        <translation>Указывает, что окна чата должны открываться в компактном режиме.</translation>
+        <translation>Открывать по умолчанию окна разговоров в компактном режиме.</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
@@ -5287,55 +5307,55 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     <name>OptionsTabEvents</name>
     <message>
         <source>Events</source>
-        <translation>Оповещения</translation>
+        <translation>События</translation>
     </message>
     <message>
         <source>The events behaviour</source>
-        <translation>Настройки, касающиеся оповещений о различных событиях</translation>
+        <translation>Настройка поведения событий</translation>
     </message>
     <message>
         <source>Makes new incoming message windows pop up automatically when received.</source>
-        <translation>Разрешает новым окнам автоматически открываться при поступлении новых сообщений.</translation>
+        <translation>При появлении сообщений автоматически открывать их окна.</translation>
     </message>
     <message>
         <source>Normally, Psi will not autopopup events when you are away.  Set this option if you want them to popup anyway.</source>
-        <translation>Обычно Psi не открывает автоматически новые окна сообщений, когда вас нет на месте. Выберите эту опцию, если вы хотите разрешить появление новых окон в любое время.</translation>
+        <translation>Обычно Psi не будет автоматически открывать сообщения, когда вы &quot;отсутствуете&quot;. Отметьте эту опцию, если вы хотите чтобы они открывались и в этом случае.</translation>
     </message>
     <message>
         <source>Normally, Psi will not autopopup events from users not in your roster.  Set this option if you want them to popup anyway.</source>
-        <translation>Обычно Psi не извещает вас о подключении пользователей, которых нет в вашем списке. Выберите эту опцию, если вы хотите видеть оповещения обо всех пользователях.</translation>
+        <translation>Обычно Psi не будет автоматически открывать сообщения, полученные от людей не из вашего списка контактов. Отметьте эту опцию, если вы хотите чтобы они открывались и в этом случае.</translation>
     </message>
     <message>
         <source>Makes new incoming events bring the main window to the foreground.</source>
-        <translation>Перемещает главное окно на передний план при появлении новых извещений.</translation>
+        <translation>Отображать основное окно при появлении новых событий.</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming events from contacts not already in your list of contacts.</source>
-        <translation>Предписывает Psi игнорировать все извещения от пользователей не занесенных в ваш список.</translation>
+        <translation>Игнорировать все приходящие сообщения от контактов не из вашего списка.</translation>
     </message>
     <message>
         <source>Does not animate or blink incoming event icons on the main window as they are received.</source>
-        <translation>Иконки в главном окне никак не реагируют на появление входящих оповещений.</translation>
+        <translation>При появлении событий не использовать анимацию или мигание их значков в основном окне.</translation>
     </message>
     <message>
         <source>Makes all incoming event icons blink on the main window as events are received.</source>
-        <translation>При появлении входящего оповещения соответствующая иконка в главном окне начинает мигать.</translation>
+        <translation>При появлении событий использовать анимацию или мигание их значков в основном окне.</translation>
     </message>
     <message>
         <source>Animates incoming event icons on the main window as events are recieved.</source>
-        <translation>При появлении входящего оповещения соответствующая иконка в главном окне анимируется.</translation>
+        <translation>Значок в основном окне анимируется при появлении соответствующего события.</translation>
     </message>
     <message>
         <source>Makes Psi automatically accept all authorization requests from &lt;b&gt;anyone&lt;/b&gt;.</source>
-        <translation>Предписывает Psi авотматически принимать запросы на авторизацию от &lt;b&gt;кого бы то ни было&lt;/b&gt;.</translation>
+        <translation>Автоматически принимать все запросы на авторизацию от &lt;b&gt;всех&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Makes new incoming headlines pop up automatically when received.</source>
-        <translation>Разрешает новым заголовкам автоматически открываться по мере их появления.</translation>
+        <translation>Открывает новые объявления автоматически при получении.</translation>
     </message>
     <message>
         <source>Makes new incoming file requests pop up automatically when received.</source>
-        <translation>Разрешает новым запросам на передачу файлов автоматически открываться по мере их появления.</translation>
+        <translation>Открывает новые запросы на получение файлов автоматически.</translation>
     </message>
     <message>
         <source>Makes Psi notify you when your authorization request was approved.</source>
@@ -5346,11 +5366,11 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     <name>OptionsTabGroupchat</name>
     <message>
         <source>Groupchat</source>
-        <translation>Конференция</translation>
+        <translation>Конференции</translation>
     </message>
     <message>
         <source>Configure the groupchat</source>
-        <translation>Настройки, связанные с конференциям (групповыми беседами)</translation>
+        <translation>Настройка конференций</translation>
     </message>
 </context>
 <context>
@@ -5361,7 +5381,7 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Select your emoticon iconsets</source>
-        <translation>Выберите набор смайликов по вашему вкусу</translation>
+        <translation>Выберите себе наборы смайликов</translation>
     </message>
     <message>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be relaced by &lt;icon name=&quot;smile&quot;&gt;&lt;/P&gt;</source>
@@ -5369,7 +5389,7 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be relaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Смайлики - это короткие последовательности букв и знаков препинания, служащие для обозначения эмоций или общепринятых идиом.&lt;/P&gt;&lt;P&gt;Выберите эту опцию, если вы хотите, чтобы Psi заменял смайлики соответствующими картинками (иконками).&lt;/P&gt;&lt;P&gt;Например, &lt;B&gt;:-)&lt;/B&gt; будет заменено на &lt;icon name=&quot;smile&quot;&gt;&lt;/P&gt;</translation>
+        <translation type="obsolete">&lt;P&gt;Смайлики - короткие последовательности символов, используемые для передачи эмоций или мыслей.&lt;/P&gt;&lt;P&gt;Включите эту опцию, если вы хотите заменять все смайлики их графическими изображениями.&lt;/P&gt;&lt;P&gt;Например, &lt;B&gt;:-)&lt;/B&gt; будет заменен на &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;Psi Forums&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
@@ -5380,15 +5400,15 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     <name>OptionsTabIconsetRoster</name>
     <message>
         <source>Roster Iconsets</source>
-        <translation type="obsolete">Иконки главного окна</translation>
+        <translation type="obsolete">Иконки списка контактов</translation>
     </message>
     <message>
         <source>Select iconsets for your roster</source>
-        <translation>Выберите набор иконок для списка контактов</translation>
+        <translation>Выберите наботы иконок для списка контактов</translation>
     </message>
     <message>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
-        <translation>Включает/выключает показ иконок протокола для пользователей, использующих нестандартные протоколы.</translation>
+        <translation>Переключает использование иконок служб для контаков, использующих эти службы.</translation>
     </message>
     <message>
         <source>Roster Icons</source>
@@ -5403,7 +5423,7 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Select the system iconset</source>
-        <translation>Выберите набор системных иконок</translation>
+        <translation>Выберите системный набор иконок</translation>
     </message>
     <message>
         <source>System Icons</source>
@@ -5418,31 +5438,31 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Configure how Psi sounds</source>
-        <translation>Настройки, определяющие, как Psi звучит</translation>
+        <translation>Настройте звучание Psi</translation>
     </message>
     <message>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
-        <translation>Если ваша система поддерживает несколько механизмов вывода звука, вы можете выбрать тот, который вы предпочитаете.</translation>
+        <translation>Если в вашей системе несколько звуковых проигрывателей, здесь вы можете выбрать предпочтительный.</translation>
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation>Если вы хотите, чтобы пси посылал звуковые сигналы, даже когда вас нет на месте, выберите эту опцию.</translation>
+        <translation>Включите эту опцию, если вы хотите слышать звуки в режимах &quot;отсутствую&quot; и &quot;недоступен&quot;.</translation>
     </message>
     <message>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
-        <translation>Проигрывать звуковые сигналы при любых оповещениях в конференции, а не только касающихся лично вас.</translation>
+        <translation>Проигрывать звуки при любых сообщениях в конференции, а не только тех, в которых упоминается ваш ник.</translation>
     </message>
     <message>
         <source>Windows Sound</source>
-        <translation>Звуковая систем Windows</translation>
+        <translation>Звуки Windows</translation>
     </message>
     <message>
         <source>MacOS Sound</source>
-        <translation type="obsolete">Звуковая систем MacOS</translation>
+        <translation type="obsolete">Звуки MacOS</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Звуки (*.wav)</translation>
+        <translation>Звук (*.wav)</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -5457,55 +5477,55 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     <name>OptionsTabStatus</name>
     <message>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <source>Status preferences</source>
-        <translation>Настройки, касающиеся вашего статуса, как пользователя</translation>
+        <translation>Настройки состояния</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Psi автоматически меняет ваш статус на „нет на месте“ если вы не проявляли активности в течение указанного времени.</translation>
+        <translation>Автоматически переходить в режим отсутствия при бездействии в течение определенного периода времени.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Psi автоматически меняет ваш статус на „нет на месте и надолго“ если вы не проявляли активности в течение указанного времени.</translation>
+        <translation>Автоматически переходить в режим длительного отсутствия при бездействии в течение определенного периода времени.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Psi автоматически меняет ваш статус на „отключен“ если вы не проявляли активности в течение указанного времени.   Это также приводит к отключению от сервера.</translation>
+        <translation>Автоматически выходить из сети при бездействии в течение определенного периода времени.  Произойдет отключение от сервера Jabber.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation>Определяет более подробное сообщение о статусе, если разрешили Psi автоматически устанавливать ваш статус.  См. опции выше.</translation>
+        <translation>Расширенное сообщение о состоянии, используемое, если Psi может менять режим работы автоматически.  См. параметры выше.</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
-        <translation>Чтобы создать новый шаблон для статуса, нажмите эту кнопку.</translation>
+        <translation>Нажмите эту кнопку, чтобы создать новое сообщение о состоянии.</translation>
     </message>
     <message>
         <source>Press this button to delete a status message preset.</source>
-        <translation>Чтобы удалить данный шаблон статуса, нажмите эту кнопку.</translation>
+        <translation>Нажмите эту кнопку, чтобы удалить сообщение о состоянии.</translation>
     </message>
     <message>
         <source>Use this list to select a status message preset to view or edit in the box to the right.</source>
-        <translation type="obsolete">Од оваа листа избирате дефиниција за статусот која подоцна можете да ја промените.</translation>
+        <translation type="obsolete">Из этого списка выберите сообщение для редактирования или просмотра в поле справа.</translation>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the left.</source>
-        <translation type="obsolete">Тука ја менувате содржината на одбраната дефиниција за статусот.</translation>
+        <translation type="obsolete">Здесь вы можете редактировать сообщение, выбранное из списка слева.</translation>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber позволяет назначать расширенные (более подробные) сообщения для всех типов статуса.  Обычно Psi не предлагает вам ввести расширенное сообщение, когда ваш статус меняется на &quot;подключен(а)&quot;, т.е. когда вы подключаетесь к серверу.  Выберите эту опцию, если вы хотите, чтобы он предлагал.</translation>
+        <translation>В Jabber можно использовать расширенные сообщения о состоянии для всех режимов.  Обычно Psi не предлагает вам использовать их, когда вы переходите в режим &quot;в сети&quot;.  Отметьте эту опцию, если хотите воспользоваться этой возможностью.</translation>
     </message>
     <message>
         <source>New Status Preset</source>
-        <translation>Новый шаблон для статуса</translation>
+        <translation>Новый шаблон режима</translation>
     </message>
     <message>
         <source>Please enter a name for the new status preset:</source>
-        <translation>Введите название нового шаблона:</translation>
+        <translation>Введите название для нового шаблона:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -5513,19 +5533,19 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Can&apos;t create a blank preset!</source>
-        <translation>Новый шаблон не может быть безымянным!</translation>
+        <translation>Невозможно создать пустой шаблон!</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation>Шаблон статуса с таким именем уже существует!</translation>
+        <translation>Шаблон с таким именем уже существует!</translation>
     </message>
     <message>
         <source>Use this list to select a status message preset to view or edit in the box to the bottom.</source>
-        <translation>Шаблон, выбранный из этого списка может быть просмотрен или отредактирован в поле под списком.</translation>
+        <translation>В этом списке можно выбрать сообщение о состоянии для просмотра или редактирования в поле ниже.</translation>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
-        <translation>Вы можете отредактировать в этом поле шаблон, выбранный из списка вверху.</translation>
+        <translation>Здесь вы можете редактировать сообщение для шаблона, выбранного выше.</translation>
     </message>
 </context>
 <context>
@@ -5536,27 +5556,27 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>General</source>
-        <translation type="obsolete">Општо</translation>
+        <translation type="obsolete">Общие</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="obsolete">Список</translation>
+        <translation type="obsolete">Список контактов</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="obsolete">Лев клик за мени</translation>
+        <translation type="obsolete">Левая кнопка мыши открывает меню</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
-        <translation type="obsolete">Еден клик за основна акција</translation>
+        <translation type="obsolete">Одиночный щелчок вызывает действие по умолчанию</translation>
     </message>
     <message>
         <source>Default Action:</source>
-        <translation type="obsolete">Основна акција:</translation>
+        <translation type="obsolete">Действие по умолчанию:</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="obsolete">Порака</translation>
+        <translation type="obsolete">Сообщение</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -5564,263 +5584,263 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Links</source>
-        <translation type="obsolete">Линкови</translation>
+        <translation type="obsolete">Ссылки</translation>
     </message>
     <message>
         <source>Open With:</source>
-        <translation type="obsolete">Отвори со:</translation>
+        <translation type="obsolete">Открывать с помощью:</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">Избор</translation>
+        <translation type="obsolete">Использовать следующие программы:</translation>
     </message>
     <message>
         <source>Mailer</source>
-        <translation type="obsolete">Мејлер</translation>
+        <translation type="obsolete">Почтовая программа</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation type="obsolete">Прелистувач</translation>
+        <translation type="obsolete">Браузер</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
-        <translation type="obsolete">Овозможи смешковци</translation>
+        <translation type="obsolete">Разрешить смайлики</translation>
     </message>
     <message>
         <source>Contact &quot;says&quot; instead of IRC style</source>
-        <translation type="obsolete">&quot;Контактот вели&quot; наместо IRC стил</translation>
+        <translation type="obsolete">Не использовать оформление разговора в стиле IRC</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="obsolete">Разно</translation>
+        <translation type="obsolete">Разное</translation>
     </message>
     <message>
         <source>Always on top</source>
-        <translation type="obsolete">Секогаш најгоре</translation>
+        <translation type="obsolete">Поверх всех окон</translation>
     </message>
     <message>
         <source>Remember Window Sizes</source>
-        <translation type="obsolete">Запамти ја големината на прозорите</translation>
+        <translation type="obsolete">Запоминать размеры окон</translation>
     </message>
     <message>
         <source>Delete chat window contents (end conversation)</source>
-        <translation type="obsolete">Избриши ја содржината на прозорот за разговор (заврши го разговорот)</translation>
+        <translation type="obsolete">Удалять содержимое окон разговоров (завершать разговор):</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation type="obsolete">Кога ќе се затвори прозорот за разговор</translation>
+        <translation type="obsolete">при закрытии окна разговора</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation type="obsolete">Еден час после затворањето на прозорот за разговор</translation>
+        <translation type="obsolete">через час после закрытия окна разговора</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation type="obsolete">Еден ден после затворањето на прозорот за разговор</translation>
+        <translation type="obsolete">через день после закрытия окна разговора</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="obsolete">Никогаш</translation>
+        <translation type="obsolete">никогда</translation>
     </message>
     <message>
         <source>Docking</source>
-        <translation type="obsolete">Докирање</translation>
+        <translation type="obsolete">Состояние на панели</translation>
     </message>
     <message>
         <source>Enable Docklet</source>
-        <translation type="obsolete">Овозможи докирана икона</translation>
+        <translation type="obsolete">Отображать состояние на панели</translation>
     </message>
     <message>
         <source>Use &quot;Double-click&quot; style (like Mirabilis ICQ)</source>
-        <translation type="obsolete">Користи &quot;двоклик&quot; стил (како Mirabilis ICQ)</translation>
+        <translation type="obsolete">Использовать стиль &quot;двойных щелчков&quot; (как в Mirabilis ICQ)</translation>
     </message>
     <message>
         <source>Hide roster window on startup</source>
-        <translation type="obsolete">Скриј го прозорот со списокот на старт</translation>
+        <translation type="obsolete">Прятать список контактов при запуске</translation>
     </message>
     <message>
         <source>Make roster window a &quot;Tool-Window&quot;</source>
-        <translation type="obsolete">Прозорот со списокот е &quot;Tool-Window&quot;</translation>
+        <translation type="obsolete">Не показывать окно контактов на панели задач</translation>
     </message>
     <message>
         <source>Events</source>
-        <translation type="obsolete">Настани</translation>
+        <translation type="obsolete">События</translation>
     </message>
     <message>
         <source>Receive</source>
-        <translation type="obsolete">Прими</translation>
+        <translation type="obsolete">Прием</translation>
     </message>
     <message>
         <source>Autopopup New Messages</source>
-        <translation type="obsolete">Автоматски подигни нови пораки</translation>
+        <translation type="obsolete">Открывать новые сообщения автоматически</translation>
     </message>
     <message>
         <source>Autopopup New Chats</source>
-        <translation type="obsolete">Автоматски подигни нови муабети</translation>
+        <translation type="obsolete">Открывать новые разговоры автоматически</translation>
     </message>
     <message>
         <source>Raise Window On New Event</source>
-        <translation type="obsolete">Подигни прозор при нов настан</translation>
+        <translation type="obsolete">Поднимать окно при получении нового события</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
-        <translation type="obsolete">Третирај ги пораките и разговорите кои пристигаат како:</translation>
+        <translation type="obsolete">Принимать входящие сообщения и разговоры:</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="obsolete">Пораки</translation>
+        <translation type="obsolete">все как сообщения</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="obsolete">Разговори</translation>
+        <translation type="obsolete">все как разговоры</translation>
     </message>
     <message>
         <source>Alerts</source>
-        <translation type="obsolete">Пријави</translation>
+        <translation type="obsolete">Уведомления</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">Мирни</translation>
+        <translation type="obsolete">Отключить мигание</translation>
     </message>
     <message>
         <source>Blink</source>
-        <translation type="obsolete">Трепкави</translation>
+        <translation type="obsolete">Включить мигание</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="obsolete">Анимирани</translation>
+        <translation type="obsolete">Включить анимацию</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="obsolete">Игнорирај &quot;насловни&quot; настани (нпр. MSN аларми)</translation>
+        <translation type="obsolete">Игнорировать &quot;объявления&quot; (например, новости MSN)</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
-        <translation type="obsolete">Помести го списокот до контактот при некој настан</translation>
+        <translation type="obsolete">Прокручивать список к контакту при получении события, связанного с ним</translation>
     </message>
     <message>
         <source>Alert chat messages even if chat window is open</source>
-        <translation type="obsolete">Пријави разговор дури и кога прозорецот за разговор е отворен</translation>
+        <translation type="obsolete">Уведомлять о новых репликах в уже открытом окне разговора</translation>
     </message>
     <message>
         <source>Presence</source>
-        <translation type="obsolete">Присуство</translation>
+        <translation type="obsolete">Присутствие</translation>
     </message>
     <message>
         <source>Auto Status</source>
-        <translation type="obsolete">Автоматски статус</translation>
+        <translation type="obsolete">Автоматическая смена режимов</translation>
     </message>
     <message>
         <source>Minutes</source>
-        <translation type="obsolete">Минути</translation>
+        <translation type="obsolete">минут(ы)</translation>
     </message>
     <message>
         <source>Auto Offline After:</source>
-        <translation type="obsolete">Авто-отсутен после:</translation>
+        <translation type="obsolete">Выход из сети после:</translation>
     </message>
     <message>
         <source>Auto XA After:</source>
-        <translation type="obsolete">Авто-недостапен после::</translation>
+        <translation type="obsolete">Длительное отсутствие после:</translation>
     </message>
     <message>
         <source>Auto Away After:</source>
-        <translation type="obsolete">Авто-оддалечен после:</translation>
+        <translation type="obsolete">Отсутствие после:</translation>
     </message>
     <message>
         <source>Auto Status Message:</source>
-        <translation type="obsolete">Автоматска порака за статусот:</translation>
+        <translation type="obsolete">Текст сообщения для автоматической смены режимов:</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing &quot;Online&quot;</source>
-        <translation type="obsolete">Прашај ме за порака за статус кога ќе изберам &quot;Присутен&quot;</translation>
+        <translation type="obsolete">Предлагать ввести сообщение о состоянии при выборе режима &quot;В сети&quot;</translation>
     </message>
     <message>
         <source>Animate the roster when a contact comes online</source>
-        <translation type="obsolete">Анимирај го списокот кога контактот ќе се вклучи</translation>
+        <translation type="obsolete">Анимировать имена только что вошедших в сеть контактов</translation>
     </message>
     <message>
         <source>Status Presets</source>
-        <translation type="obsolete">Дефиниции за статусот</translation>
+        <translation type="obsolete">Сообщения о состоянии</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="obsolete">Нова</translation>
+        <translation type="obsolete">Создать</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">Избриши</translation>
+        <translation type="obsolete">Удалить</translation>
     </message>
     <message>
         <source>Content:</source>
-        <translation type="obsolete">Содржина:</translation>
+        <translation type="obsolete">Содержимое:</translation>
     </message>
     <message>
         <source>Look and Feel</source>
-        <translation type="obsolete">Изглед и чувство</translation>
+        <translation type="obsolete">Внешний вид</translation>
     </message>
     <message>
         <source>Scheme</source>
-        <translation type="obsolete">Шема</translation>
+        <translation type="obsolete">Схема</translation>
     </message>
     <message>
         <source>Psi (Default)</source>
-        <translation type="obsolete">Psi (основна)</translation>
+        <translation type="obsolete">Psi (по умолчанию)</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="obsolete">Сними како</translation>
+        <translation type="obsolete">Сохранить как</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="obsolete">Бои</translation>
+        <translation type="obsolete">Цвета</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="obsolete">Присутен</translation>
+        <translation type="obsolete">В сети</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="obsolete">Отсутен</translation>
+        <translation type="obsolete">Отключен</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="obsolete">Оддалечен</translation>
+        <translation type="obsolete">Отсутствие</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation type="obsolete">Не вознемирувај</translation>
+        <translation type="obsolete">Занятость</translation>
     </message>
     <message>
         <source>Group Foreground</source>
-        <translation type="obsolete">Боја на текстот на групата</translation>
+        <translation type="obsolete">Цвет названий групп</translation>
     </message>
     <message>
         <source>Group Background</source>
-        <translation type="obsolete">Позадина на групата</translation>
+        <translation type="obsolete">Цвет фона групп</translation>
     </message>
     <message>
         <source>List Background</source>
-        <translation type="obsolete">Позадина на листата</translation>
+        <translation type="obsolete">Цвет фона списка</translation>
     </message>
     <message>
         <source>Skins</source>
-        <translation type="obsolete">Шминки</translation>
+        <translation type="obsolete">Стили оформления</translation>
     </message>
     <message>
         <source>Window Backgrounds</source>
-        <translation type="obsolete">Позадини на прозорите</translation>
+        <translation type="obsolete">Фон окон</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation type="obsolete">Избери</translation>
+        <translation type="obsolete">Выбрать</translation>
     </message>
     <message>
         <source>Icon Set</source>
-        <translation type="obsolete">Икони</translation>
+        <translation type="obsolete">Наборы значков</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation type="obsolete">Фонтови</translation>
+        <translation type="obsolete">Шрифты</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -5828,195 +5848,195 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation type="obsolete">Звучни избори</translation>
+        <translation type="obsolete">Настройка звука</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="obsolete">Изведувач:</translation>
+        <translation type="obsolete">Проигрыватель:</translation>
     </message>
     <message>
         <source>Sound Events</source>
-        <translation type="obsolete">Звучни настани</translation>
+        <translation type="obsolete">Звуковые события</translation>
     </message>
     <message>
         <source>Receive Online Status:</source>
-        <translation type="obsolete">Прими присутен статус:</translation>
+        <translation type="obsolete">При чьем-либо появлении в сети:</translation>
     </message>
     <message>
         <source>Receive Offline Status:</source>
-        <translation type="obsolete">Прими отсутен статус:</translation>
+        <translation type="obsolete">При чьем-либо отключении:</translation>
     </message>
     <message>
         <source>Send Message:</source>
-        <translation type="obsolete">Испрати ја пораката:</translation>
+        <translation type="obsolete">Отправка сообщения:</translation>
     </message>
     <message>
         <source>Receive Message:</source>
-        <translation type="obsolete">Прими ја пораката:</translation>
+        <translation type="obsolete">Прием сообщения:</translation>
     </message>
     <message>
         <source>Receive First Chat:</source>
-        <translation type="obsolete">Прими го првиот разговор:</translation>
+        <translation type="obsolete">Начало разговора:</translation>
     </message>
     <message>
         <source>Receive Next Chat:</source>
-        <translation type="obsolete">Прими го следниот разговор:</translation>
+        <translation type="obsolete">Реплика в разговоре:</translation>
     </message>
     <message>
         <source>System Message:</source>
-        <translation type="obsolete">Системска порака:</translation>
+        <translation type="obsolete">Системное сообщение:</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="obsolete">Врати на основно</translation>
+        <translation type="obsolete">Восстановить</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">OK</translation>
+        <translation type="obsolete">ОК</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="obsolete">Примени</translation>
+        <translation type="obsolete">Применить</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">Откажи</translation>
+        <translation type="obsolete">Отмена</translation>
     </message>
     <message>
         <source>Jabber ID completion</source>
-        <translation type="obsolete">Комплетирање на Jabber ID</translation>
+        <translation type="obsolete">Автодополнение Jabber ID</translation>
     </message>
     <message>
         <source>Grab URLs from clipboard</source>
-        <translation type="obsolete">Земи URL од clipboard</translation>
+        <translation type="obsolete">Захватывать URL из буфера обмена</translation>
     </message>
     <message>
         <source>Always show self-contact</source>
-        <translation type="obsolete">Секогаш покажувај го себе-контактот</translation>
+        <translation type="obsolete">Всегда показывать себя в списке контактов</translation>
     </message>
     <message>
         <source>Allow Autopopups even when Away/XA</source>
-        <translation type="obsolete">Дозволи авто кревање на прозорци кога сум Оддалечен/ПО</translation>
+        <translation type="obsolete">Открывать окна в режимах отсутствия/длительного отсутствия</translation>
     </message>
     <message>
         <source>Allow Autopopups even from unlisted users</source>
-        <translation type="obsolete">Дозволи авто кревање на прозорци од корисници кои не се на списокот</translation>
+        <translation type="obsolete">Открывать окна даже от пользователей не из списка</translation>
     </message>
     <message>
         <source>Determined by sender</source>
-        <translation type="obsolete">Одредено од испраќачот</translation>
+        <translation type="obsolete">определяется отправителем</translation>
     </message>
     <message>
         <source>Check client version when a contact comes online</source>
-        <translation type="obsolete">Провери ја верзијата на клиентот кога контактот ќе се приклучи</translation>
+        <translation type="obsolete">Проверять версию клиента, когда контакт входит в сеть</translation>
     </message>
     <message>
         <source>Play sounds when Away/XA</source>
-        <translation type="obsolete">Свири звуци кога сум Оддалечен/ПО</translation>
+        <translation type="obsolete">Проигрывать звуки в режиме отсутствия/длительного отсутствия</translation>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
-        <translation type="obsolete">Свири звуци за сите пораки во муабет</translation>
+        <translation type="obsolete">Проигрывать звуки для всех сообщений в конференции</translation>
     </message>
     <message>
         <source>Group Chat</source>
-        <translation type="obsolete">Муабет</translation>
+        <translation type="obsolete">Конференции</translation>
     </message>
     <message>
         <source>Enable Nick Coloring</source>
-        <translation type="obsolete">Овозможи боење на надимаци</translation>
+        <translation type="obsolete">Включить раскраску псевдонимов</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation type="obsolete">Овозможи нагласување на зборови</translation>
+        <translation type="obsolete">Включить выделение слов</translation>
     </message>
     <message>
         <source>Word Highlighting</source>
-        <translation type="obsolete">Нагласување на зборови</translation>
+        <translation type="obsolete">Выделение слов</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation type="obsolete">Нагласи ги линиите и извести го корисникот ако овој текст е дел од муабетот</translation>
+        <translation type="obsolete">Выделять текст, и оповещать пользователя если этот текст был сказан в разговоре</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation type="obsolete">Зборови кои ќе предизвикаат известување во муабет.</translation>
+        <translation type="obsolete">Слова в конференции, которые вызывают оповещение.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation type="obsolete">Ова е листа на зборови кои кога ќе се појават во муабет, ќе предизвикаат корисникот да биде известен.</translation>
+        <translation type="obsolete">Список слов, которые будучи сказаны в конференции, вызовут оповещение пользователя.</translation>
     </message>
     <message>
         <source>New word:</source>
-        <translation type="obsolete">Нов збор:</translation>
+        <translation type="obsolete">Новое слово:</translation>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation type="obsolete">Овде искуцај нов збор и кликни на „Додај збор“ за тој да биде додаден во листата за нагласување</translation>
+        <translation type="obsolete">Введите новое слово, и нажмите &quot;Добавить&quot;</translation>
     </message>
     <message>
         <source>Remove Word</source>
-        <translation type="obsolete">Острани збор</translation>
+        <translation type="obsolete">Удалить</translation>
     </message>
     <message>
         <source>Removes the selected word from the highlight list</source>
-        <translation type="obsolete">Го отстранува избраниот збор од листата за нагласување</translation>
+        <translation type="obsolete">Удаляет выбранное слово из списка</translation>
     </message>
     <message>
         <source>Add Word</source>
-        <translation type="obsolete">Додај збор</translation>
+        <translation type="obsolete">Добавить</translation>
     </message>
     <message>
         <source>Adds the new word to the list</source>
-        <translation type="obsolete">Додава нов збор во листата</translation>
+        <translation type="obsolete">Добавляет слово в список</translation>
     </message>
     <message>
         <source>Nick Coloring</source>
-        <translation type="obsolete">Боење на надимаци</translation>
+        <translation type="obsolete">Раскраска псевдонимов</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation type="obsolete">Овде внеси код на боја, или кликни на палетата десно</translation>
+        <translation type="obsolete">Введите обозначение цвета или нажмите на кнопку палитры справа</translation>
     </message>
     <message>
         <source>Add Color</source>
-        <translation type="obsolete">Додај боја</translation>
+        <translation type="obsolete">Добавить</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation type="obsolete">Ја додава бојата во листата</translation>
+        <translation type="obsolete">Добавляет цвет в список</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
-        <translation type="obsolete">Ја додава новата боја во листата</translation>
+        <translation type="obsolete">Добавляет новый цвет в список</translation>
     </message>
     <message>
         <source>New color:</source>
-        <translation type="obsolete">Нова боја:</translation>
+        <translation type="obsolete">Новый цвет:</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation type="obsolete">Бои кои се користат за надимаци во муабет</translation>
+        <translation type="obsolete">Цвета, которые используются для ников в конференции</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation type="obsolete">Ова е листата на боите со кои надимаците ќе бидат обени во муабет.</translation>
+        <translation type="obsolete">Это список слов, которые используются для раскрашивания ников в конференции.</translation>
     </message>
     <message>
         <source>Remove Color</source>
-        <translation type="obsolete">Отстрани боја</translation>
+        <translation type="obsolete">Удалить</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Опции</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Oк</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation></translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -6024,15 +6044,15 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Alt+A</source>
-        <translation></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation></translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -6054,63 +6074,63 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Key ID</source>
-        <translation>Key ID (идентификатор ключа)</translation>
+        <translation>ID Ключа</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation>Use ID (Идентификатор пользователя)</translation>
+        <translation>ID Пользователя</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Oк</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <source>Please select the key to use for security:</source>
-        <translation>Выберите ключ, которым вы хотите пользоваться для обеспечения безопасности:</translation>
+        <translation>Выберите ключ, который будет использоваться для шифрования:</translation>
     </message>
 </context>
 <context>
     <name>PassphraseUI</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Пароль OpenPGP</translation>
+        <translation>Ключевая фраза OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Для доступа к средствам безопасности OpenPGP нужен ваш пароль.
-Введите ваш пароль:</translation>
+        <translation>Для использования шифрования OpenPGP нужна ваша ключевая фраза.
+Пожалуйста, введите ключевую фразу:</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Oк</translation>
+        <translation>&amp;ОК</translation>
     </message>
 </context>
 <context>
     <name>PositionToolbarUI</name>
     <message>
         <source>Position Toolbar</source>
-        <translation>Позиция панели инструментов</translation>
+        <translation>Положение панели инструментов</translation>
     </message>
     <message>
         <source>Change Toolbar Position</source>
-        <translation>Изменить позицию панели инструментов</translation>
+        <translation>Изменить положение</translation>
     </message>
     <message>
         <source>Here you can fine-tune the exact position of your toolbar</source>
-        <translation>Позволяет точно настроить позицию панели инструментов</translation>
+        <translation>Здесь вы можете настроить точное местоположение вашей панели инструментов</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Название:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Extra offset:</source>
@@ -6118,19 +6138,19 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Dock position:</source>
-        <translation>Место прикрепления:</translation>
+        <translation>Место нахождения:</translation>
     </message>
     <message>
         <source>Index:</source>
-        <translation>Индекс:</translation>
+        <translation>Номер:</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Вверху</translation>
+        <translation>Сверху</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Внизу</translation>
+        <translation>Снизу</translation>
     </message>
     <message>
         <source>Right</source>
@@ -6142,27 +6162,27 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Minimized</source>
-        <translation>Минимизирована</translation>
+        <translation>Свернута</translation>
     </message>
     <message>
         <source>Unmanaged (advanced)</source>
-        <translation>Свободное позиционирование (вручную)</translation>
+        <translation>Неуправляемая</translation>
     </message>
     <message>
         <source>Torn off (advanced)</source>
-        <translation>Неприкреплена</translation>
+        <translation>Оторвана</translation>
     </message>
     <message>
         <source>Starts from new line</source>
-        <translation>Начинается с пустой строки</translation>
+        <translation>Начинается с новой строки</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Oк</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation></translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -6170,22 +6190,22 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation></translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
         <source>Manage Profiles</source>
-        <translation type="obsolete">Подесување на профилите</translation>
+        <translation type="obsolete">Работа с профилями</translation>
     </message>
     <message>
         <source>Rename Profile</source>
@@ -6194,16 +6214,16 @@ Please enter your passphrase below:</source>
     <message>
         <source>Please enter a new name for the profile.  Keep it simple.
 Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation>Введите новое название профиля.  Лучше, чтобы оно было не слишком замысловатым.
-Используйте только буквы и цифры, без знаков препинания и пробелов.</translation>
+        <translation>Пожалуйста, введите новое имя для профиля. Желательно, чтобы оно было простым.
+Можно использовать только буквы и цифры. Пробелы и знаки препинания использовать нельзя.</translation>
     </message>
     <message>
         <source>There is already another profile with this name.  Please choose another.</source>
-        <translation>Профиль с таким названием уже существует.  Выберите другое название.</translation>
+        <translation>Профиль с таким именем уже существует. Введите другое.</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation>Невозможно переименовать профиль.  Не используйте специальных знаков.</translation>
+        <translation>Невозможно переименовать профиль. Пожалуйста, используйте только буквы и цифры.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
@@ -6211,7 +6231,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Вы действительно хотите удалить профиль &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  При этом будут потеряны все ваши настройки и история сообщений!&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Вы уверены, что хотите удалить профиль &quot;&lt;b&gt;%1&lt;/b&gt;&quot;? При этом также будут удалены журнал сообщений и настройки!&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>No, I changed my mind</source>
@@ -6219,15 +6239,15 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>Delete it!</source>
-        <translation>Удалить его!</translation>
+        <translation>Удалить!</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;В качестве меры предосторожности в последний раз вас спрашиваю: вы действительно этого хотите? Указанная папка будет удалена! &lt;br&gt;&lt;br&gt;
+        <translation>&lt;qt&gt;Пожалуйста, пощдтвердите свое решение. Это лишь мера предосторожности. Данная папка будет удалена!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Продолжать?</translation>
+Подтверждаете?</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -6239,7 +6259,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>Не могу полностью удалить папку.  Проверьте, есть ли у вас необходимые права.</translation>
+        <translation>Невозможно полностью удалить профиль. Убедитесь, что для этого у вас достаточно прав.</translation>
     </message>
 </context>
 <context>
@@ -6250,7 +6270,7 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;Новый</translation>
+        <translation>&amp;Создать</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -6266,7 +6286,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Manage Profiles</source>
-        <translation>Управление профилями</translation>
+        <translation>Работа с профилями</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -6285,11 +6305,11 @@ Proceed?</source>
     </message>
     <message>
         <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation>Профиль с таким названием уже существует.  Выберите другое название.</translation>
+        <translation>Профиль с таким именем уже существует. Пожалуйста, выберите другое имя.</translation>
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation>Невозможно создать такой профиль.  Не используйте специальных знаков.</translation>
+        <translation>Невозможно создать профильс таким именем. Пожалуйста, используйте только буквы и цифры.</translation>
     </message>
 </context>
 <context>
@@ -6304,15 +6324,15 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;img src=&quot;smile&quot;&gt;.</source>
-        <translation type="obsolete">&lt;i&gt;Името на профилот&lt;/i&gt; треба да биде едноставно. Би требало да биде еден збор кој се состои само од букви или бројки.&lt;br&gt;
+        <translation type="obsolete">Выберите простое и понятное &lt;i&gt;Имя профиля&lt;/i&gt;. Оно должно быть словом, состоящим только из букв и цифр.&lt;br&gt;
 &lt;br&gt;
- &lt;i&gt;Основната акција&lt;/i&gt; е она што се случува кога ќе кликнеш два пати на некој контакт од твојата листа. Можеш да избереш &lt;b&gt;Порака&lt;/b&gt; (како ICQ) или &lt;b&gt;Разговор&lt;/b&gt; (како AIM). Ова можеш да го промени подоцна во менито Опции.&lt;br&gt;
+&lt;i&gt;Действие по умолчанию&lt;/i&gt; - действие, которое происходит при двойном щелчке на контакте в вашем списке. Возможные варианты: &lt;b&gt;Сообщение&lt;/b&gt; (как в ICQ) или &lt;b&gt;Разговор&lt;/b&gt; (как в AIM). Этот режим можно будет сменить потом в меню настроек.&lt;br&gt;
 &lt;br&gt;
-Селектирај го &lt;i&gt;Овозможи смешковци&lt;/i&gt; полето доколку сакаш текстот како на пример &lt;b&gt;:-)&lt;/b&gt; да биде претворен во сликичи како &lt;img src=&quot;smile&quot;&gt;.</translation>
+Поставьте галочку напротив &lt;i&gt;Разрешить смайлики&lt;/i&gt;, если хотите, чтобы вместо символов типа &lt;b&gt;:-)&lt;/b&gt; выводились их графические варианты: &lt;img src=&quot;smile&quot;&gt;.</translation>
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation>Название профиля:</translation>
+        <translation>Имя профиля:</translation>
     </message>
     <message>
         <source>Default Action</source>
@@ -6324,7 +6344,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation>Разговор</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -6332,7 +6352,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Cl&amp;ose</source>
-        <translation type="obsolete">&amp;Затвори</translation>
+        <translation type="obsolete">&amp;Закрыть</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -6348,11 +6368,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>&lt;i&gt;Название профиля&lt;/i&gt; должно быть несложным. Оно должно состоять только из букв и цифр.&lt;br&gt;
+        <translation>Выберите простое и понятное &lt;i&gt;Имя профиля&lt;/i&gt;. Оно должно быть словом, состоящим только из букв и цифр.&lt;br&gt;
 &lt;br&gt;
- &lt;i&gt;Действие по умолчанию&lt;/i&gt; - это действие, которое будет выполняться при двойном щелчке мышью на выбранном из списка контакте (пользователе). Вы можете выбрать &lt;b&gt;Сообщение&lt;/b&gt; (как в ICQ) или &lt;b&gt;Чат&lt;/b&gt; (как в AIM). Вы всегда можете поменять эту настройку в меню &quot;Опции&quot;.&lt;br&gt;
+&lt;i&gt;Действие по умолчанию&lt;/i&gt; - действие, которое происходит при двойном щелчке на контакте в вашем списке. Возможные варианты: &lt;b&gt;Сообщение&lt;/b&gt; (как в ICQ) или &lt;b&gt;Разговор&lt;/b&gt; (как в AIM). Этот режим можно будет сменить потом в меню настроек.&lt;br&gt;
 &lt;br&gt;
-Выберите &lt;i&gt;Разрешить смайлики&lt;/i&gt; если хотите, чтобы специальные текстовые комбинации, обозначающие эмоции, такие как &lt;b&gt;:-)&lt;/b&gt; изображались в виде иконок, таких как &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
+Поставьте галочку напротив &lt;i&gt;Разрешить смайлики&lt;/i&gt;, если хотите, чтобы вместо символов типа &lt;b&gt;:-)&lt;/b&gt; выводились их графические варианты: &lt;icon name=&quot;smile&quot;&gt;.</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -6360,7 +6380,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Alt+C</source>
-        <translation></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -6371,19 +6391,19 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProfileOpenDlg</name>
     <message>
         <source>Open Profile</source>
-        <translation type="obsolete">Отвори профил</translation>
+        <translation type="obsolete">Выбор профиля</translation>
     </message>
     <message>
         <source>Select a profile to open from this list.</source>
-        <translation>Выберите профиль из списка.  </translation>
+        <translation>Выберите профиль из этого списка.</translation>
     </message>
     <message>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation>Выберите язык для общения с Psi из списка.  Вы можете скачать файлы дополнительных языков с веб-сайта Psi.</translation>
+        <translation>Выберите из этого списка язык инфтрефейса. Вы можете загрузить дополнительные пакеты локализации с домашней страницы Psi.</translation>
     </message>
     <message>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation>Автоматически открывать этот профиль при запуске Psi.  Полезно, если у вас есть только один профиль.</translation>
+        <translation>Автоматически открывать этот профиль при запуске Psi. Удобно, если у вас всего один профиль.</translation>
     </message>
 </context>
 <context>
@@ -6394,11 +6414,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Image goes here</source>
-        <translation>Здесь помещается изображение</translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Open Profile</source>
-        <translation>Окрыть профиль</translation>
+        <translation>Выбор профиля</translation>
     </message>
     <message>
         <source>Profile:</source>
@@ -6406,7 +6426,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
-        <translation>&amp;Автоматически открывать при старте</translation>
+        <translation>&amp;Автоматически открывать при запуске</translation>
     </message>
     <message>
         <source>Language:</source>
@@ -6449,33 +6469,33 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxyChooser</name>
     <message>
         <source>Edit...</source>
-        <translation>Изменить...</translation>
+        <translation>Редактировать...</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Не используется</translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>
     <name>ProxyDlg</name>
     <message>
         <source>Proxy Profiles</source>
-        <translation type="obsolete">Прокси профили</translation>
+        <translation type="obsolete">Профили Прокси</translation>
     </message>
     <message>
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
-        <translation>Если для подключения к Jabber-серверу вам нужен прокси-сервер, укажите здесь тип прокси.</translation>
+        <translation>Если для работы вам необходим прокси-сервер, укажите здесь его тип.</translation>
     </message>
     <message>
         <source>Consult your network administrator if necessary.</source>
-        <translation>Если нужно проконсультируйтесь с вашим сетевым администратором. </translation>
+        <translation>При необходимости обратитесь к своему сетевому администратору.</translation>
     </message>
 </context>
 <context>
     <name>ProxyEdit</name>
     <message>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Use authentication</source>
@@ -6491,23 +6511,23 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation>Введите доменное имя и порт на вашего прокси-сервера.</translation>
+        <translation>Введите имя и порт для вашего прокси-сервера.</translation>
     </message>
     <message>
         <source>Consult your network administrator if necessary.</source>
-        <translation>Если нужно проконсультируйтесь с вашим сетевым администратором. </translation>
+        <translation>При необходимости обратитесь к своему сетевому администратору.</translation>
     </message>
     <message>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation>Введите имя пользователя для регистрации на прокси-сервере либо оставьте его пустым, если прокси не требует имени пользователя. </translation>
+        <translation>Введите имя пользователя прокси-сервера или оставьте это поле пустым, если оно не нужно серверу.</translation>
     </message>
     <message>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation>Введите пароль для регистрации на прокси-сервере либо оставьте его пустым, если прокси не требует пароля. </translation>
+        <translation>Введите пароль, соответствующий введенному выше имени пользователя, или оставьте это поле пустым, если он не нужен.</translation>
     </message>
     <message>
         <source>Polling URL:</source>
-        <translation>Опрашиваемый URL:</translation>
+        <translation>URL для поллинга:</translation>
     </message>
 </context>
 <context>
@@ -6518,7 +6538,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;Новый</translation>
+        <translation>&amp;Создать</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
@@ -6526,11 +6546,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Properties</source>
-        <translation>Свойства</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Название:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -6550,7 +6570,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Proxy Profiles</source>
-        <translation>Профили прокси</translation>
+        <translation>Профили Прокси</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -6569,67 +6589,67 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Unable to resolve hostname.</source>
-        <translation type="obsolete">Не може да се пронајде серверот. </translation>
+        <translation type="obsolete">Невозможно определить имя узла.</translation>
     </message>
     <message>
         <source>Connection refused.</source>
-        <translation type="obsolete">Врската е одбиена.</translation>
+        <translation type="obsolete">В соединении отказано.</translation>
     </message>
     <message>
         <source>Connection timeout.</source>
-        <translation type="obsolete">Врската е откажана.</translation>
+        <translation type="obsolete">Время ожидания соединения истекло.</translation>
     </message>
     <message>
         <source>Socket communication error.</source>
-        <translation type="obsolete">Грешка во socket комуникацијата.</translation>
+        <translation type="obsolete">Ошибка при работе с сокетом.</translation>
     </message>
     <message>
         <source>Disconnected.</source>
-        <translation type="obsolete">Исклучен.</translation>
+        <translation type="obsolete">Произошло отключение.</translation>
     </message>
     <message>
         <source>Error during server handshake.</source>
-        <translation type="obsolete">Грешка при ракувањето со серверот.</translation>
+        <translation type="obsolete">Ошибка обмена информацией с сервером.</translation>
     </message>
     <message>
         <source>SSL error: %1</source>
-        <translation type="obsolete">SSL грешка: %1</translation>
+        <translation type="obsolete">Ошибка SSL: %1</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Никакой</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>There was an error communicating with the Jabber server.
 Details: %1</source>
-        <translation>Ошибка связи с Jabber-сервер.
+        <translation>Во время работы с сервером Jabber произошла ошибка.
 Подробности: %1</translation>
     </message>
     <message>
         <source>There was an error authenticating with the Jabber server.
 Details: %1</source>
-        <translation type="obsolete">Имаше грешка при верификацијата со Jabber серверот.
-Детали: %1</translation>
+        <translation type="obsolete">Во время аутентификации сервером Jabber произошла ошибка:
+Подробности: %1</translation>
     </message>
     <message>
         <source>Unable to login.  Ensure your account information is filled out.</source>
-        <translation>Не могу зарегистрироваться на сервере.  Проверьте, правильно ли вы заполнили все поля в учетной записи. </translation>
+        <translation>Не удается войти в сеть. Проверьте правильность ввода регистрационной информации.</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Нужен пароль</translation>
+        <translation>Необходимо ввести пароль</translation>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
-        <translation>Вы должны быть подключены к серверу, чтобы сделать это.</translation>
+        <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
     </message>
     <message>
         <source>%1: Server Authentication</source>
-        <translation>%1: аутентификация на сервере</translation>
+        <translation>%1: Аутентификация сервера</translation>
     </message>
     <message>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation>Сертификат %1 не прошел проверку на аутентичность.</translation>
+        <translation>Сертификат %1 не прошел проверку на достоверность.</translation>
     </message>
     <message>
         <source>Reason: %1</source>
@@ -6637,7 +6657,7 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Details...</source>
-        <translation>&amp;Детали...</translation>
+        <translation>&amp;Подробности...</translation>
     </message>
     <message>
         <source>Co&amp;ntinue</source>
@@ -6645,27 +6665,27 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Введите пароль для %1:</translation>
+        <translation>Пожалуйста, введите пароль для %1:</translation>
     </message>
     <message>
         <source>You have been invited to %1</source>
-        <translation>Вас приглашают в %1</translation>
+        <translation>Вы были приглашены в %1</translation>
     </message>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: пароль OpenPGP</translation>
+        <translation>%1: Ключевая фраза OpenPGP</translation>
     </message>
     <message>
         <source>You entered a bad passphrase.  Please try again.</source>
-        <translation>Пароль введен неверно.  Попробуйте еще раз.</translation>
+        <translation>Вы ввели неправильную ключевую фразу. Попробуйте ещё раз.</translation>
     </message>
     <message>
         <source>There was an error during OpenPGP processing.  Check your settings and try again.</source>
-        <translation>Ошибка при работе с OpenPGP.  Проверьте ваши настройки и попробуйте еще раз.</translation>
+        <translation>Во время обработки OpenPGP произошла ошибка. Проверьте ваши настройки и попробуйте ещё раз.</translation>
     </message>
     <message>
         <source>[This message is encrypted.]</source>
@@ -6673,19 +6693,19 @@ Details: %1</source>
     </message>
     <message>
         <source>The server did not present a certificate.</source>
-        <translation>Сервер не имеет или не выдает сертификата.</translation>
+        <translation>Сервер не предоставил сертификат.</translation>
     </message>
     <message>
         <source>The hostname does not match the one the certificate was issued to.</source>
-        <translation>Имя сервера не соответствует тому, для которого был выдан сертификат.</translation>
+        <translation>Имя сервера не соответствует тому на который был выписан сертификат.</translation>
     </message>
     <message>
         <source>Root CA is marked to reject the specified purpose.</source>
-        <translation>Корневой сертификат помечен, как неприменимый с данной целью.</translation>
+        <translation>Доверенная Сертификационная Служба отвергает этот сертификат.</translation>
     </message>
     <message>
         <source>Certificate not trusted for the required purpose.</source>
-        <translation>Данный сертификат не может использоваться с указанной целью.</translation>
+        <translation>Сертификат не надежен по требуемой причине.</translation>
     </message>
     <message>
         <source>Invalid signature.</source>
@@ -6693,23 +6713,23 @@ Details: %1</source>
     </message>
     <message>
         <source>Invalid CA certificate.</source>
-        <translation>Неправильный корневой сертификат.</translation>
+        <translation>Неправильный сертификат Сертификационной Службы.</translation>
     </message>
     <message>
         <source>Invalid certificate purpose.</source>
-        <translation>Неправильное назначение сертификата.</translation>
+        <translation>Неправильное предназначение сертификата.</translation>
     </message>
     <message>
         <source>Certificate is self-signed.</source>
-        <translation>Сертификат подписан самим собой.</translation>
+        <translation>Сертификат подписан самой стороной.</translation>
     </message>
     <message>
         <source>Certificate has been revoked.</source>
-        <translation>Сертификат отозван.</translation>
+        <translation>Сертификат был отменен.</translation>
     </message>
     <message>
         <source>Maximum certificate chain length exceeded.</source>
-        <translation>Максимально допустимая длина цепочки сертификатов превышена.</translation>
+        <translation>Превышена максимальная длина цепи сертификата.</translation>
     </message>
     <message>
         <source>Certificate has expired.</source>
@@ -6717,23 +6737,25 @@ Details: %1</source>
     </message>
     <message>
         <source>General certificate validation error.</source>
-        <translation>Общая ошибка при проверке сертификата.</translation>
+        <translation>Общяя ошибка проверки сертификата.</translation>
     </message>
     <message>
         <source>No key</source>
-        <translation>Ключ отсутствует</translation>
+        <translation>Нет ключа</translation>
     </message>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Psi не может найти OpenPGP ключ, применяемый для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Это может означать, что у вас нет ключа, соответствующего тому, что предъявляет пользователь, либо пользователь вообще не предъявляет ключей.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Psi не удалось найти ключ OpenPGP для использования с &lt;b&gt;%1&lt;/b&gt;.
+&lt;br&gt;&lt;br&gt;
+Это могло произойти, если у вас нет ключа который контакт указывает в своем &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>Выберите &amp;ключ вручную</translation>
+        <translation>&amp;Выбрать ключ в ручную</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Не делать ничего</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -6745,19 +6767,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Cannot login: SSL is enabled but no SSL/TLS (plugin) support is available.</source>
-        <translation>Не могу подключиться: SSL включен, но нет плагина (расширения), поддерживающего SSL/TLS.</translation>
+        <translation>Невозможно войти: SSL включен, но поддержки SSL/TLS (плагин) нет.</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation>Отключен(а)</translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>XML Parsing Error</source>
-        <translation>Оишибка при разборе XML</translation>
+        <translation>Ошибка парсинга XML</translation>
     </message>
     <message>
         <source>XMPP Protocol Error</source>
-        <translation>Ошибка XMPP-протокола</translation>
+        <translation>Ошибка протокола XMPP</translation>
     </message>
     <message>
         <source>Generic stream error</source>
@@ -6765,11 +6787,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Conflict (remote login replacing this one)</source>
-        <translation>Конфликт (другой клиент подключился к серверу вместо данного)</translation>
+        <translation>Конфликт (удаленное подключение заменило это подключение)</translation>
     </message>
     <message>
         <source>Timed out from inactivity</source>
-        <translation>Тайм-аут по причине неактивности</translation>
+        <translation>Тайм-аут из-за неактивности</translation>
     </message>
     <message>
         <source>Internal server error</source>
@@ -6777,19 +6799,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Invalid XML</source>
-        <translation>Неверный XML</translation>
+        <translation>Неправильный XML</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation>Нарушение политик (правил поведения)</translation>
+        <translation>Нарушение правил</translation>
     </message>
     <message>
         <source>Server out of resources</source>
-        <translation>Ресурси сервера исчерпаны</translation>
+        <translation>Нехватка ресурсов у сервера</translation>
     </message>
     <message>
         <source>Server is shutting down</source>
-        <translation>Сервер останавливается</translation>
+        <translation>Сервер был остановлен</translation>
     </message>
     <message>
         <source>XMPP Stream Error: %1</source>
@@ -6797,7 +6819,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Unable to connect to server</source>
-        <translation>Не могу подключиться к серверу</translation>
+        <translation>Невозможно соединиться с сервером</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -6805,19 +6827,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Error connecting to proxy</source>
-        <translation>Не могу подключиться к прокси-серверу</translation>
+        <translation>Ошибка соединения с прокси</translation>
     </message>
     <message>
         <source>Error during proxy negotiation</source>
-        <translation>Ошибка при переговорах с прокси-сервером</translation>
+        <translation>Ошибка согласования с прокси</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation>Ошибка аутентификации на прокси-сервере</translation>
+        <translation>Аутентификация с прокси не прошла</translation>
     </message>
     <message>
         <source>Socket/stream error</source>
-        <translation>Ошибка сокета/потока</translation>
+        <translation>Ошибка сокета или потока</translation>
     </message>
     <message>
         <source>Connection Error: %1</source>
@@ -6825,15 +6847,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Host no longer hosted</source>
-        <translation>Сервер более не существует</translation>
+        <translation>Сервер больше не обслуживается</translation>
     </message>
     <message>
         <source>Host unknown</source>
-        <translation>Сервер не найден</translation>
+        <translation>Сервер неизвестен</translation>
     </message>
     <message>
         <source>A required remote connection failed</source>
-        <translation>Не удается установить необходимое сетевое соединение</translation>
+        <translation>Необходимое удаленное соединение закрыто вследствие ошибки</translation>
     </message>
     <message>
         <source>See other host: %1</source>
@@ -6841,35 +6863,35 @@ Details: %1</source>
     </message>
     <message>
         <source>Server does not support proper XMPP version</source>
-        <translation>Сервер не поддерржывает требуемую версию XMPP</translation>
+        <translation>Сервер не поддерживает нужную версию XMPP</translation>
     </message>
     <message>
         <source>Stream Negotiation Error: %1</source>
-        <translation>Ошибка при установлении потока: %1</translation>
+        <translation>Ошибка согласования потока: %1</translation>
     </message>
     <message>
         <source>Server rejected STARTTLS</source>
-        <translation>Сервер отказался включать шифрование (STARTTLS)</translation>
+        <translation>Сервер отверг STARTTLS</translation>
     </message>
     <message>
         <source>TLS handshake error</source>
-        <translation>Ошибка в установлении TLS-соединения</translation>
+        <translation>Ошибка TLS handshake</translation>
     </message>
     <message>
         <source>Broken security layer (TLS)</source>
-        <translation>Неработоспособный механизм шифрования (TLS)</translation>
+        <translation>Нарушен слой защиты (TLS)</translation>
     </message>
     <message>
         <source>Unable to login</source>
-        <translation>Не могу зарегистрироваться на сервере</translation>
+        <translation>Невозможно войти</translation>
     </message>
     <message>
         <source>No appropriate mechanism available for given security settings</source>
-        <translation>Отстутствует подходящий механизм для реализации указанных настроек безопасности</translation>
+        <translation>Нет подходящего механизма для выбранных установок безопасности</translation>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>Непонятный ответ сервера</translation>
+        <translation>Неправильный ответ сервера</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -6877,23 +6899,23 @@ Details: %1</source>
     </message>
     <message>
         <source>Encryption required for chosen SASL mechanism</source>
-        <translation>Для выбранного механизма SASL необходимо шифрование</translation>
+        <translation>Шифрование необходимо для выбранного механизма SASL</translation>
     </message>
     <message>
         <source>Invalid account information</source>
-        <translation>Неверная информация в учетной записи</translation>
+        <translation>Неправильная информация учетной записи</translation>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
-        <translation>Неверный  механизм SASL</translation>
+        <translation>Неправильный механизм SASL</translation>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>Недопустимая область аутентификации</translation>
+        <translation>Неправильный realm</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
-        <translation>Механизм SASL слишкрм слаб для данной учетной записи</translation>
+        <translation>Механизм SASL слишком слаб для этой учетной записи</translation>
     </message>
     <message>
         <source>Not authorized</source>
@@ -6901,7 +6923,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Temporary auth failure</source>
-        <translation>Временная ошибка авторизации</translation>
+        <translation>Временный сбой аутентификации</translation>
     </message>
     <message>
         <source>Authentication error: %1</source>
@@ -6909,7 +6931,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Broken security layer (SASL)</source>
-        <translation>Неработоспособный механизм безопасности (SASL)</translation>
+        <translation>Нарушен слой защиты (SASL)</translation>
     </message>
     <message>
         <source>%1: Server Error</source>
@@ -6917,7 +6939,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Certificate is valid.</source>
-        <translation>Сертификат годен.</translation>
+        <translation>Сертификат подходит.</translation>
     </message>
     <message>
         <source>Unable to disable the account, as it has pending events.</source>
@@ -6942,79 +6964,79 @@ Do you want to log out ?</source>
     <name>PsiActionList::Private</name>
     <message>
         <source>Common Actions</source>
-        <translation>Действия общего характера</translation>
+        <translation>Общие действия</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation>Просмотр групп</translation>
+        <translation>Показ групп</translation>
     </message>
     <message>
         <source>Toggle visibility of special roster groups</source>
-        <translation>Включает/выключает видимость специальных групп в списке контактов</translation>
+        <translation>Переключает показ групп в списке контактов</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>Показывать отключенных пользователей</translation>
+        <translation>Показывать контакты, отсутствующие в данный момент в сети</translation>
     </message>
     <message>
         <source>Toggles visibility of offline contacts in roster</source>
-        <translation>Включает/выключает видимость отключенных пользователей в списке контактов</translation>
+        <translation>Переключает показ отключенных контактов</translation>
     </message>
     <message>
         <source>Show Away/XA/DnD</source>
-        <translation>Показывать пользователей со статусом &quot;недоступен/нет на месте/не беспокоить&quot;</translation>
+        <translation>Показывать контакты в режимах отсутствия/длительного отсутствия/занятости</translation>
     </message>
     <message>
         <source>Toggles visibility of away/xa/dnd contacts in roster</source>
-        <translation>Включает/выключает видимость пользователей со статусом &quot;нет на месте&quot;/&quot;не беспокоить&quot;</translation>
+        <translation>Переключает показ контактов, которые отсутствуют или заняты</translation>
     </message>
     <message>
         <source>Show Hidden</source>
-        <translation>Показывать скрытых пользователей</translation>
+        <translation>Показывать скрытых</translation>
     </message>
     <message>
         <source>Toggles visibility of hidden contacts in roster</source>
-        <translation>Включает/выключает видимость скрытых пользователей в списке контактов</translation>
+        <translation>Переключает видимость скрытых контактов в списке</translation>
     </message>
     <message>
         <source>Show Agents/Transports</source>
-        <translation>Показывать агентов/протоколы</translation>
+        <translation>Показывать агенты/службы</translation>
     </message>
     <message>
         <source>Toggles visibility of agents/transports in roster</source>
-        <translation>Включает/выключает видимость агентов/протоколов в списке контактов</translation>
+        <translation>Переключает показ агентов/служб в списке контактов</translation>
     </message>
     <message>
         <source>Show Self Contact</source>
-        <translation>Показывать самого себя</translation>
+        <translation>Показывать свой контакт</translation>
     </message>
     <message>
         <source>Toggles visibility of self contact in roster</source>
-        <translation>Включает/выключает видимость вас, как пользователя, в списке контактов</translation>
+        <translation>Переключает показ своего контакта в списке контактов</translation>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation>Показывать контакты</translation>
+        <translation>Показ контактов</translation>
     </message>
     <message>
         <source>&amp;Psi</source>
-        <translation>&amp;Psi</translation>
+        <translation>&amp;Меню</translation>
     </message>
     <message>
         <source>The main Psi button, that provides access to many actions</source>
-        <translation>Главная кнопка Psi, через которую осуществляется доступ к большинству операций и настроек</translation>
+        <translation>Главная кнопка Psi, обеспечивающая доступ ко многим действиям</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>&amp;Статус</translation>
+        <translation>&amp;Режим</translation>
     </message>
     <message>
         <source>Provides a convenient way to change and to get information about current status</source>
-        <translation>Обеспечивает удобный доступ к информации о вашем текущем статусе</translation>
+        <translation>Удобный способ для изменения/просмотра текущего режима</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Специальный элемент, показывающий количество находящихся во входной очереди сообщений</translation>
+        <translation>Показывает число полученных событий</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -7022,7 +7044,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>&amp;Add a contact</source>
-        <translation>&amp;Добавить пользователя</translation>
+        <translation>Добавить &amp;контакт</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -7030,35 +7052,35 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>Обнаружение &amp;сервисов</translation>
+        <translation>&amp;Просмотр служб</translation>
     </message>
     <message>
         <source>ReadMe</source>
-        <translation>ReadMe (Прочитайте этот текст)</translation>
+        <translation>Инструкции</translation>
     </message>
     <message>
         <source>&amp;ReadMe</source>
-        <translation>&amp;ReadMe (Прочитайте этот текст)</translation>
+        <translation>&amp;Инструкции</translation>
     </message>
     <message>
         <source>Show Read Me file</source>
-        <translation>Показать файл ReadMe &quot;Прочитайте этот текст&quot;</translation>
+        <translation>Показать файл с инструкциями</translation>
     </message>
     <message>
         <source>Psi Handbook (Online)</source>
-        <translation type="obsolete">Справочник по Psi (Online)</translation>
+        <translation type="obsolete">Руководство Psi (в сети)</translation>
     </message>
     <message>
         <source>Psi &amp;Handbook (Online)</source>
-        <translation type="obsolete">&amp;Справочник по Psi (Online)</translation>
+        <translation type="obsolete">&amp;Руководство Psi (в сети)</translation>
     </message>
     <message>
         <source>Report a Bug</source>
-        <translation type="obsolete">Сообщить об ошибке в программе</translation>
+        <translation type="obsolete">Сообщить об ошибке</translation>
     </message>
     <message>
         <source>Report a &amp;Bug</source>
-        <translation type="obsolete">Сообщить об &amp;ошибке в программе</translation>
+        <translation type="obsolete">Сообщить об о&amp;шибке</translation>
     </message>
     <message>
         <source>New blank message</source>
@@ -7066,39 +7088,39 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>New &amp;blank message</source>
-        <translation>&amp;Новое пустое сообщение</translation>
+        <translation>Н&amp;овое пустое сообщение</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation>Подключиться к конференции</translation>
+        <translation>Присоединиться к конференции</translation>
     </message>
     <message>
         <source>Join &amp;Groupchat</source>
-        <translation>Подключиться к &amp;конференции</translation>
+        <translation>Присоединиться к кон&amp;ференции</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Настройка учетных записей</translation>
+        <translation>Настройки учетной записи</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Настройка &amp;учетных записей</translation>
+        <translation>Учетные &amp;записи</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Опции</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation>&amp;Опции</translation>
+        <translation>&amp;Настройки</translation>
     </message>
     <message>
         <source>Configure Toolbars</source>
-        <translation>Настройка панелей инструментов</translation>
+        <translation>Настроить панели инструментов</translation>
     </message>
     <message>
         <source>Configure Tool&amp;bars</source>
-        <translation>Настройка панелей &amp;инструментов</translation>
+        <translation>Настроить панели &amp;инструментов</translation>
     </message>
     <message>
         <source>Change Profile</source>
@@ -7106,19 +7128,19 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>&amp;Change profile</source>
-        <translation>Сменить &amp;профиль</translation>
+        <translation>С&amp;менить профиль</translation>
     </message>
     <message>
         <source>Play sounds</source>
-        <translation>Звук</translation>
+        <translation>Проигрывать звуки</translation>
     </message>
     <message>
         <source>Play &amp;sounds</source>
-        <translation>&amp;Звук</translation>
+        <translation>Проигрывать &amp;звук</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Включает/выключает звуковые оповещения</translation>
+        <translation>Переключает звук</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -7130,31 +7152,31 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Quits Psi</source>
-        <translation>Завершает работу с Psi</translation>
+        <translation>Выход из Psi</translation>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>Совет Дня</translation>
+        <translation>Совет дня</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>&amp;Совет Дня</translation>
+        <translation>&amp;Совет дня</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>Просмотреть кое-какие полезные советы</translation>
+        <translation>Просмотр многих полезных советов</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
-        <translation>Менеджер передачи файлов</translation>
+        <translation>Менеджер передачи данных</translation>
     </message>
     <message>
         <source>Trans&amp;fer Manager</source>
-        <translation>Менеджер передачи &amp;файлов</translation>
+        <translation>Менеджер &amp;передачи данных</translation>
     </message>
     <message>
         <source>Opens the Transfer Manager dialog</source>
-        <translation>Открывает окно менеджера передачи файлов</translation>
+        <translation>Открывает диалог менеджера передачи данных</translation>
     </message>
     <message>
         <source>Menu Items</source>
@@ -7162,47 +7184,47 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Set status</source>
-        <translation>Установить статус</translation>
+        <translation>Установить режим</translation>
     </message>
     <message>
         <source>Smaller alternative to the Status Button</source>
-        <translation>Альтернативная кнопка &quot;Статус&quot; меньшего размера</translation>
+        <translation>Меньшая по размерам альтернатива кнопке &quot;Режим&quot;</translation>
     </message>
     <message>
         <source>Changes your global status to &apos;%1&apos;</source>
-        <translation>Меняет ваш глобальный статус на &apos;%1&apos;</translation>
+        <translation>Изменяет ваш режим на &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Подключен(а)</translation>
+        <translation>В сети</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Готов(а) к чату</translation>
+        <translation>Свободен для разговора</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Нет на месте</translation>
+        <translation>Отсутствую</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation>Нет на месте и надолго</translation>
+        <translation>Давно отсутствую</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation>Не беспокоить</translation>
+        <translation>Занят</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Невидим(а)</translation>
+        <translation>Невидимый</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Отключен(а)</translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <source>About</source>
@@ -7214,15 +7236,15 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>О Qt</translation>
+        <translation>О библиотеке Qt</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>О &amp;Qt</translation>
+        <translation>О &amp;библиотеке Qt</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Помощь</translation>
+        <translation>Справка</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
@@ -7265,23 +7287,23 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
-        <translation>Не могу загрузить иконки!  Проверьте правильно ли Psi установлен.</translation>
+        <translation>Невозможно загрузить набор значков! Убедитесь в корректности установки Psi.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
-        <translation>Пожалуйста, прежде отключитесь, чтобы сменить профиль.</translation>
+        <translation>Отключитесь от сервера перед изменением профиля.</translation>
     </message>
     <message>
         <source>I am away from my computer.  Please leave a message.</source>
-        <translation type="obsolete">Меня нет на месте. Оставьте сообщение.</translation>
+        <translation type="obsolete">Я отошел от компьютера. Если хотите, оставьте мне сообщение.</translation>
     </message>
     <message>
         <source>Unable to load the &quot;%1&quot; iconset.</source>
-        <translation type="obsolete">Не може да се вчитаат &quot;%1&quot; иконите.</translation>
+        <translation type="obsolete">Невозможно загрузить набор значков &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Unable to bind to port %1 for DTCP</source>
-        <translation type="obsolete">Не може да се поврзе со портот %1 за DTCP</translation>
+        <translation type="obsolete">Невозможно подключиться к порту %1 для использования DTCP</translation>
     </message>
     <message>
         <source>Unable to bind to port %1 for S5B</source>
@@ -7293,11 +7315,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>The complete iconset update will happen on next Psi start.</source>
-        <translation>Обновление набора иконок произойдет при следующем старте Psi.</translation>
+        <translation>Полное обновление наборов иконок произойдет при следующем запуске Psi.</translation>
     </message>
     <message>
         <source>Unable to bind to port %1 for Data Transfer</source>
-        <translation>Не могу подключиться к порту %1 для передачи данных</translation>
+        <translation>Невозможно открыть порт %1 для передачи данных</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
@@ -7305,7 +7327,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Computer went to sleep</source>
-        <translation>Компьютер собирается засыпать</translation>
+        <translation>Компьютер заснул</translation>
     </message>
 </context>
 <context>
@@ -7316,34 +7338,34 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>There was an error creating the default profile.</source>
-        <translation>Ошибка при создании профиля по умолчанию.</translation>
+        <translation>Произошла ошибка при создании профиля по умолчанию.</translation>
     </message>
 </context>
 <context>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Пользователь подключен</translation>
+        <translation>Контакт вошел в сеть</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Пользователь отключен</translation>
+        <translation>Контакт отключился</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Изменение статуса</translation>
+        <translation>Смена состояния</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Входящее сообщение</translation>
+        <translation>Получено сообщение</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Новый чат</translation>
+        <translation>Сообщение в разговоре</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Заголовок</translation>
+        <translation>Объявление</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -7358,38 +7380,38 @@ Do you want to log out ?</source>
     <name>PsiToolBar</name>
     <message>
         <source>Configure &amp;Toolbar...</source>
-        <translation>Настройка панелей &amp;инструментов...</translation>
+        <translation>Настроить панель &amp;инструментов...</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Auto Status (idle)</source>
-        <translation>Автостатус (неактивен)</translation>
+        <translation>Автоматическая смена режима</translation>
     </message>
     <message>
         <source>Away from desk</source>
-        <translation>Нет на месте</translation>
+        <translation>Отошел от рабочего места</translation>
     </message>
     <message>
         <source>I am away from my desk.  Leave a message.</source>
-        <translation>Меня нет на месте. Оставьте сообщение.</translation>
+        <translation>Я отошел от своего рабочего места. Оставьте мне сообщение.</translation>
     </message>
     <message>
         <source>Showering</source>
-        <translation>Принимаю душ</translation>
+        <translation>В душе</translation>
     </message>
     <message>
         <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation>Я в душе.  Вам придется подождать.</translation>
+        <translation>Я в душе. Вам придется подождать, пока я выйду оттуда.</translation>
     </message>
     <message>
         <source>Eating</source>
-        <translation>Ем</translation>
+        <translation>Кушаю</translation>
     </message>
     <message>
         <source>Out eating.  Mmmm.. food.</source>
-        <translation>Отошел поесть.  Ммм... еду.</translation>
+        <translation>Я ем! Попробуйте сами, это довольно увлекательное занятие :)</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -7397,7 +7419,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Sleep is good.  Zzzzz</source>
-        <translation>Сон нормальный.  Хр-р-р</translation>
+        <translation>Врачи говорят, что надо спать как минимум 5 часов в сутки. Хррр...</translation>
     </message>
     <message>
         <source>Work</source>
@@ -7405,7 +7427,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation>Некогда болтать.  Надо работать.</translation>
+        <translation>Некогда говорить: работа стоит, а сроки поджимают!</translation>
     </message>
     <message>
         <source>Air</source>
@@ -7413,7 +7435,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Stepping out to get some fresh air.</source>
-        <translation>Вышел прогуляться на свежем воздухе.</translation>
+        <translation>Дышу свежим воздухом.</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -7421,23 +7443,23 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Out to a movie.  Is that OK with you?</source>
-        <translation>Пошел в кино.  Может вместе?</translation>
+        <translation>Я ушел в кино. Вы не против?</translation>
     </message>
     <message>
         <source>Secret</source>
-        <translation>Секрет</translation>
+        <translation>Прячусь</translation>
     </message>
     <message>
         <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation>Меня нет на месте и это все, что вам положено знать.</translation>
+        <translation>Я сейчас недоступен. Вот и все.</translation>
     </message>
     <message>
         <source>Out for the night</source>
-        <translation>Дома</translation>
+        <translation>Ночь</translation>
     </message>
     <message>
         <source>Out for the night.</source>
-        <translation>Пошел на ночь домой.</translation>
+        <translation>Ночью меня здесь нет.</translation>
     </message>
     <message>
         <source>Greece</source>
@@ -7445,27 +7467,27 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation>Я очень далеко.  Но однажды я вернусь!</translation>
+        <translation>Я сейчас далеко отсюда. Но когда-нибудь я вернусь!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Грешка</translation>
+        <translation type="obsolete">Ошибка</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Отключен(а)</translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Подключен(а)</translation>
+        <translation>В сети</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Нет на месте</translation>
+        <translation>Отсутствую</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation>Недоступен(а)</translation>
+        <translation>Недоступен</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
@@ -7473,27 +7495,27 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>URL error</source>
-        <translation>Ошибка URL</translation>
+        <translation>Ошибка обработки URL</translation>
     </message>
     <message>
         <source>Unable to open the URL. You have not selected a mailer (see Options).</source>
-        <translation>Не могу открыть URL. Не выбрана почтовая программа (см. Опции).</translation>
+        <translation>Невозможно открыть URL. Вы не выбрали почтовую программу. Проверьте настройки.</translation>
     </message>
     <message>
         <source>Unable to open the URL. You have not selected a browser (see Options).</source>
-        <translation>Не могу открыть URL. Не выбран броузер (см. Опции).</translation>
+        <translation>Невозможно открыть URL. Вы не выбрали браузер. Проверьте настройки.</translation>
     </message>
     <message>
         <source>Unable to open the URL. Ensure that your custom browser/mailer exists (see Options).</source>
-        <translation>Не могу открыть URL. Убедитесь, что выбранный вами  мэйлер или броузер на месте и жив (см. Опции).</translation>
+        <translation>Невозможно открыть URL. Убедитесь в том, что указанные вами браузер и почтовая программа существуют.</translation>
     </message>
     <message>
         <source>Unable to open the URL. Ensure that you have a web browser installed.</source>
-        <translation>Не могу открыть URL. Убедитесь, что в вашей системе установлен веб-броузер.</translation>
+        <translation>Невозможно открыть URL. Убедитесь в том, что в системе установлен бразер.</translation>
     </message>
     <message>
         <source>Unable to open the URL. Ensure that you have KDE installed.</source>
-        <translation>Не могу открыть URL. Убедитесь, что в вашей системе установлено KDE.</translation>
+        <translation>Невозможно открыть URL. Убедитесь в том, что в вашей системе установлена KDE.</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -7505,11 +7527,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Last Status</source>
-        <translation>Последний статус</translation>
+        <translation>Последний использованный режим</translation>
     </message>
     <message>
         <source>Listening to</source>
-        <translation>Слушает</translation>
+        <translation>Получение информации о</translation>
     </message>
     <message>
         <source>Using</source>
@@ -7517,19 +7539,19 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Status Message</source>
-        <translation>Сообщение о статусе</translation>
+        <translation>Сообщение о состоянии</translation>
     </message>
     <message>
         <source>Last Available</source>
-        <translation>Последний раз был(а) доступен(а)</translation>
+        <translation>В последний раз был доступен</translation>
     </message>
     <message>
         <source>Presence Error</source>
-        <translation>Ошибка определения присутствия</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Last Status Message</source>
-        <translation>Последнее сообщение о статусе</translation>
+        <translation>Последнее сообщение о состоянии</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -7537,41 +7559,41 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Show contacts</source>
-        <translation>Показать контакты</translation>
+        <translation>Показ контактов</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 прокси</translation>
+        <translation>%1 Прокси</translation>
     </message>
     <message>
         <source>There were problems loading the images / icon set.
 Be sure you have correctly installed Psi.</source>
-        <translation type="obsolete">Имаше грешка во вчитувањето на сликите / иконите. 
-Провери дали правилно си го инсталирал Psi.</translation>
+        <translation type="obsolete">Во время загрузки изображений/набора иконок произошла ошибка.
+Убедитесь в том, что вы правильно установили Psi.</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Невидим(а)</translation>
+        <translation>Невидимый</translation>
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation></translation>
+        <translation>OpenPGP</translation>
     </message>
     <message>
         <source>Signed</source>
-        <translation>Подписано</translation>
+        <translation>Подписанное</translation>
     </message>
     <message>
         <source>Bad signature</source>
-        <translation>Неправильная подпись</translation>
+        <translation>Плохая подпись</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Оповещатель о событиях</translation>
+        <translation>Новые события</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Готов(а) к чату</translation>
+        <translation>Свободен для разговора</translation>
     </message>
     <message>
         <source>Username</source>
@@ -7579,7 +7601,7 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Псевдоним</translation>
+        <translation>Ник</translation>
     </message>
     <message>
         <source>Password</source>
@@ -7587,7 +7609,7 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>Полное имя</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>First Name</source>
@@ -7599,7 +7621,7 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>E-mail</source>
-        <translation></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Address</source>
@@ -7611,19 +7633,19 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>State</source>
-        <translation>Штат (область)</translation>
+        <translation>Регион</translation>
     </message>
     <message>
         <source>Zipcode</source>
-        <translation>Почтовый код</translation>
+        <translation>Почтовый индекс</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation>Телефон</translation>
+        <translation>Номер телефона</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Date</source>
@@ -7631,15 +7653,15 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation>Прочее</translation>
+        <translation>Разное</translation>
     </message>
     <message>
         <source>&lt;unnamed&gt;</source>
-        <translation>&lt;безымянный&gt;</translation>
+        <translation>&lt;без имени&gt;</translation>
     </message>
     <message>
         <source>Unable to open the URL. Ensure that you have GNOME 2 installed.</source>
-        <translation>Не могу открыть URL. Убедитесь, что в вашей системе установлено GNOME 2.</translation>
+        <translation>Невозможно открыть URL. Убедитесь, что у вас установлен GNOME 2.</translation>
     </message>
     <message>
         <source>Contact becomes Available</source>
@@ -7678,7 +7700,7 @@ Be sure you have correctly installed Psi.</source>
     <name>QXml</name>
     <message>
         <source>no error occurred</source>
-        <translation>ошибок не обнаружено</translation>
+        <translation>никакой ошибки не случилось</translation>
     </message>
     <message>
         <source>error triggered by consumer</source>
@@ -7734,15 +7756,15 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>letter is expected</source>
-        <translation></translation>
+        <translation>ожидается буква</translation>
     </message>
     <message>
         <source>error occurred while parsing comment</source>
-        <translation></translation>
+        <translation>ошибка при парсинге комментария</translation>
     </message>
     <message>
         <source>error occurred while parsing reference</source>
-        <translation></translation>
+        <translation>ошибка при парсинге ссылки</translation>
     </message>
     <message>
         <source>internal general entity reference not allowed in DTD</source>
@@ -7773,7 +7795,7 @@ Be sure you have correctly installed Psi.</source>
     <name>RegistrationDlg</name>
     <message>
         <source>&amp;Register</source>
-        <translation>За&amp;регистрировать</translation>
+        <translation>За&amp;регистрироваться</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -7781,7 +7803,7 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>Success</source>
-        <translation>Успех</translation>
+        <translation>Регистрация завершена</translation>
     </message>
     <message>
         <source>Registration: %1</source>
@@ -7789,11 +7811,11 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>Busy</source>
-        <translation>Занято</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Регистрация уже выполнена. Закрытие окна не отменит регистрацию.  Вы, уверены тем не менее, что хотите закрыть окно?&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Регистрационная информация уже отправлена, поэтому закрытие этого окна ни к чему не приведет. Закрыть его?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -7805,7 +7827,7 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
-        <translation>Загружаю форму для регистрации %1 ...</translation>
+        <translation>Загрузка регистрационной формы для %1...</translation>
     </message>
     <message>
         <source>&lt;b&gt;Registration for &quot;%1&quot;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
@@ -7813,7 +7835,7 @@ Be sure you have correctly installed Psi.</source>
     </message>
     <message>
         <source>Registration successful.</source>
-        <translation>Регистрация завершилась успешно.</translation>
+        <translation>Регистрация была успешно завершена.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7822,13 +7844,13 @@ Be sure you have correctly installed Psi.</source>
     <message>
         <source>Unable to retrieve registration form.
 Reason: %1</source>
-        <translation>Ошибка при загрузке регистрационной формы.
+        <translation>Невозможно загрузить регистрационную форму.
 Причина: %1</translation>
     </message>
     <message>
         <source>Error submitting registration form.
 Reason: %1</source>
-        <translation>Ошибка при передаче регистрационной формы.
+        <translation>Ошибка отправки регистрационных данных.
 Причина: %1</translation>
     </message>
 </context>
@@ -7840,15 +7862,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Organizational unit:</source>
-        <translation>Организационная единица:</translation>
+        <translation>Подразделение:</translation>
     </message>
     <message>
         <source>Locality:</source>
-        <translation>Локаль (язык):</translation>
+        <translation>Местонахождение:</translation>
     </message>
     <message>
         <source>State:</source>
-        <translation>Штат (область):</translation>
+        <translation>Штат:</translation>
     </message>
     <message>
         <source>Country:</source>
@@ -7856,7 +7878,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Common name:</source>
-        <translation>Имя или название:</translation>
+        <translation>Общее имя:</translation>
     </message>
     <message>
         <source>Email:</source>
@@ -7864,23 +7886,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>SSL Cert</source>
-        <translation type="obsolete">SSL сертификат</translation>
+        <translation type="obsolete">Сертификат SSL</translation>
     </message>
     <message>
         <source>Subject Details:</source>
-        <translation>Подробности о владельце сертификата:</translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <source>Issuer Details:</source>
-        <translation>Подробности об издателе сертификата:</translation>
+        <translation>Выпущен:</translation>
     </message>
     <message>
         <source>The certificate is valid.</source>
-        <translation>Сертификат годен.</translation>
+        <translation>Сертификат подходит.</translation>
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Сертификат не годен!</translation>
+        <translation>Сертификат НЕ подходит.</translation>
     </message>
 </context>
 <context>
@@ -7895,11 +7917,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Valid From:</source>
-        <translation>Годен начиная с:</translation>
+        <translation>Действителен от:</translation>
     </message>
     <message>
         <source>Valid Until:</source>
-        <translation>Годен до:</translation>
+        <translation>Действителен до:</translation>
     </message>
     <message>
         <source>Serial Number:</source>
@@ -7918,7 +7940,7 @@ Reason: %1</source>
     <name>SearchDlg</name>
     <message>
         <source>Search: %1</source>
-        <translation type="obsolete">Барај: %1</translation>
+        <translation type="obsolete">Поиск: %1</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7926,7 +7948,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Загружаю форму поиска для %1 ...&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Загрузка формы поиска для %1...&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Search Results</source>
@@ -7934,31 +7956,31 @@ Reason: %1</source>
     </message>
     <message>
         <source>Search returned 0 results.</source>
-        <translation>Найдено: 0.</translation>
+        <translation>Совпадений не обнаружено.</translation>
     </message>
     <message>
         <source>Unable to retrieve search form.
 Reason: %1</source>
-        <translation>Ошибка при загрузке формы поиска.
+        <translation>Невозможно загрузить форму поиска.
 Причина: %1</translation>
     </message>
     <message>
         <source>Error retrieving search results.
 Reason: %1</source>
-        <translation>Ошибка при получении результатов поиска.
+        <translation>Ошибка загрузки результатов поиска.
 Причина: %1</translation>
     </message>
     <message>
         <source>Add User: Success</source>
-        <translation>Добавление пользователя прошло успешно</translation>
+        <translation>Добавление пользователя: завершено</translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
-        <translation>%1 добавлен(а) в ваш список контактов.</translation>
+        <translation>В ваш список добавлен пользователь %1.</translation>
     </message>
     <message>
         <source>Added %1 users to your roster.</source>
-        <translation>%1 пользователей добавлено в ваш список контактов.</translation>
+        <translation>В ваш список добавлено %1 пользователей.</translation>
     </message>
 </context>
 <context>
@@ -7969,19 +7991,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Search Fields</source>
-        <translation>Данные для поиска</translation>
+        <translation>Критерии поиска</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation>&amp;Искать</translation>
+        <translation>&amp;Найти</translation>
     </message>
     <message>
         <source>St&amp;op</source>
-        <translation type="obsolete">Ст&amp;оп</translation>
+        <translation type="obsolete">&amp;Стоп</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Псевдоним</translation>
+        <translation>Ник</translation>
     </message>
     <message>
         <source>First Name</source>
@@ -7993,7 +8015,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>E-Mail Address</source>
-        <translation>Адрес E-mail</translation>
+        <translation>Адрес электронной почты</translation>
     </message>
     <message>
         <source>Jabber ID</source>
@@ -8001,11 +8023,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Add Contact</source>
-        <translation>&amp;Добавить в список контактов</translation>
+        <translation>&amp;Добавить контакт</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;Информация о пользователе</translation>
+        <translation>Данные о &amp;пользователе</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -8013,7 +8035,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Instructions go here.</source>
-        <translation>Здесь должны бать инструкции.</translation>
+        <translation>Здесь будут инструкции.</translation>
     </message>
     <message>
         <source>form</source>
@@ -8033,7 +8055,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation>Сто&amp;п</translation>
+        <translation>&amp;Стоп</translation>
     </message>
     <message>
         <source>psi/stop</source>
@@ -8063,7 +8085,7 @@ Reason: %1</source>
     <name>ServicesDlg</name>
     <message>
         <source>Manage Services</source>
-        <translation type="obsolete">Управление сервисами</translation>
+        <translation type="obsolete">Работа со службами</translation>
     </message>
     <message>
         <source>Error</source>
@@ -8072,7 +8094,7 @@ Reason: %1</source>
     <message>
         <source>There was an error browsing the service list.
 Reason: %1</source>
-        <translation type="obsolete">Ошибка при просмотре списка сервисов.
+        <translation type="obsolete">Во время просмотра списка служб произошла ошибка.
 Причина: %1</translation>
     </message>
 </context>
@@ -8084,11 +8106,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Server to browse:</source>
-        <translation type="obsolete">Сервер:</translation>
+        <translation type="obsolete">Обзор сервера:</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
-        <translation type="obsolete">&amp;Просмотр</translation>
+        <translation type="obsolete">&amp;Просмотреть</translation>
     </message>
     <message>
         <source>&amp;Register</source>
@@ -8096,11 +8118,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation type="obsolete">&amp;Поиск</translation>
+        <translation type="obsolete">&amp;Найти</translation>
     </message>
     <message>
         <source>&amp;Join</source>
-        <translation type="obsolete">&amp;Присоединиться</translation>
+        <translation type="obsolete">П&amp;рисоединиться</translation>
     </message>
     <message>
         <source>busywidget</source>
@@ -8115,33 +8137,33 @@ Reason: %1</source>
     <name>ShowTextDlg</name>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Oк</translation>
+        <translation>&amp;ОК</translation>
     </message>
 </context>
 <context>
     <name>SpacerAction</name>
     <message>
         <source>&lt;Spacer&gt;</source>
-        <translation>&lt;Пробел&gt;</translation>
+        <translation>&lt;Пружинка&gt;</translation>
     </message>
     <message>
         <source>Spacer provides spacing to separate actions</source>
-        <translation>Вставляет пробел для разделения действий</translation>
+        <translation>Раздвигает соседние действия</translation>
     </message>
 </context>
 <context>
     <name>StatusSetDlg</name>
     <message>
         <source>Status:</source>
-        <translation>Статус:</translation>
+        <translation>Режим:</translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation>Шаблон:</translation>
+        <translation>Сообщение:</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Пусто&gt;</translation>
+        <translation>&lt;Нет&gt;</translation>
     </message>
     <message>
         <source>&amp;Set</source>
@@ -8149,15 +8171,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Set Status: All accounts</source>
-        <translation>Установить статус: все учетные записи</translation>
+        <translation>Установление режима: для всех учетных записей</translation>
     </message>
     <message>
         <source>Set Status: %1</source>
-        <translation>Установить статус: %1</translation>
+        <translation>Установление режима: %1</translation>
     </message>
     <message>
         <source>Sa&amp;ve as Preset</source>
@@ -8165,11 +8187,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>New Status Preset</source>
-        <translation>Новый шаблон статуса</translation>
+        <translation>Новый шаблон режима</translation>
     </message>
     <message>
         <source>Please enter a name for the new status preset:</source>
-        <translation>Введите название нового шаблона:</translation>
+        <translation>Введите название для нового шаблона:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -8177,11 +8199,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Can&apos;t create a blank preset!</source>
-        <translation>Новый шаблон не может быть безымянным!</translation>
+        <translation>Невозможно создать пустой шаблон!</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation>Шаблон статуса с таким именем уже существует!</translation>
+        <translation>Шаблон с таким именем уже существует!</translation>
     </message>
 </context>
 <context>
@@ -8192,22 +8214,22 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status for %1</source>
-        <translation>Статус %1</translation>
+        <translation>Режим %1</translation>
     </message>
 </context>
 <context>
     <name>TabDlg</name>
     <message>
         <source>Detach Current Tab</source>
-        <translation>Отцепить эту закладку</translation>
+        <translation>Отделить текущий таб</translation>
     </message>
     <message>
         <source>Close Current Tab</source>
-        <translation>Закрыть эту закладку</translation>
+        <translation>Закрыть текущий таб</translation>
     </message>
     <message>
         <source>Sent Current Tab to</source>
-        <translation>Отправить эту закладку в</translation>
+        <translation>Послать текущий таб в</translation>
     </message>
 </context>
 <context>
@@ -8222,15 +8244,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Показывать советы при старте</translation>
+        <translation>Показывать советы при запуске</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Предыдущий</translation>
+        <translation>&amp;Предыдущее</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation></translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
@@ -8238,11 +8260,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Следующий</translation>
+        <translation>&amp;Следующее</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation></translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
@@ -8254,7 +8276,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -8262,15 +8284,15 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi.affinix.com&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Добрый день! Мы рады, что вы выбрали Psi!
-Надеемся, что вы получите удовольствие от его использования, так же как мы получаем удовольствие от его разработки!
-&lt;br&gt;&lt;br&gt;Если вы хотели бы получить перевод на другой язык, дополнительный набор иконок или новую версию Psi, посетите &lt;a href=&quot;http://psi.affinix.com&quot;&gt;домашнюю страницу Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Если вы подозреваете, что нашли ошибку или просто хотите пообщаться с другими пользователями Psi, посетите &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;форумы по Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Команда разаработчиков Psi&lt;/i&gt;&lt;/div&gt;</translation>
+        <translation>Здравствуйте! Спасибо за то, что установили Psi!
+Надеемся, что вам так же понравится использовать Psi, как нам понравилось его делать!
+&lt;br&gt;&lt;br&gt;Если вы хотите скачать перевод на другой язык, набор иконок или новую версию Psi, посетите &lt;a href=&quot;http://psi.affinix.com&quot;&gt;сайт Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;Если вы думаете, что обнаружили ошибку в программе или просто хотите пообщаться с другими пользователями Psi, посетите &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;форумы Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;команда Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Вы можете выбрать несколько наборов смайликов и назначить им приоритеты, используя диалог &quot;Опции&quot;.</translation>
+        <translation>Вы можете выбрать несколько наборов смайликов и установить приоритеты для них в диалоге настроек.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -8282,14 +8304,14 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Вы можете использовать следующие полезные комбинации клавиш во время чата:&lt;br&gt;
+        <translation>При разговоре вы можете использовать некоторые полезные комбинации клавиш:&lt;br&gt;
 &lt;ul&gt;
-&lt;li&gt;Ctrl+Enter отправляет сообщение&lt;/li&gt;
-&lt;li&gt;Ctrl+M начинает новую строку&lt;/li&gt;
-&lt;li&gt;Ctrl+H открывает историю сообщений&lt;/li&gt;
-&lt;li&gt;Alt+S отправляет сообщение&lt;/li&gt;
-&lt;li&gt;Ctrl+U очищает поле ввода&lt;/li&gt;
-&lt;li&gt;Ctrl+PgUp/PgDn листают окно чата вверх/вниз&lt;/li&gt;
+&lt;li&gt;Ctrl+Enter - послать сообщение&lt;/li&gt;
+&lt;li&gt;Ctrl+M - перейти на новую строку&lt;/li&gt;
+&lt;li&gt;Ctrl+H - показать историю сообщений&lt;/li&gt;
+&lt;li&gt;Alt+S - послать сообщение&lt;/li&gt;
+&lt;li&gt;Ctrl+U - очистить область ввода&lt;/li&gt;
+&lt;li&gt;Ctrl+PgUp/PgDn - прокрутка окна разговора&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
@@ -8302,14 +8324,14 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>В окне чата или конференции вы можете использовать следующие специальные команды:
+        <translation>Вы можете использовать эти особые команды в диалогах разговоров и конференций:
 &lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; очищает окно&lt;/li&gt;
-&lt;li&gt;&quot;/me&quot; заменяется на ваш псевдоним&lt;/li&gt;
+&lt;li&gt;&quot;/clear&quot; - очистить окно разговора&lt;/li&gt;;
+&lt;li&gt;&quot;/me &amp;lt;сообщение&amp;gt;&quot; - &apos;/me&apos; замещается вашим именем&lt;/li&gt;
 &lt;/ul&gt;
-Следующая команда работает только в конференции:
+А это работает только в конференции:
 &lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;новый_псевдоним&amp;gt;&quot; изменяет ваш псевдоним&lt;/li&gt;
+&lt;li&gt;&quot;/nick &amp;lt;новое_имя&amp;gt;&quot; - изменяет ваше имя в конференции&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
@@ -8330,7 +8352,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>Знаете ли вы, что Psi - один из немогих Jabber-клиентов, которые позволяют подключаться к нескольким серверам одновременно?  Вы можете быть известны среди ваших друзей, как „desperado@jabber.org“, а среди сотрудников вашей компании - под именем „Петро_Петренко@patziuk-invest.com.ua“.</translation>
+        <translation>Знаете ли вы, что Psi - один из немногих Jabber-клиентов, которые позволяют соединяться с несколькими серверами одновременно?  Вы можете использовать &quot;mrcool@jabber.org&quot; для общения с друзьями и &quot;John.J.Smith_the_fourth@mycompany.com&quot; для деловых партнеров.</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -8346,7 +8368,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Щелкнув правой кнопкой мыши на имени сервера в вашем списке контактов, вы можете выполнить много различных действий.  Можете изменить статус, поменять настройки учетной записи, выполнить различные административные задачи (если у вас есть на это право) и т.д.</translation>
+        <translation>Вы можете сделать щелчок правой кнопкой мыши на имя сервера в вашем списке контактов, чтобы проделать некоторые действия, имеющие отношения к учетной записи и серверу.  Вы можете изменять свой режим, изменять установки учетной записи, администрировать сервер (при наличии прав) и т.д.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
@@ -8364,18 +8386,18 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Предоставил(а)</translation>
+        <translation>Совет от</translation>
     </message>
 </context>
 <context>
     <name>ToolbarDlg</name>
     <message>
         <source>Configure Toolbars</source>
-        <translation>Настройка панелей инструментов</translation>
+        <translation>Настроить панели инструментов</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Oк</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -8383,7 +8405,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отменить</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -8393,9 +8415,9 @@ Note: Some server may disable transport registration to users from different ser
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.
 &lt;br&gt;&lt;br&gt;
 If you really-really want to disable all toolbars, you need to edit the config.xml file by hand.</source>
-        <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; панели инструментов &lt;i&gt;и&lt;/i&gt; меню. Если Вы это сделаете, то невозможно будет включить их обратно, когда вы передумаете
+        <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; панели инструментов. Если вы это сделаете, вы не сможете вернуть их назад, если захотите.
 &lt;br&gt;&lt;br&gt;
-Если Вы точно хотите выключить и меню и панели инструментов, Вам необходимо вручную отредактировать файл config.xml.</translation>
+Если вы действительно очень хотите отключить все панели инструментов, это можно сделать ручным редактированием файла config.xml.</translation>
     </message>
     <message>
         <source>I understand</source>
@@ -8405,32 +8427,32 @@ If you really-really want to disable all toolbars, you need to edit the config.x
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.
 &lt;br&gt;&lt;br&gt;
 If you really-really want to disable all toolbars and the menubar, you need to edit the config.xml file by hand.</source>
-        <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; панели инструментов &lt;i&gt;и&lt;/i&gt; меню. Если Вы это сделаете, то невозможно будет включить их обратно, когда вы передумаете
+        <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; панели инструментов &lt;i&gt;и&lt;/i&gt; меню. Если вы это сделаете, то их уже никак нельзя будет включить обратно, если вы передумаете.
 &lt;br&gt;&lt;br&gt;
-Если Вы точно хотите выключить и меню и панели инструментов, Вам необходимо вручную отредактировать файл config.xml.</translation>
+Если вы действительно очень хотите отключить все панели инструментов и меню, то это нужно делать ручной правкой файла config.xml.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>URLLabel</name>
     <message>
         <source>Open mail composer</source>
-        <translation>Открыть редактор почтовых сообщений</translation>
+        <translation>Открыть почтовую программу</translation>
     </message>
     <message>
         <source>Send Jabber message</source>
-        <translation type="obsolete">Испрати Jabber порака</translation>
+        <translation type="obsolete">Отправить Jabber-сообщение</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>Открыть веб-броузер</translation>
+        <translation>Открыть веб-браузер</translation>
     </message>
     <message>
         <source>Copy location</source>
-        <translation>Копировать адрес</translation>
+        <translation>Скопировать адрес</translation>
     </message>
     <message>
         <source>Add to Roster</source>
@@ -8441,19 +8463,19 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
-        <translation>ОШИБКА: Неправильное употребление класса Features </translation>
+        <translation>ОШИБКА: Неправильное использование класса Features</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Пусто</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation>Зарегистрировать</translation>
+        <translation>Зарегистрироваться</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Искать</translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>Groupchat</source>
@@ -8465,11 +8487,11 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Обнаружение сервисов</translation>
+        <translation>Просмотр служб</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation></translation>
+        <translation>Информация о пользователе</translation>
     </message>
     <message>
         <source>Add to roster</source>
@@ -8487,7 +8509,7 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     <name>XmlConsole</name>
     <message>
         <source>Enable</source>
-        <translation>Активировать</translation>
+        <translation>Использовать</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -8495,7 +8517,7 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>&amp;XML Input...</source>
-        <translation>Ввод &amp;XML...</translation>
+        <translation>&amp;Ввод XML...</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -8514,7 +8536,7 @@ If you really-really want to disable all toolbars and the menubar, you need to e
     </message>
     <message>
         <source>&amp;Transmit</source>
-        <translation>&amp;Послать</translation>
+        <translation>&amp;Передать</translation>
     </message>
     <message>
         <source>&amp;Close</source>
