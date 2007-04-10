@@ -8,7 +8,7 @@ require 'rio'
 require 'rexml/document'
 
 class Message
-  attr_accessor :source, :translation, :comment
+  attr_accessor :source, :translation, :comment, :location_file, :location_line
   attr_accessor :type
   
   def initialize(root)
@@ -16,11 +16,15 @@ class Message
     @translation = root.elements["translation"].get_text
     @comment = root.elements["comment"]
     @comment = @comment.get_text if @comment
+    location = root.elements["location"]
+    @location_file = location.attributes["filename"] if location
+    @location_line = location.attributes["line"] if location
     @type = root.elements["translation"].attributes["type"]
   end
   
   def to_s
     "    <message>\n" +
+    (@location_file.nil? ? '' : "        <location filename=\"#@location_file\" line=\"#@location_line\"/>\n") +
     "        <source>#@source</source>\n" +
     (@comment.nil? ? '' : "        <comment>#@comment</comment>\n") +
     "        <translation#{@type ? " type=\"#@type\"" : ''}>#@translation</translation>\n" +
@@ -62,7 +66,8 @@ class TS
   end
 
   def to_s
-    "<!DOCTYPE TS><TS>\n" +
+    "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" +
+    "<!DOCTYPE TS><TS version=\"1.1\" language=\"ru_RU\">\n" +
     @contexts.map { |e| e.to_s }.join("\n") + "\n" +
     "</TS>\n"
   end
