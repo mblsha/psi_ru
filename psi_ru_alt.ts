@@ -215,7 +215,7 @@ Join the translation team today! Go to &lt;a href=&quot;http://psi-im.org/forum/
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
 &lt;br&gt;
-zet&lt;br&gt;
+Владимир Шелухин&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
 &lt;br&gt;
 Олег Мотиенко&lt;br&gt;
