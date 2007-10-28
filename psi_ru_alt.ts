@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS><TS version="1.1" language="ru">
+<defaultcodec></defaultcodec>
 <context>
     <name>@default</name>
     <message>
@@ -210,13 +211,26 @@ Copyright (C) 2001 - 2006 by Justin Karneges&lt;br&gt;
 &lt;note text=&quot;and translate following text&quot;&gt;
 Join the translation team today! Go to &lt;a href=&quot;http://psi-im.org/forum/forum/3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; for further details!
 </source>
-        <translation>Михаил Пищагин&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;
+        <translation type="unfinished">zet&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
+&lt;br&gt;
+Олег Мотиенко&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
+&lt;br&gt;
+Михаил Пищагин&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
+&lt;br&gt;
+Михаил Якшин&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
 &lt;br&gt;
 Антон Фарыгин (ALT Linux) &lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
+&lt;br&gt;
 Валентина Ванеева (ALT Linux Team)&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
