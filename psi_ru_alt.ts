@@ -130,7 +130,7 @@
     <message>
         <location filename="src/aboutdlg.cpp" line="78"/>
         <source>Original Mac Port</source>
-        <translation>Портирование на Mac OS</translation>
+        <translation>Портирование на Mac OS X</translation>
     </message>
     <message>
         <location filename="src/aboutdlg.cpp" line="47"/>
@@ -211,7 +211,11 @@ Copyright (C) 2001 - 2006 by Justin Karneges&lt;br&gt;
 &lt;note text=&quot;and translate following text&quot;&gt;
 Join the translation team today! Go to &lt;a href=&quot;http://psi-im.org/forum/forum/3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; for further details!
 </source>
-        <translation type="unfinished">zet&lt;br&gt;
+        <translation>Антон Фарыгин (ALT Linux) &lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
+&lt;br&gt;
+zet&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
 &lt;br&gt;
 Олег Мотиенко&lt;br&gt;
@@ -221,17 +225,16 @@ Join the translation team today! Go to &lt;a href=&quot;http://psi-im.org/forum/
 &lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
 &lt;br&gt;
+Михаил Якшин (ALT Linux)&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
+&lt;br&gt;
 Михаил Пищагин&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
 &lt;br&gt;
-Михаил Якшин&lt;br&gt;
+Алексей Нежданов&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
 &lt;br&gt;
-Антон Фарыгин (ALT Linux) &lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
-&lt;br&gt;
-Валентина Ванеева (ALT Linux Team)&lt;br&gt;
+Валентина Ванеева (ALT Linux)&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;
 &lt;br&gt;
@@ -240,8 +243,7 @@ Join the translation team today! Go to &lt;a href=&quot;http://psi-im.org/forum/
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;
 &lt;br&gt;
-
-Присоединяйся к команде перевода! Подробности на &lt;a href=&quot;http://psi.affinix.com/forums/viewforum.php?f=3&quot;&gt;http://psi.affinix.com/forums/viewforum.php?f=3&lt;/a&gt; .</translation>
+Присоединяйся к команде перевода!</translation>
     </message>
     <message>
         <location filename="src/aboutdlg.cpp" line="56"/>
@@ -10973,7 +10975,7 @@ or type in your own. Else leave the field empty.</source>
     <message>
         <location filename="src/xmlconsole.ui" line="137"/>
         <source>XML Input...</source>
-        <translation>Входной поток XML...</translation>
+        <translation>Ввод XML...</translation>
     </message>
     <message>
         <location filename="src/xmlconsole.ui" line="144"/>
@@ -11133,7 +11135,7 @@ or type in your own. Else leave the field empty.</source>
     <message>
         <location filename="src/xmlconsole.cpp" line="160"/>
         <source>XML Input</source>
-        <translation>Входной поток XML</translation>
+        <translation>Ввод XML</translation>
     </message>
     <message>
         <location filename="src/xmlconsole.cpp" line="171"/>
