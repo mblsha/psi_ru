@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby -w
+# Qt Linguist patcher by Michail Pishchagin
 
 require 'rubygems'
 require 'optparse'
