@@ -75,6 +75,7 @@ public
           next if ts_message.nil?
           
           ts_message.translation = message.translation if message.translation.not_nil?
+          ts_message.numerusform = message.numerusform if message.numerusform.not_nil?
         end
       end
     end

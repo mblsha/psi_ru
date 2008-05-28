@@ -36,6 +36,10 @@ class Message
     "        </translation>\n") +
     "    </message>"
   end
+
+  def obsolete?
+    @type == "obsolete"
+  end
 end
 
 class Context
@@ -49,7 +53,13 @@ class Context
       @messages << Message.new(message)
     end
   end
-  
+
+  def remove_obsolete!
+    @messages.delete_if do |m|
+      m.obsolete?
+    end
+  end
+
   def to_s
     "<context>\n" +
     "    <name>#@name</name>\n" +
@@ -68,6 +78,13 @@ class TS
 
     root.elements.each("context") do |context|
       @contexts << Context.new(context)
+    end
+  end
+
+  def remove_obsolete!
+    @contexts.delete_if do |c|
+      c.remove_obsolete!
+      c.messages.empty?
     end
   end
 
