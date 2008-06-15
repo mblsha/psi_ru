@@ -7,7 +7,7 @@ require 'rubygems'
 require 'optparse'
 require 'ostruct'
 require 'rio'
-# require 'extensions/all'
+require 'extensions/all'
 
 class Worker
 private
