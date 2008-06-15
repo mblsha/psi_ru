@@ -21,12 +21,12 @@
     <message>
         <location filename="src/psicon.cpp" line="226"/>
         <source>Register new account</source>
-        <translation type="obsolete">Зарегистрировать новую учетную запись</translation>
+        <translation type="obsolete">Зарегистрировать новую</translation>
     </message>
     <message>
         <location filename="src/psicon.cpp" line="227"/>
         <source>Use existing account</source>
-        <translation type="obsolete">Использовать существующую учетную запись</translation>
+        <translation type="obsolete">Использовать существующую</translation>
     </message>
 </context>
 <context>
@@ -246,7 +246,7 @@ Join the translation team today! Go to &lt;a href=&quot;http://psi-im.org/forum/
 &lt;br&gt;
 Copyright © 2001-2008 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Многоплатформенный Jabber клиент, разработанный для профессионального применения.&lt;br&gt;(new line)&lt;br&gt;(new line)Copyright © 2001-2008 The Psi Team.&lt;br&gt;(new line)</translation>
+        <translation>Многоплатформенный Jabber клиент, разработанный для профессионального применения.&lt;br&gt;&lt;br&gt;Copyright © 2001-2008 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/aboutdlg.cpp" line="57"/>
@@ -2032,7 +2032,7 @@ Proceed?</source>
     <message>
         <location filename="src/contactview.cpp" line="945"/>
         <source>Mood</source>
-        <translation>Тональность</translation>
+        <translation>Настроение</translation>
     </message>
     <message>
         <location filename="src/contactview.cpp" line="951"/>
@@ -5328,7 +5328,7 @@ Details: %1</source>
     <message>
         <location filename="src/mood.ui" line="16"/>
         <source>Set Mood</source>
-        <translation>Установить тональность</translation>
+        <translation>Установить настроение</translation>
     </message>
     <message>
         <location filename="src/mood.ui" line="39"/>
@@ -8859,12 +8859,12 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="src/psicon.cpp" line="1435"/>
         <source>Register new account</source>
-        <translation>Зарегистрировать новую учетную запись</translation>
+        <translation>Зарегистрировать новую</translation>
     </message>
     <message>
         <location filename="src/psicon.cpp" line="1436"/>
         <source>Use existing account</source>
-        <translation>Использовать существующую учетную запись</translation>
+        <translation>Использовать существующую</translation>
     </message>
     <message>
         <location filename="src/psicon.cpp" line="1095"/>
