@@ -9,6 +9,24 @@ require 'ostruct'
 require 'rio'
 require 'extensions/all'
 
+class String
+  def simplify
+    self.gsub(/\n/, ' ').gsub(/[\s]+/, ' ').lstrip.rstrip
+  end
+end
+
+def compare_strings(str1, str2, do_simplify)
+  return true if str1.nil? and str2.nil?
+  return false if str1.nil?
+  return false if str2.nil?
+
+  if do_simplify
+    return str1.simplify == str2.simplify
+  else
+    return str1 == str2
+  end
+end
+
 class Worker
 private
   def initialize(options)
@@ -20,6 +38,7 @@ public
     options = OpenStruct.new
     options.output = ?-
     options.patch_with = nil
+    options.no_whitespace_comparison = false
     
     opts = OptionParser.new do |opts|
       opts.banner += " <ts-file>"
@@ -32,6 +51,11 @@ public
       opts.on("-o", "--output FILE",
               "File to write the output to") do |file|
         options.output = file
+      end
+      
+      opts.on("-w", "--no-whitespace-comparison",
+              "When comparing source / translation strings, don't compare whitespace") do
+        options.no_whitespace_comparison = true
       end
       
       opts.on_tail("-h", "--help", "Show this message") do
@@ -67,12 +91,16 @@ public
     if @options.patch_with
       patch = TS.new(@options.patch_with)
       patch.contexts.each do |context|
-        ts_context = ts.contexts.find { |c| c.name == context.name }
+        ts_context = ts.contexts.find { |c| compare_strings(c.name.to_s, context.name.to_s, @options.no_whitespace_comparison) }
         next if ts_context.nil?
         
         context.messages.each do |message|
-          ts_message = ts_context.messages.find { |c| c.source == message.source }
+          ts_message = ts_context.messages.find { |c| compare_strings(c.source.to_s, message.source.to_s, @options.no_whitespace_comparison) }
           next if ts_message.nil?
+          
+          if @options.no_whitespace_comparison
+            next if compare_strings(ts_message.translation.to_s, message.translation.to_s, true)
+          end
           
           ts_message.translation = message.translation if message.translation.not_nil?
           ts_message.numerusform = message.numerusform if message.numerusform.not_nil?
